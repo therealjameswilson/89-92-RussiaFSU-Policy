@@ -1,0 +1,1401 @@
+{
+  "generatedAt": "2026-05-21T14:44:27.954Z",
+  "seedBatch": "scowcroft-nara-documents-2026-05-21",
+  "sourceCollection": {
+    "title": "Brent Scowcroft Papers",
+    "naid": "4522156",
+    "url": "https://catalog.archives.gov/id/4522156"
+  },
+  "method": [
+    "Started from the prior essential NARA harvest of 231 online Scowcroft records.",
+    "Downloaded high-value Scowcroft NARA PDFs from the USSR Collapse Files and Special Separate USSR Notes Files.",
+    "Ran OCR against the May 1989 folder and sampled first ten pages of additional high-value folders to extract withdrawal-sheet document lists and readable opening pages.",
+    "Promoted specific document-level candidates into the Volume IV chronology while preserving file-unit NAID, local identifier, document number, page evidence, and PDF URL."
+  ],
+  "folderNotes": {
+    "366551738": "OCR sampled first ten pages; withdrawal sheets identify January-April 1989 Soviet-policy memoranda and several opening pages were OCR-readable.",
+    "366551739": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material.",
+    "366551745": "OCR sampled first ten pages; withdrawal sheets identify post-Malta and Future of Europe speech reaction material.",
+    "366551748": "OCR sampled first ten pages; withdrawal sheets and open pages identify Lithuania/Baltic meeting briefs, Landsbergis/Prunskiene material, and military-to-military contacts.",
+    "366551759": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda.",
+    "366551761": "OCR sampled first ten pages; withdrawal sheets and open pages identify Scowcroft's Coping with Soviet Union's Internal Turmoil memo, Estonia/Ruutel, Matlock, Silayev, CFE/BW, and CCC-credit material.",
+    "366551845": "OCR sampled first ten pages; withdrawal sheets identify Bush-Gorbachev correspondence, Strauss reporting, USSR State Council material, and Yeltsin messages in the Gorbachev sensitive file.",
+    "366551851": "OCR sampled first ten pages; withdrawal sheets and open pages identify Yeltsin/START II/HEU/Nunn-Lugar transition material.",
+    "366551859": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+  },
+  "selectedRecordCount": 71,
+  "skippedAsDuplicateCount": 0,
+  "selectedByYear": {
+    "1989": 23,
+    "1990": 16,
+    "1991": 26,
+    "1992": 5,
+    "1993": 1
+  },
+  "selectedByFolder": {
+    "91117-001 USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)": 9,
+    "91117-002 USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)": 12,
+    "91117-008 USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1989)": 2,
+    "91118-002 USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1]": 5,
+    "91119-003 USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)": 11,
+    "91119-005 USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991)": 7,
+    "91131-009 Soviet Coup/Aftermath": 10,
+    "91130-003 Gorbachev -Sensitive July-December 1991 [1]": 9,
+    "91131-001 Yeltsin (January-December) 1992 [1]": 6
+  },
+  "selectedDocuments": [
+    {
+      "id": "scowcroft-doc-1989-01-30-blackwill-to-scowcroft-secretary-baker-s-letter-to-shevardnadze-366551738-01a",
+      "date": "1989-01-30",
+      "dateLine": "January 30, 1989",
+      "type": "Policy Memorandum",
+      "title": "Blackwill to Scowcroft, Secretary Baker's Letter to Shevardnadze",
+      "folderNaid": "366551738",
+      "localIdentifier": "91117-001",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 5-9",
+      "topics": [
+        "Baker-Shevardnadze",
+        "U.S.-Soviet agenda",
+        "Policy review",
+        "Blackwill"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551738",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-02-14-rice-to-scowcroft-cable-from-ambassador-matlock-366551738-03a",
+      "date": "1989-02-14",
+      "dateLine": "February 14, 1989",
+      "type": "Policy Memorandum",
+      "title": "Rice to Scowcroft, Cable from Ambassador Matlock",
+      "folderNaid": "366551738",
+      "localIdentifier": "91117-001",
+      "documentNo": "03a",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "topics": [
+        "Rice",
+        "Matlock",
+        "Moscow Embassy",
+        "Policy review"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551738",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-02-16-blackwill-to-scowcroft-work-program-for-nsrs-3-4-and-5-366551738-05",
+      "date": "1989-02-16",
+      "dateLine": "February 16, 1989",
+      "type": "Policy Memorandum",
+      "title": "Blackwill to Scowcroft, Work Program for NSRs 3, 4, and 5",
+      "folderNaid": "366551738",
+      "localIdentifier": "91117-001",
+      "documentNo": "05",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "NSR-3",
+        "NSR-4",
+        "NSR-5",
+        "Policy review",
+        "Europe"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551738",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-02-16-rice-to-scowcroft-meeting-with-ambassador-dubinin-366551738-06a",
+      "date": "1989-02-16",
+      "dateLine": "February 16, 1989",
+      "type": "Policy Memorandum",
+      "title": "Rice to Scowcroft, Meeting with Ambassador Dubinin",
+      "folderNaid": "366551738",
+      "localIdentifier": "91117-001",
+      "documentNo": "06a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Rice",
+        "Scowcroft",
+        "Dubinin",
+        "Soviet Embassy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551738",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-02-27-leach-and-rice-to-scowcroft-handling-the-no-expectations-policy-366551738-07a",
+      "date": "1989-02-27",
+      "dateLine": "February 27, 1989",
+      "type": "Policy Memorandum",
+      "title": "Leach and Rice to Scowcroft, Handling the No-Expectations Policy",
+      "folderNaid": "366551738",
+      "localIdentifier": "91117-001",
+      "documentNo": "07a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "No-expectations policy",
+        "Rice",
+        "Leach",
+        "Soviet strategy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551738",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-03-01-scowcroft-to-bush-getting-ahead-of-gorbachev-366551738-08",
+      "date": "1989-03-01",
+      "dateLine": "March 1, 1989",
+      "type": "Policy Memorandum",
+      "title": "Scowcroft to Bush, Getting Ahead of Gorbachev",
+      "folderNaid": "366551738",
+      "localIdentifier": "91117-001",
+      "documentNo": "08",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Getting Ahead of Gorbachev",
+        "Scowcroft",
+        "Bush",
+        "Soviet strategy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551738",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-03-02-rice-to-scowcroft-your-meeting-with-jack-matlock-366551738-09",
+      "date": "1989-03-02",
+      "dateLine": "March 2, 1989",
+      "type": "Policy Memorandum",
+      "title": "Rice to Scowcroft, Your Meeting with Jack Matlock",
+      "folderNaid": "366551738",
+      "localIdentifier": "91117-001",
+      "documentNo": "09",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Rice",
+        "Matlock",
+        "Moscow Embassy",
+        "Soviet policy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551738",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-04-08-rice-to-scowcroft-president-s-message-to-gorbachev-on-the-mike-class-submarine-accident-366551738-11a",
+      "date": "1989-04-08",
+      "dateLine": "April 8, 1989",
+      "type": "Presidential Message Lead",
+      "title": "Rice to Scowcroft, President's Message to Gorbachev on the Mike-class Submarine Accident",
+      "folderNaid": "366551738",
+      "localIdentifier": "91117-001",
+      "documentNo": "11a",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Bush-Gorbachev correspondence",
+        "Mike-class submarine",
+        "Rice",
+        "Crisis diplomacy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551738",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-04-26-stearman-to-scowcroft-soviets-still-exporting-revolution-in-southern-africa-366551738-12",
+      "date": "1989-04-26",
+      "dateLine": "April 26, 1989",
+      "type": "Policy Memorandum",
+      "title": "Stearman to Scowcroft, Soviets Still Exporting Revolution in Southern Africa",
+      "folderNaid": "366551738",
+      "localIdentifier": "91117-001",
+      "documentNo": "12",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Regional conflicts",
+        "Southern Africa",
+        "Soviet foreign policy",
+        "Stearman"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551738",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-02-hughes-to-scowcroft-b-c-s-breakfast-meeting-366551739-01a",
+      "date": "1989-05-02",
+      "dateLine": "May 2, 1989",
+      "type": "Meeting Package",
+      "title": "Hughes to Scowcroft, B-C-S Breakfast Meeting",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR page 5",
+      "topics": [
+        "Baker-Cheney-Scowcroft",
+        "Moscow ministerial",
+        "Soviet NSD",
+        "Arms control"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-02-rice-to-scowcroft-breakfast-item-secretary-baker-s-trip-to-moscow-366551739-01b",
+      "date": "1989-05-02",
+      "dateLine": "May 2, 1989",
+      "type": "Policy Memorandum",
+      "title": "Rice to Scowcroft, Breakfast Item: Secretary Baker's Trip to Moscow",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "01b",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages around memorandum start",
+      "topics": [
+        "Rice",
+        "Baker Moscow trip",
+        "START",
+        "U.S.-Soviet agenda"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-04-29-brooks-to-scowcroft-arms-control-negotiators-366551739-01c",
+      "date": "1989-04-29",
+      "dateLine": "April 29, 1989",
+      "type": "Policy Memorandum",
+      "title": "Brooks to Scowcroft, Arms Control Negotiators",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "01c",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages around memorandum start",
+      "topics": [
+        "Arms control negotiators",
+        "START",
+        "Brooks",
+        "Policy implementation"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-02-scowcroft-to-bush-military-involvement-in-start-366551739-01d",
+      "date": "1989-05-02",
+      "dateLine": "Undated, filed with May 2, 1989 breakfast package",
+      "type": "Policy Memorandum",
+      "title": "Scowcroft to Bush, Military Involvement in START",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "01d",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages around presidential memorandum",
+      "topics": [
+        "START",
+        "Military representation",
+        "Scowcroft",
+        "Bush"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-01-rice-to-scowcroft-soviet-nsd-366551739-01g",
+      "date": "1989-05-01",
+      "dateLine": "May 1, 1989",
+      "type": "Policy Memorandum",
+      "title": "Rice to Scowcroft, Soviet NSD",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "01g",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages around Soviet NSD memorandum",
+      "topics": [
+        "Rice",
+        "Soviet NSD",
+        "NSD-23",
+        "U.S.-Soviet policy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-01-draft-national-security-directive-on-u-s-soviet-relations-366551739-01h",
+      "date": "1989-05-01",
+      "dateLine": "Undated, filed with May 1, 1989 Rice memorandum",
+      "type": "Directive Draft",
+      "title": "Draft National Security Directive on U.S.-Soviet Relations",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "01h",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages beginning with 'National Security Directive on U.S.-Soviet Relations'",
+      "topics": [
+        "NSD-23",
+        "U.S.-Soviet relations",
+        "Soviet reform",
+        "Arms control",
+        "Economic policy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-02-tobey-to-scowcroft-possible-breakfast-item-gomel-radar-366551739-01i",
+      "date": "1989-05-02",
+      "dateLine": "May 2, 1989",
+      "type": "Policy Memorandum",
+      "title": "Tobey to Scowcroft, Possible Breakfast Item: Gomel Radar",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "01i",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages around memorandum start",
+      "topics": [
+        "Gomel radar",
+        "Soviet compliance",
+        "Arms control",
+        "Tobey"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-03-rodman-to-gates-regional-issues-at-the-moscow-ministerial-366551739-02a",
+      "date": "1989-05-03",
+      "dateLine": "May 3, 1989",
+      "type": "Policy Memorandum",
+      "title": "Rodman to Gates, Regional Issues at the Moscow Ministerial",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "02a",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages around memorandum start",
+      "topics": [
+        "Moscow ministerial",
+        "Regional conflicts",
+        "Rodman",
+        "Gates"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-06-rice-to-scowcroft-president-s-letter-to-gorbachev-366551739-03c",
+      "date": "1989-05-06",
+      "dateLine": "May 6, 1989",
+      "type": "Presidential Message Lead",
+      "title": "Rice to Scowcroft, President's Letter to Gorbachev",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "03c",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages around NSC profile and letter package",
+      "topics": [
+        "Bush-Gorbachev correspondence",
+        "Baker Moscow trip",
+        "Rice",
+        "Presidential message"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-09-blackwill-to-scowcroft-presidential-speeches-related-to-europe-trip-366551739-04a",
+      "date": "1989-05-09",
+      "dateLine": "May 9, 1989",
+      "type": "Policy Memorandum",
+      "title": "Blackwill to Scowcroft, Presidential Speeches Related to Europe Trip",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "04a",
+      "pageEvidence": "Withdrawal sheet page 3; open OCR pages around memorandum start",
+      "topics": [
+        "Presidential speeches",
+        "NATO",
+        "Eastern Europe",
+        "Blackwill",
+        "U.S.-Soviet relations"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-08-brooks-to-scowcroft-open-skies-366551739-04b",
+      "date": "1989-05-08",
+      "dateLine": "May 8, 1989",
+      "type": "Policy Memorandum",
+      "title": "Brooks to Scowcroft, Open Skies",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "04b",
+      "pageEvidence": "Withdrawal sheet page 3; open OCR pages around memorandum start",
+      "topics": [
+        "Open Skies",
+        "NATO",
+        "Soviet Union",
+        "Arms control"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-05-09-scowcroft-to-cheney-u-s-soviet-dangerous-military-activity-agreement-366551739-05a",
+      "date": "1989-05-09",
+      "dateLine": "May 9, 1989",
+      "type": "Policy Memorandum",
+      "title": "Scowcroft to Cheney, U.S.-Soviet Dangerous Military Activity Agreement",
+      "folderNaid": "366551739",
+      "localIdentifier": "91117-002",
+      "documentNo": "05a",
+      "pageEvidence": "Withdrawal sheet page 3; open OCR pages around memorandum start",
+      "topics": [
+        "Dangerous Military Activity Agreement",
+        "Defense policy",
+        "U.S.-Soviet relations"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551739",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-12-05-hutchings-to-scowcroft-european-press-reaction-to-the-future-of-europe-speech-366551745-01a",
+      "date": "1989-12-05",
+      "dateLine": "December 5, 1989",
+      "type": "Policy Memorandum",
+      "title": "Hutchings to Scowcroft, European Press Reaction to the Future of Europe Speech",
+      "folderNaid": "366551745",
+      "localIdentifier": "91117-008",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 5-6",
+      "topics": [
+        "Malta follow-up",
+        "Future of Europe speech",
+        "Germany",
+        "Hutchings"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551745",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-008.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1989-12-06-scowcroft-to-mcclure-talking-points-for-congressional-meeting-366551745-02a",
+      "date": "1989-12-06",
+      "dateLine": "December 6, 1989",
+      "type": "Talking Points Lead",
+      "title": "Scowcroft to McClure, Talking Points for Congressional Meeting",
+      "folderNaid": "366551745",
+      "localIdentifier": "91117-008",
+      "documentNo": "02a",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "topics": [
+        "Malta",
+        "Brussels",
+        "Congressional leadership",
+        "Talking points"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551745",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-008.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-04-10-meeting-with-baltic-american-leaders-366551748-01a",
+      "date": "1990-04-10",
+      "dateLine": "April 10, 1990",
+      "type": "Meeting Brief",
+      "title": "Meeting with Baltic American Leaders",
+      "folderNaid": "366551748",
+      "localIdentifier": "91118-002",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 5-7",
+      "topics": [
+        "Lithuania",
+        "Baltic states",
+        "Quiet diplomacy",
+        "Gorbachev"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551748",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-04-19-hayden-and-rice-to-scowcroft-upcoming-u-s-soviet-military-to-military-contacts-366551748-02",
+      "date": "1990-04-19",
+      "dateLine": "April 19, 1990",
+      "type": "Policy Memorandum",
+      "title": "Hayden and Rice to Scowcroft, Upcoming U.S.-Soviet Military-to-Military Contacts",
+      "folderNaid": "366551748",
+      "localIdentifier": "91118-002",
+      "documentNo": "02",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "topics": [
+        "Military-to-military contacts",
+        "Rice",
+        "Hayden",
+        "U.S.-Soviet relations"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551748",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-04-24-rostow-to-scowcroft-lithuania-and-the-international-court-of-justice-366551748-04",
+      "date": "1990-04-24",
+      "dateLine": "April 24, 1990",
+      "type": "Policy Memorandum",
+      "title": "Rostow to Scowcroft, Lithuania and the International Court of Justice",
+      "folderNaid": "366551748",
+      "localIdentifier": "91118-002",
+      "documentNo": "04",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Lithuania",
+        "International Court of Justice",
+        "Rostow",
+        "Baltic policy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551748",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-04-26-rice-to-scowcroft-letter-to-landsbergis-366551748-07a",
+      "date": "1990-04-26",
+      "dateLine": "April 26, 1990",
+      "type": "Presidential Message Lead",
+      "title": "Rice to Scowcroft, Letter to Landsbergis",
+      "folderNaid": "366551748",
+      "localIdentifier": "91118-002",
+      "documentNo": "07a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Lithuania",
+        "Landsbergis",
+        "Rice",
+        "Presidential message"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551748",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-05-02-hutchings-to-scowcroft-president-s-meeting-with-lithuanian-prime-minister-prunskiene-366551748-08e",
+      "date": "1990-05-02",
+      "dateLine": "May 2, 1990",
+      "type": "Meeting Brief",
+      "title": "Hutchings to Scowcroft, President's Meeting with Lithuanian Prime Minister Prunskiene",
+      "folderNaid": "366551748",
+      "localIdentifier": "91118-002",
+      "documentNo": "08e",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Lithuania",
+        "Prunskiene",
+        "Meeting brief",
+        "Baltic policy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551748",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-002.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-07-baker-to-bush-u-s-economic-support-assistance-for-the-soviet-union-366551759-01",
+      "date": "1990-12-07",
+      "dateLine": "December 7, 1990",
+      "type": "Policy Memorandum",
+      "title": "Baker to Bush, U.S. Economic Support-Assistance for the Soviet Union",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "01",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 6-10",
+      "topics": [
+        "Economic assistance",
+        "Jackson-Vanik",
+        "Food aid",
+        "IMF",
+        "Baker"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-07-gompert-et-al-to-scowcroft-soviet-summit-timing-366551759-02",
+      "date": "1990-12-07",
+      "dateLine": "December 7, 1990",
+      "type": "Policy Memorandum",
+      "title": "Gompert et al. to Scowcroft, Soviet Summit Timing",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "02",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "topics": [
+        "Soviet summit",
+        "Gompert",
+        "Gorbachev",
+        "Economic crisis"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-10-burns-to-scowcroft-your-meeting-with-ukrainian-prime-minister-vitold-fokin-366551759-04a",
+      "date": "1990-12-10",
+      "dateLine": "December 10, 1990",
+      "type": "Meeting Brief",
+      "title": "Burns to Scowcroft, Your Meeting with Ukrainian Prime Minister Vitold Fokin",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "04a",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "topics": [
+        "Ukraine",
+        "Fokin",
+        "Republics policy",
+        "Meeting brief"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-11-meeting-with-soviet-foreign-minister-eduard-shevardnadze-366551759-05a",
+      "date": "1990-12-11",
+      "dateLine": "December 11, 1990",
+      "type": "Meeting Brief",
+      "title": "Meeting with Soviet Foreign Minister Eduard Shevardnadze",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "05a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Shevardnadze",
+        "Gorbachev",
+        "Economic assistance",
+        "Soviet crisis"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-12-burns-to-scowcroft-press-releases-on-economic-assistance-for-the-soviet-union-366551759-06",
+      "date": "1990-12-12",
+      "dateLine": "December 12, 1990",
+      "type": "Policy Memorandum",
+      "title": "Burns to Scowcroft, Press Releases on Economic Assistance for the Soviet Union",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "06",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Economic assistance",
+        "Press guidance",
+        "Burns",
+        "Soviet Union"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-17-rice-and-deal-to-scowcroft-imf-world-bank-report-on-the-soviet-economy-366551759-07",
+      "date": "1990-12-17",
+      "dateLine": "December 17, 1990",
+      "type": "Policy Memorandum",
+      "title": "Rice and Deal to Scowcroft, IMF/World Bank Report on the Soviet Economy",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "07",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "IMF",
+        "World Bank",
+        "Soviet economy",
+        "Rice"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-18-rice-to-gates-senior-small-group-meeting-on-soviet-contingencies-366551759-08a",
+      "date": "1990-12-18",
+      "dateLine": "December 18, 1990",
+      "type": "Contingency Paper",
+      "title": "Rice to Gates, Senior Small Group Meeting on Soviet Contingencies",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "08a",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Soviet contingencies",
+        "Rice",
+        "Gates",
+        "Republics policy",
+        "Crisis planning"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-18-the-soviet-republics-independence-claims-legal-issues-and-u-s-policy-366551759-08b",
+      "date": "1990-12-18",
+      "dateLine": "Undated, filed with December 18, 1990 Senior Small Group material",
+      "type": "Policy Paper",
+      "title": "The Soviet Republics: Independence Claims, Legal Issues and U.S. Policy",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "08b",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Republics policy",
+        "Independence claims",
+        "Legal issues",
+        "Soviet collapse"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-18-what-do-we-do-if-there-s-a-crackdown-366551759-08e",
+      "date": "1990-12-18",
+      "dateLine": "Undated, filed with December 1990 Soviet contingency material",
+      "type": "Contingency Paper",
+      "title": "What Do We Do If There's A Crackdown?",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "08e",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "topics": [
+        "Soviet crackdown",
+        "Contingency planning",
+        "Baltic states",
+        "Republics policy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-21-scowcroft-to-bush-responding-to-the-toughening-line-in-moscow-366551759-10a",
+      "date": "1990-12-21",
+      "dateLine": "December 21, 1990",
+      "type": "Policy Memorandum",
+      "title": "Scowcroft to Bush, Responding to the Toughening Line in Moscow",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "10a",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "topics": [
+        "Hardliners",
+        "Moscow",
+        "Soviet crisis",
+        "Scowcroft"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1990-12-21-rice-to-scowcroft-responding-to-the-toughening-line-in-moscow-366551759-10b",
+      "date": "1990-12-21",
+      "dateLine": "December 21, 1990",
+      "type": "Policy Memorandum",
+      "title": "Rice to Scowcroft, Responding to the Toughening Line in Moscow",
+      "folderNaid": "366551759",
+      "localIdentifier": "91119-003",
+      "documentNo": "10b",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "topics": [
+        "Rice",
+        "Hardliners",
+        "Moscow",
+        "Soviet crisis"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551759",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-03-07-scowcroft-to-bush-coping-with-the-soviet-union-s-internal-turmoil-366551761-01a",
+      "date": "1991-03-07",
+      "dateLine": "March 7, 1991",
+      "type": "Policy Memorandum",
+      "title": "Scowcroft to Bush, Coping with the Soviet Union's Internal Turmoil",
+      "folderNaid": "366551761",
+      "localIdentifier": "91119-005",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 2; NSC profile page 6; open OCR page 10",
+      "topics": [
+        "Soviet turmoil",
+        "Pre-revolutionary state",
+        "Scowcroft",
+        "Gorbachev",
+        "Yeltsin"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551761",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-03-07-rice-to-scowcroft-coping-with-the-soviet-union-s-internal-turmoil-366551761-01b",
+      "date": "1991-03-07",
+      "dateLine": "Undated, filed with March 7, 1991 Scowcroft memorandum",
+      "type": "Policy Memorandum",
+      "title": "Rice to Scowcroft, Coping with the Soviet Union's Internal Turmoil",
+      "folderNaid": "366551761",
+      "localIdentifier": "91119-005",
+      "documentNo": "01b",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "topics": [
+        "Rice",
+        "Soviet turmoil",
+        "Gorbachev",
+        "Yeltsin"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551761",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-04-09-hewett-to-scowcroft-and-gates-highlights-on-the-current-soviet-situation-366551761-03",
+      "date": "1991-04-09",
+      "dateLine": "April 9, 1991",
+      "type": "Policy Memorandum",
+      "title": "Hewett to Scowcroft and Gates, Highlights on the Current Soviet Situation",
+      "folderNaid": "366551761",
+      "localIdentifier": "91119-005",
+      "documentNo": "03",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Hewett",
+        "Current Soviet situation",
+        "Gates",
+        "Republics policy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551761",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-04-19-burns-to-scowcroft-meeting-with-russian-republic-prime-minister-ivan-silayev-366551761-05a",
+      "date": "1991-04-19",
+      "dateLine": "April 19, 1991",
+      "type": "Meeting Brief",
+      "title": "Burns to Scowcroft, Meeting with Russian Republic Prime Minister Ivan Silayev",
+      "folderNaid": "366551761",
+      "localIdentifier": "91119-005",
+      "documentNo": "05a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Russia",
+        "Silayev",
+        "Republics policy",
+        "Meeting brief"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551761",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-04-29-gompert-and-kanter-to-scowcroft-dealing-with-the-soviets-on-cfe-and-bw-366551761-06",
+      "date": "1991-04-29",
+      "dateLine": "April 29, 1991",
+      "type": "Policy Memorandum",
+      "title": "Gompert and Kanter to Scowcroft, Dealing with the Soviets on CFE and BW",
+      "folderNaid": "366551761",
+      "localIdentifier": "91119-005",
+      "documentNo": "06",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "CFE",
+        "Biological weapons",
+        "Gompert",
+        "Kanter",
+        "Arms control"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551761",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-04-30-scowcroft-to-bush-proposed-presidential-letter-to-gorbachev-on-additional-ccc-credits-366551761-07a",
+      "date": "1991-04-30",
+      "dateLine": "April 30, 1991",
+      "type": "Presidential Message Lead",
+      "title": "Scowcroft to Bush, Proposed Presidential Letter to Gorbachev on Additional CCC Credits",
+      "folderNaid": "366551761",
+      "localIdentifier": "91119-005",
+      "documentNo": "07a",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "CCC credits",
+        "Bush-Gorbachev correspondence",
+        "Economic assistance",
+        "Soviet crisis"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551761",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-05-01-gompert-and-kanter-to-scowcroft-response-to-the-soviets-on-cfe-366551761-08a",
+      "date": "1991-05-01",
+      "dateLine": "May 1, 1991",
+      "type": "Policy Memorandum",
+      "title": "Gompert and Kanter to Scowcroft, Response to the Soviets on CFE",
+      "folderNaid": "366551761",
+      "localIdentifier": "91119-005",
+      "documentNo": "08a",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "CFE",
+        "Gompert",
+        "Kanter",
+        "Arms control"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551761",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-28-help-for-the-soviet-union-366551859-01b",
+      "date": "1991-08-28",
+      "dateLine": "August 28, 1991",
+      "type": "Policy Outline",
+      "title": "Help for the Soviet Union",
+      "folderNaid": "366551859",
+      "localIdentifier": "91131-009",
+      "documentNo": "01b",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 8-10",
+      "topics": [
+        "Soviet assistance",
+        "Republics",
+        "Economic reform",
+        "Food aid",
+        "IMF"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551859",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-27-checklist-for-dc-meeting-on-soviet-humanitarian-options-366551859-03",
+      "date": "1991-08-27",
+      "dateLine": "Undated, filed with August 27-28, 1991 coup-aftermath assistance material",
+      "type": "Meeting Checklist",
+      "title": "Checklist for DC Meeting on Soviet Humanitarian Options",
+      "folderNaid": "366551859",
+      "localIdentifier": "91131-009",
+      "documentNo": "03",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "topics": [
+        "Humanitarian assistance",
+        "Deputies Committee",
+        "Soviet coup aftermath",
+        "Food aid"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551859",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-28-guidance-on-economic-assistance-366551859-05",
+      "date": "1991-08-28",
+      "dateLine": "Undated, filed with August 28, 1991 coup-aftermath assistance material",
+      "type": "Policy Guidance",
+      "title": "Guidance on Economic Assistance",
+      "folderNaid": "366551859",
+      "localIdentifier": "91131-009",
+      "documentNo": "05",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "topics": [
+        "Economic assistance",
+        "Soviet coup aftermath",
+        "Republics",
+        "Policy guidance"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551859",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-22-paper-soviet-coup-366551859-12",
+      "date": "1991-08-22",
+      "dateLine": "August 22, 1991",
+      "type": "Policy Paper",
+      "title": "Paper, Soviet Coup",
+      "folderNaid": "366551859",
+      "localIdentifier": "91131-009",
+      "documentNo": "12",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Soviet coup",
+        "Yeltsin",
+        "Gorbachev",
+        "Crisis management"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551859",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-20-memo-for-deputies-working-group-366551859-15b",
+      "date": "1991-08-20",
+      "dateLine": "August 20, 1991",
+      "type": "Deputies Committee Memo",
+      "title": "Memo for Deputies, Working Group",
+      "folderNaid": "366551859",
+      "localIdentifier": "91131-009",
+      "documentNo": "15b",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Soviet coup",
+        "Deputies Committee",
+        "Working group",
+        "Crisis response"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551859",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-20-issues-for-deputies-discussion-and-decision-366551859-15g",
+      "date": "1991-08-20",
+      "dateLine": "Undated, filed with August 20, 1991 Deputies working-group material",
+      "type": "Decision Paper",
+      "title": "Issues for Deputies' Discussion and Decision",
+      "folderNaid": "366551859",
+      "localIdentifier": "91131-009",
+      "documentNo": "15g",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Soviet coup",
+        "Deputies Committee",
+        "Crisis response",
+        "Decision paper"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551859",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-20-gompert-to-scowcroft-statement-366551859-15i",
+      "date": "1991-08-20",
+      "dateLine": "August 20, 1991",
+      "type": "Policy Memorandum",
+      "title": "Gompert to Scowcroft, Statement",
+      "folderNaid": "366551859",
+      "localIdentifier": "91131-009",
+      "documentNo": "15i",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "topics": [
+        "Soviet coup",
+        "Gompert",
+        "Public statement",
+        "Crisis response"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551859",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-19-report-recommendations-366551859-16",
+      "date": "1991-08-19",
+      "dateLine": "August 19, 1991",
+      "type": "Recommendations Paper",
+      "title": "Report, Recommendations",
+      "folderNaid": "366551859",
+      "localIdentifier": "91131-009",
+      "documentNo": "16",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "topics": [
+        "Soviet coup",
+        "Recommendations",
+        "Crisis response",
+        "Yeltsin"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551859",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-19-cable-guidance-366551859-19a",
+      "date": "1991-08-19",
+      "dateLine": "August 19, 1991",
+      "type": "Cable",
+      "title": "Cable, Guidance",
+      "folderNaid": "366551859",
+      "localIdentifier": "91131-009",
+      "documentNo": "19a",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "topics": [
+        "Soviet coup",
+        "Guidance cable",
+        "Crisis response"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551859",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-19-yanayev-to-bush-unofficial-translation-366551859-22",
+      "date": "1991-08-19",
+      "dateLine": "Undated, filed with August 19, 1991 coup material",
+      "type": "Letter",
+      "title": "Yanayev to Bush, Unofficial Translation",
+      "folderNaid": "366551859",
+      "localIdentifier": "91131-009",
+      "documentNo": "22",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "topics": [
+        "Soviet coup",
+        "Yanayev",
+        "Bush",
+        "Presidential correspondence"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551859",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-08-28-collins-to-scowcroft-letter-from-bush-on-the-baltics-366551845-02b",
+      "date": "1991-08-28",
+      "dateLine": "August 28, 1991",
+      "type": "Cable",
+      "title": "Collins to Scowcroft, Letter from Bush on the Baltics",
+      "folderNaid": "366551845",
+      "localIdentifier": "91130-003",
+      "documentNo": "02b",
+      "pageEvidence": "Withdrawal sheet page 2; OCR page 10 message form",
+      "topics": [
+        "Baltic states",
+        "Bush correspondence",
+        "Collins",
+        "Post-coup policy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551845",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-09-26-cable-september-26-letter-from-bush-to-gorbachev-366551845-03d",
+      "date": "1991-09-26",
+      "dateLine": "September 26, 1991",
+      "type": "Presidential Message",
+      "title": "Cable, September 26 Letter from Bush to Gorbachev",
+      "folderNaid": "366551845",
+      "localIdentifier": "91130-003",
+      "documentNo": "03d",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "topics": [
+        "Bush-Gorbachev correspondence",
+        "Post-coup policy",
+        "Republics",
+        "Nuclear control"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551845",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-10-18-gorbachev-to-bush-unofficial-translation-366551845-04a",
+      "date": "1991-10-18",
+      "dateLine": "October 18, 1991",
+      "type": "Letter",
+      "title": "Gorbachev to Bush, Unofficial Translation",
+      "folderNaid": "366551845",
+      "localIdentifier": "91130-003",
+      "documentNo": "04a",
+      "pageEvidence": "Withdrawal sheet pages 2-3",
+      "topics": [
+        "Gorbachev",
+        "Bush-Gorbachev correspondence",
+        "Soviet collapse"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551845",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-10-27-cable-letter-from-bush-to-gorbachev-366551845-08",
+      "date": "1991-10-27",
+      "dateLine": "October 27, 1991",
+      "type": "Presidential Message",
+      "title": "Cable, Letter from Bush to Gorbachev",
+      "folderNaid": "366551845",
+      "localIdentifier": "91130-003",
+      "documentNo": "08",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Bush-Gorbachev correspondence",
+        "Soviet collapse",
+        "Post-coup policy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551845",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-11-10-strauss-to-scowcroft-meeting-with-gorbachev-366551845-11",
+      "date": "1991-11-10",
+      "dateLine": "November 10, 1991",
+      "type": "Cable",
+      "title": "Strauss to Scowcroft, Meeting with Gorbachev",
+      "folderNaid": "366551845",
+      "localIdentifier": "91130-003",
+      "documentNo": "11",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Strauss",
+        "Gorbachev",
+        "Soviet collapse",
+        "Ambassador reporting"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551845",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-11-15-report-ussr-state-council-s-session-366551845-14",
+      "date": "1991-11-15",
+      "dateLine": "November 15, 1991",
+      "type": "Report",
+      "title": "Report, USSR State Council's Session",
+      "folderNaid": "366551845",
+      "localIdentifier": "91130-003",
+      "documentNo": "14",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "USSR State Council",
+        "Soviet collapse",
+        "Republics policy"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551845",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-11-26-yeltsin-to-bush-unofficial-translation-366551845-15",
+      "date": "1991-11-26",
+      "dateLine": "November 26, 1991",
+      "type": "Letter",
+      "title": "Yeltsin to Bush, Unofficial Translation",
+      "folderNaid": "366551845",
+      "localIdentifier": "91130-003",
+      "documentNo": "15",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Yeltsin",
+        "Bush-Yeltsin correspondence",
+        "Russia",
+        "Soviet collapse"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551845",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-12-25-gorbachev-to-bush-december-25-1991-letter-366551845-17a",
+      "date": "1991-12-25",
+      "dateLine": "December 25, 1991",
+      "type": "Letter",
+      "title": "Gorbachev to Bush, December 25, 1991 Letter",
+      "folderNaid": "366551845",
+      "localIdentifier": "91130-003",
+      "documentNo": "17a",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "topics": [
+        "Gorbachev resignation",
+        "Soviet dissolution",
+        "Bush-Gorbachev correspondence"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551845",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1991-12-26-collins-to-scowcroft-and-hewett-no-subject-366551845-18",
+      "date": "1991-12-26",
+      "dateLine": "December 26, 1991",
+      "type": "Cable",
+      "title": "Collins to Scowcroft and Hewett, No Subject",
+      "folderNaid": "366551845",
+      "localIdentifier": "91130-003",
+      "documentNo": "18",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "topics": [
+        "Collins",
+        "Soviet dissolution",
+        "Russia",
+        "Post-Soviet transition"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551845",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1992-03-05-strauss-to-scowcroft-and-baker-kozyrev-hints-at-walk-in-the-woods-366551851-10a",
+      "date": "1992-03-05",
+      "dateLine": "March 5, 1992",
+      "type": "Cable",
+      "title": "Strauss to Scowcroft and Baker, Kozyrev Hints at Walk in the Woods",
+      "folderNaid": "366551851",
+      "localIdentifier": "91131-001",
+      "documentNo": "10a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Kozyrev",
+        "Strauss",
+        "Russia policy",
+        "Arms control"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551851",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1992-11-20-cable-message-from-bush-to-yeltsin-366551851-14",
+      "date": "1992-11-20",
+      "dateLine": "November 20, 1992",
+      "type": "Presidential Message",
+      "title": "Cable, Message from Bush to Yeltsin",
+      "folderNaid": "366551851",
+      "localIdentifier": "91131-001",
+      "documentNo": "14",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "Bush-Yeltsin correspondence",
+        "Russia",
+        "START II",
+        "Transition"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551851",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1992-11-29-cable-message-from-bush-to-yeltsin-366551851-06",
+      "date": "1992-11-29",
+      "dateLine": "November 29, 1992",
+      "type": "Presidential Message",
+      "title": "Cable, Message from Bush to Yeltsin",
+      "folderNaid": "366551851",
+      "localIdentifier": "91131-001",
+      "documentNo": "06",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "topics": [
+        "Bush-Yeltsin correspondence",
+        "Russia",
+        "Transition"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551851",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1992-12-18-cable-yeltsin-december-16-letter-to-bush-on-start-ii-366551851-13",
+      "date": "1992-12-18",
+      "dateLine": "December 18, 1992",
+      "type": "Cable",
+      "title": "Cable, Yeltsin December 16 Letter to Bush on START II",
+      "folderNaid": "366551851",
+      "localIdentifier": "91131-001",
+      "documentNo": "13",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "START II",
+        "Yeltsin",
+        "Bush-Yeltsin correspondence",
+        "Arms control"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551851",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1992-12-18-cable-next-steps-on-bush-yeltsin-meeting-on-start-ii-366551851-15",
+      "date": "1992-12-18",
+      "dateLine": "Undated, filed with December 1992 START II messages",
+      "type": "Cable",
+      "title": "Cable, Next Steps on Bush-Yeltsin Meeting on START II",
+      "folderNaid": "366551851",
+      "localIdentifier": "91131-001",
+      "documentNo": "15",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "topics": [
+        "START II",
+        "Bush-Yeltsin meeting",
+        "Russia",
+        "Arms control"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551851",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf"
+    },
+    {
+      "id": "scowcroft-doc-1993-01-14-poneman-and-burns-to-scowcroft-proposed-presidential-message-to-yeltsin-on-heu-sharing-366551851-01a",
+      "date": "1993-01-14",
+      "dateLine": "January 14, 1993",
+      "type": "Policy Memorandum",
+      "title": "Poneman and Burns to Scowcroft, Proposed Presidential Message to Yeltsin on HEU Sharing",
+      "folderNaid": "366551851",
+      "localIdentifier": "91131-001",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 5-9",
+      "topics": [
+        "HEU agreement",
+        "Ukraine",
+        "Kazakhstan",
+        "Belarus",
+        "START",
+        "NPT",
+        "Nunn-Lugar"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/366551851",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf"
+    }
+  ]
+}

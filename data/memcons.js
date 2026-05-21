@@ -3813,6 +3813,78 @@ window.MEMCONS = [
     "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1989-01-30-blackwill-to-scowcroft-secretary-baker-s-letter-to-shevardnadze-366551738-01a",
+    "date": "1989-01-30",
+    "sortDate": "1989-01-30",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Blackwill to Scowcroft, Secretary Baker's Letter to Shevardnadze",
+    "documentTitle": "Blackwill to Scowcroft, Secretary Baker's Letter to Shevardnadze",
+    "participants": [
+      "Robert D. Blackwill",
+      "Brent Scowcroft",
+      "James A. Baker III",
+      "Eduard Shevardnadze"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551738",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
+    },
+    "dateLine": "January 30, 1989",
+    "subjectLine": "Opening Bush administration message framing continuity, review, and the comprehensive U.S.-Soviet agenda for Baker-Shevardnadze contact.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738; document 01a: Blackwill to Scowcroft, Secretary Baker's Letter to Shevardnadze. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, document 01a.",
+    "topics": [
+      "Baker-Shevardnadze",
+      "U.S.-Soviet agenda",
+      "Policy review",
+      "Blackwill"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Withdrawal sheet and open OCR pages identify the Blackwill cover memorandum and draft Baker letter.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 5-9",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify January-April 1989 Soviet-policy memoranda and several opening pages were OCR-readable."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-scowcroft-1989-02-04-890204-zelikow-to-scowcroft-pdf",
     "date": "1989-02-04",
     "sortDate": "1989-02-04",
@@ -3917,6 +3989,77 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-02-14-rice-to-scowcroft-cable-from-ambassador-matlock-366551738-03a",
+    "date": "1989-02-14",
+    "sortDate": "1989-02-14",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Rice to Scowcroft, Cable from Ambassador Matlock",
+    "documentTitle": "Rice to Scowcroft, Cable from Ambassador Matlock",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft",
+      "Jack F. Matlock"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551738",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
+    },
+    "dateLine": "February 14, 1989",
+    "subjectLine": "Rice memorandum transmitting or commenting on Matlock reporting from Moscow during the opening Soviet policy review.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738; document 03a: Rice to Scowcroft, Cable from Ambassador Matlock. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, document 03a.",
+    "topics": [
+      "Rice",
+      "Matlock",
+      "Moscow Embassy",
+      "Policy review"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "03a",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify January-April 1989 Soviet-policy memoranda and several opening pages were OCR-readable."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "nara-1989-02-15-nsr-3-february-15-1989-comprehensive-review-of-u-s-soviet-relations-1-446394925",
@@ -4090,6 +4233,150 @@ window.MEMCONS = [
     "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1989-02-16-blackwill-to-scowcroft-work-program-for-nsrs-3-4-and-5-366551738-05",
+    "date": "1989-02-16",
+    "sortDate": "1989-02-16",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Blackwill to Scowcroft, Work Program for NSRs 3, 4, and 5",
+    "documentTitle": "Robert D. Blackwill to Brent Scowcroft, Work Program for NSRs 3, 4, and 5 on U.S.-Soviet, U.S.-East European, and U.S.-West European Relations",
+    "participants": [
+      "Robert D. Blackwill",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Eastern Europe",
+      "Western Europe"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551738",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
+    },
+    "dateLine": "February 16, 1989",
+    "subjectLine": "Work program for the linked national security reviews that structured early Bush policy toward the Soviet Union and Europe.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738; document 05: Robert D. Blackwill to Brent Scowcroft, Work Program for NSRs 3, 4, and 5 on U.S.-Soviet, U.S.-East European, and U.S.-West European Relations. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, document 05.",
+    "topics": [
+      "NSR-3",
+      "NSR-4",
+      "NSR-5",
+      "Policy review",
+      "Europe"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "05",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify January-April 1989 Soviet-policy memoranda and several opening pages were OCR-readable."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-02-16-rice-to-scowcroft-meeting-with-ambassador-dubinin-366551738-06a",
+    "date": "1989-02-16",
+    "sortDate": "1989-02-16",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Rice to Scowcroft, Meeting with Ambassador Dubinin",
+    "documentTitle": "Rice to Scowcroft, Meeting with Ambassador Dubinin",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft",
+      "Yuri Dubinin"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551738",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
+    },
+    "dateLine": "February 16, 1989",
+    "subjectLine": "Rice memorandum preparing Scowcroft for a meeting with Soviet Ambassador Yuri Dubinin.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738; document 06a: Rice to Scowcroft, Meeting with Ambassador Dubinin. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, document 06a.",
+    "topics": [
+      "Rice",
+      "Scowcroft",
+      "Dubinin",
+      "Soviet Embassy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "06a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify January-April 1989 Soviet-policy memoranda and several opening pages were OCR-readable."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "public-papers-1989-02-16-soviet-withdrawal-afghanistan",
     "date": "1989-02-16",
     "sortDate": "1989-02-16",
@@ -4254,6 +4541,78 @@ window.MEMCONS = [
     "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1989-02-27-leach-and-rice-to-scowcroft-handling-the-no-expectations-policy-366551738-07a",
+    "date": "1989-02-27",
+    "sortDate": "1989-02-27",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Leach and Rice to Scowcroft, Handling the No-Expectations Policy",
+    "documentTitle": "Leach and Rice to Scowcroft, Handling the No-Expectations Policy",
+    "participants": [
+      "James Leach",
+      "Condoleezza Rice",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "United Kingdom"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551738",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
+    },
+    "dateLine": "February 27, 1989",
+    "subjectLine": "Leach-Rice memorandum on managing the administration's no-expectations posture toward Moscow.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738; document 07a: Leach and Rice to Scowcroft, Handling the No-Expectations Policy. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, document 07a.",
+    "topics": [
+      "No-expectations policy",
+      "Rice",
+      "Leach",
+      "Soviet strategy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "07a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify January-April 1989 Soviet-policy memoranda and several opening pages were OCR-readable."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "1989-03-01-essg-meetings-453248109",
     "date": "1989-03-01",
     "sortDate": "1989-03-01",
@@ -4367,6 +4726,76 @@ window.MEMCONS = [
     "seedBatch": "essential-collections-and-drive-2026-05-20"
   },
   {
+    "id": "scowcroft-doc-1989-03-01-scowcroft-to-bush-getting-ahead-of-gorbachev-366551738-08",
+    "date": "1989-03-01",
+    "sortDate": "1989-03-01",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Scowcroft to Bush, Getting Ahead of Gorbachev",
+    "documentTitle": "Scowcroft to Bush, Getting Ahead of Gorbachev",
+    "participants": [
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551738",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
+    },
+    "dateLine": "March 1, 1989",
+    "subjectLine": "Formal NARA Scowcroft-folder source for Scowcroft's major early strategy memorandum to Bush on Gorbachev and U.S.-Soviet policy.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738; document 08: Scowcroft to Bush, Getting Ahead of Gorbachev. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, document 08.",
+    "topics": [
+      "Getting Ahead of Gorbachev",
+      "Scowcroft",
+      "Bush",
+      "Soviet strategy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document already appeared as a Drive source copy; this record preserves the formal NARA Scowcroft file-unit source.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "08",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify January-April 1989 Soviet-policy memoranda and several opening pages were OCR-readable."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-scowcroft-1989-03-02-890302-rice-to-scowcroft-pdf",
     "date": "1989-03-02",
     "sortDate": "1989-03-02",
@@ -4418,6 +4847,77 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-03-02-rice-to-scowcroft-your-meeting-with-jack-matlock-366551738-09",
+    "date": "1989-03-02",
+    "sortDate": "1989-03-02",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Rice to Scowcroft, Your Meeting with Jack Matlock",
+    "documentTitle": "Rice to Scowcroft, Your Meeting with Jack Matlock",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft",
+      "Jack F. Matlock"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551738",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
+    },
+    "dateLine": "March 2, 1989",
+    "subjectLine": "Rice memorandum for Scowcroft's March 3 meeting with Ambassador Matlock.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738; document 09: Rice to Scowcroft, Your Meeting with Jack Matlock. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, document 09.",
+    "topics": [
+      "Rice",
+      "Matlock",
+      "Moscow Embassy",
+      "Soviet policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "09",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify January-April 1989 Soviet-policy memoranda and several opening pages were OCR-readable."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "drive-scowcroft-1989-03-11-890311-zelikow-and-mahley-to-scowcroft-pdf",
@@ -5266,6 +5766,78 @@ window.MEMCONS = [
     "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1989-04-08-rice-to-scowcroft-president-s-message-to-gorbachev-on-the-mike-class-submarine-accident-366551738-11a",
+    "date": "1989-04-08",
+    "sortDate": "1989-04-08",
+    "sortOrder": 0,
+    "type": "Presidential Message Lead",
+    "title": "Rice to Scowcroft, President's Message to Gorbachev on the Mike-class Submarine Accident",
+    "documentTitle": "Rice to Scowcroft, President's Message to Gorbachev on the Mike-class Submarine Accident",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft",
+      "George H. W. Bush",
+      "Mikhail Gorbachev"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551738",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
+    },
+    "dateLine": "April 8, 1989",
+    "subjectLine": "Rice memorandum on a presidential message to Gorbachev after the Soviet Mike-class submarine accident.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738; document 11a: Rice to Scowcroft, President's Message to Gorbachev on the Mike-class Submarine Accident. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, document 11a.",
+    "topics": [
+      "Bush-Gorbachev correspondence",
+      "Mike-class submarine",
+      "Rice",
+      "Crisis diplomacy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "11a",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify January-April 1989 Soviet-policy memoranda and several opening pages were OCR-readable."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-scowcroft-1989-04-10-1989-4-10-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-",
     "date": "1989-04-10",
     "sortDate": "1989-04-10",
@@ -5377,6 +5949,147 @@ window.MEMCONS = [
     "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1989-04-26-stearman-to-scowcroft-soviets-still-exporting-revolution-in-southern-africa-366551738-12",
+    "date": "1989-04-26",
+    "sortDate": "1989-04-26",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Stearman to Scowcroft, Soviets Still Exporting Revolution in Southern Africa",
+    "documentTitle": "Stearman to Scowcroft, Soviets Still Exporting Revolution in Southern Africa",
+    "participants": [
+      "William L. Stearman",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Southern Africa"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551738",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
+    },
+    "dateLine": "April 26, 1989",
+    "subjectLine": "Stearman memorandum on Soviet regional behavior in Southern Africa before the administration settled its public Soviet-policy line.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738; document 12: Stearman to Scowcroft, Soviets Still Exporting Revolution in Southern Africa. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, document 12.",
+    "topics": [
+      "Regional conflicts",
+      "Southern Africa",
+      "Soviet foreign policy",
+      "Stearman"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "12",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify January-April 1989 Soviet-policy memoranda and several opening pages were OCR-readable."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-04-29-brooks-to-scowcroft-arms-control-negotiators-366551739-01c",
+    "date": "1989-04-29",
+    "sortDate": "1989-04-29",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Brooks to Scowcroft, Arms Control Negotiators",
+    "documentTitle": "Brooks to Scowcroft, Arms Control Negotiators",
+    "participants": [
+      "Linton Brooks",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "April 29, 1989",
+    "subjectLine": "Brooks memorandum on selecting arms-control negotiators as START and related talks resumed.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 01c: Brooks to Scowcroft, Arms Control Negotiators. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 01c.",
+    "topics": [
+      "Arms control negotiators",
+      "START",
+      "Brooks",
+      "Policy implementation"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01c",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages around memorandum start",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-scowcroft-1989-05-01-1989-spring-gbpl-scowcroft-brent-files-ussr-collapse-us-sov-relations-thru-1991-",
     "date": "1989-05-01",
     "sortDate": "1989-05-01",
@@ -5428,6 +6141,147 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-05-01-rice-to-scowcroft-soviet-nsd-366551739-01g",
+    "date": "1989-05-01",
+    "sortDate": "1989-05-01",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Rice to Scowcroft, Soviet NSD",
+    "documentTitle": "Rice to Scowcroft, Soviet NSD",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "May 1, 1989",
+    "subjectLine": "Rice memorandum forwarding the revised draft National Security Directive on U.S.-Soviet relations.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 01g: Rice to Scowcroft, Soviet NSD. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 01g.",
+    "topics": [
+      "Rice",
+      "Soviet NSD",
+      "NSD-23",
+      "U.S.-Soviet policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01g",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages around Soviet NSD memorandum",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-05-01-draft-national-security-directive-on-u-s-soviet-relations-366551739-01h",
+    "date": "1989-05-01",
+    "sortDate": "1989-05-01",
+    "sortOrder": 1,
+    "type": "Directive Draft",
+    "title": "Draft National Security Directive on U.S.-Soviet Relations",
+    "documentTitle": "Draft National Security Directive on U.S.-Soviet Relations",
+    "participants": [
+      "National Security Council",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "Undated, filed with May 1, 1989 Rice memorandum",
+    "subjectLine": "Draft directive setting the Bush administration's strategic framework for transforming Soviet behavior, institutions, force posture, and integration into the international system.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 01h: Draft National Security Directive on U.S.-Soviet Relations. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 01h.",
+    "topics": [
+      "NSD-23",
+      "U.S.-Soviet relations",
+      "Soviet reform",
+      "Arms control",
+      "Economic policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Full-folder OCR captured substantial text of the draft directive; page-span review needed before quotation or selection.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01h",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages beginning with 'National Security Directive on U.S.-Soviet Relations'",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "drive-scowcroft-1989-05-02-1989-5-02-gbpl-scowcroft-brent-files-box-91120-soviet-power-collapse-snf-februar",
@@ -5482,6 +6336,290 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-05-02-hughes-to-scowcroft-b-c-s-breakfast-meeting-366551739-01a",
+    "date": "1989-05-02",
+    "sortDate": "1989-05-02",
+    "sortOrder": 0,
+    "type": "Meeting Package",
+    "title": "Hughes to Scowcroft, B-C-S Breakfast Meeting",
+    "documentTitle": "Hughes to Scowcroft, B-C-S Breakfast Meeting",
+    "participants": [
+      "G. Philip Hughes",
+      "Brent Scowcroft",
+      "James A. Baker III",
+      "Richard Cheney"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "May 2, 1989",
+    "subjectLine": "Baker-Cheney-Scowcroft breakfast agenda on Moscow ministerial preparation, arms-control negotiators, the Soviet NSD, and Gomel radar.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 01a: Hughes to Scowcroft, B-C-S Breakfast Meeting. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 01a.",
+    "topics": [
+      "Baker-Cheney-Scowcroft",
+      "Moscow ministerial",
+      "Soviet NSD",
+      "Arms control"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Full-folder OCR identified both the withdrawal-sheet title and the opening agenda memorandum.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR page 5",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-05-02-rice-to-scowcroft-breakfast-item-secretary-baker-s-trip-to-moscow-366551739-01b",
+    "date": "1989-05-02",
+    "sortDate": "1989-05-02",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Rice to Scowcroft, Breakfast Item: Secretary Baker's Trip to Moscow",
+    "documentTitle": "Rice to Scowcroft, Breakfast Item: Secretary Baker's Trip to Moscow",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft",
+      "James A. Baker III"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "May 2, 1989",
+    "subjectLine": "Rice memorandum on Baker's Moscow trip, including arms-control agenda handling and presentation of U.S. objectives.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 01b: Rice to Scowcroft, Breakfast Item: Secretary Baker's Trip to Moscow. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 01b.",
+    "topics": [
+      "Rice",
+      "Baker Moscow trip",
+      "START",
+      "U.S.-Soviet agenda"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01b",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages around memorandum start",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-05-02-scowcroft-to-bush-military-involvement-in-start-366551739-01d",
+    "date": "1989-05-02",
+    "sortDate": "1989-05-02",
+    "sortOrder": 1,
+    "type": "Policy Memorandum",
+    "title": "Scowcroft to Bush, Military Involvement in START",
+    "documentTitle": "Scowcroft to Bush, Military Involvement in START",
+    "participants": [
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "Undated, filed with May 2, 1989 breakfast package",
+    "subjectLine": "Scowcroft memorandum to Bush on senior military participation in START negotiations.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 01d: Scowcroft to Bush, Military Involvement in START. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 01d.",
+    "topics": [
+      "START",
+      "Military representation",
+      "Scowcroft",
+      "Bush"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01d",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages around presidential memorandum",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-05-02-tobey-to-scowcroft-possible-breakfast-item-gomel-radar-366551739-01i",
+    "date": "1989-05-02",
+    "sortDate": "1989-05-02",
+    "sortOrder": 2,
+    "type": "Policy Memorandum",
+    "title": "Tobey to Scowcroft, Possible Breakfast Item: Gomel Radar",
+    "documentTitle": "Tobey to Scowcroft, Possible Breakfast Item: Gomel Radar",
+    "participants": [
+      "William Tobey",
+      "Brent Scowcroft",
+      "Robert Gates"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "May 2, 1989",
+    "subjectLine": "Tobey memorandum on U.S. response to Soviet actions concerning the Gomel radar issue.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 01i: Tobey to Scowcroft, Possible Breakfast Item: Gomel Radar. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 01i.",
+    "topics": [
+      "Gomel radar",
+      "Soviet compliance",
+      "Arms control",
+      "Tobey"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01i",
+      "pageEvidence": "Withdrawal sheet page 1; open OCR pages around memorandum start",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "drive-scowcroft-1989-05-03-1989-5-3-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-e",
@@ -5539,6 +6677,152 @@ window.MEMCONS = [
     "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1989-05-03-rodman-to-gates-regional-issues-at-the-moscow-ministerial-366551739-02a",
+    "date": "1989-05-03",
+    "sortDate": "1989-05-03",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Rodman to Gates, Regional Issues at the Moscow Ministerial",
+    "documentTitle": "Rodman to Gates, Regional Issues at the Moscow Ministerial",
+    "participants": [
+      "Peter W. Rodman",
+      "Robert Gates"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Afghanistan",
+      "Central America",
+      "Middle East",
+      "Southern Africa"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "May 3, 1989",
+    "subjectLine": "Rodman memorandum on regional issues for the Moscow ministerial, including Central America, Afghanistan, the Middle East, and Southern Africa.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 02a: Rodman to Gates, Regional Issues at the Moscow Ministerial. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 02a.",
+    "topics": [
+      "Moscow ministerial",
+      "Regional conflicts",
+      "Rodman",
+      "Gates"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "02a",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages around memorandum start",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-05-06-rice-to-scowcroft-president-s-letter-to-gorbachev-366551739-03c",
+    "date": "1989-05-06",
+    "sortDate": "1989-05-06",
+    "sortOrder": 0,
+    "type": "Presidential Message Lead",
+    "title": "Rice to Scowcroft, President's Letter to Gorbachev",
+    "documentTitle": "Rice to Scowcroft, President's Letter to Gorbachev",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft",
+      "George H. W. Bush",
+      "Mikhail Gorbachev"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "May 6, 1989",
+    "subjectLine": "Rice memorandum forwarding the President's letter to Gorbachev for delivery by Secretary Baker.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 03c: Rice to Scowcroft, President's Letter to Gorbachev. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 03c.",
+    "topics": [
+      "Bush-Gorbachev correspondence",
+      "Baker Moscow trip",
+      "Rice",
+      "Presidential message"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "03c",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages around NSC profile and letter package",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1989-05-07-1989-5-7-gbpl-scowcroft-brent-files-ussr-collapse-us-sov-relations-thru-1991-may",
     "date": "1989-05-07",
     "sortDate": "1989-05-07",
@@ -5590,6 +6874,77 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-05-08-brooks-to-scowcroft-open-skies-366551739-04b",
+    "date": "1989-05-08",
+    "sortDate": "1989-05-08",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Brooks to Scowcroft, Open Skies",
+    "documentTitle": "Brooks to Scowcroft, Open Skies",
+    "participants": [
+      "Linton Brooks",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "NATO"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "May 8, 1989",
+    "subjectLine": "Brooks memorandum on the Open Skies initiative and the need for allied/Soviet handling before public announcement.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 04b: Brooks to Scowcroft, Open Skies. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 04b.",
+    "topics": [
+      "Open Skies",
+      "NATO",
+      "Soviet Union",
+      "Arms control"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "04b",
+      "pageEvidence": "Withdrawal sheet page 3; open OCR pages around memorandum start",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "drive-scowcroft-1989-05-09-890509-blackwill-to-scowcroft-pdf",
@@ -5646,6 +7001,79 @@ window.MEMCONS = [
     "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1989-05-09-blackwill-to-scowcroft-presidential-speeches-related-to-europe-trip-366551739-04a",
+    "date": "1989-05-09",
+    "sortDate": "1989-05-09",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Blackwill to Scowcroft, Presidential Speeches Related to Europe Trip",
+    "documentTitle": "Blackwill to Scowcroft, Your May 9 Meeting with the President on Speeches Related to His Trip to Europe",
+    "participants": [
+      "Robert D. Blackwill",
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Europe"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "May 9, 1989",
+    "subjectLine": "Blackwill memorandum on presidential speeches framing U.S.-Soviet relations, NATO, Eastern Europe, and the coming Europe trip.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 04a: Blackwill to Scowcroft, Your May 9 Meeting with the President on Speeches Related to His Trip to Europe. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 04a.",
+    "topics": [
+      "Presidential speeches",
+      "NATO",
+      "Eastern Europe",
+      "Blackwill",
+      "U.S.-Soviet relations"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "04a",
+      "pageEvidence": "Withdrawal sheet page 3; open OCR pages around memorandum start",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-scowcroft-1989-05-09-890509-snider-to-scowcroft-pdf",
     "date": "1989-05-09",
     "sortDate": "1989-05-09",
@@ -5697,6 +7125,75 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-05-09-scowcroft-to-cheney-u-s-soviet-dangerous-military-activity-agreement-366551739-05a",
+    "date": "1989-05-09",
+    "sortDate": "1989-05-09",
+    "sortOrder": 1,
+    "type": "Policy Memorandum",
+    "title": "Scowcroft to Cheney, U.S.-Soviet Dangerous Military Activity Agreement",
+    "documentTitle": "Scowcroft to Cheney, U.S.-Soviet Dangerous Military Activity Agreement",
+    "participants": [
+      "Brent Scowcroft",
+      "Richard Cheney"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551739",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
+    },
+    "dateLine": "May 9, 1989",
+    "subjectLine": "Scowcroft memorandum to Cheney on concluding the U.S.-Soviet Dangerous Military Activity Agreement.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739; document 05a: Scowcroft to Cheney, U.S.-Soviet Dangerous Military Activity Agreement. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, document 05a.",
+    "topics": [
+      "Dangerous Military Activity Agreement",
+      "Defense policy",
+      "U.S.-Soviet relations"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "05a",
+      "pageEvidence": "Withdrawal sheet page 3; open OCR pages around memorandum start",
+      "folderNote": "Full OCR run completed for 117-page May 1989 folder; withdrawal sheets and open document pages identify Baker Moscow, Soviet NSD, START, Open Skies, and dangerous military activity material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "drive-sweep-1989-05-20-890520-scowcroft-to-bush-pdf",
@@ -7692,6 +9189,79 @@ window.MEMCONS = [
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1989-12-05-hutchings-to-scowcroft-european-press-reaction-to-the-future-of-europe-speech-366551745-01a",
+    "date": "1989-12-05",
+    "sortDate": "1989-12-05",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Hutchings to Scowcroft, European Press Reaction to the Future of Europe Speech",
+    "documentTitle": "Hutchings to Scowcroft, European Press Reaction to the Future of Europe Speech",
+    "participants": [
+      "Robert L. Hutchings",
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Europe",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551745",
+    "catalogUrl": "https://catalog.archives.gov/id/366551745",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-008.pdf",
+    "localIdentifier": "91117-008",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-008.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551745",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1989)",
+      "localIdentifier": "91117-008"
+    },
+    "dateLine": "December 5, 1989",
+    "subjectLine": "Post-Malta memorandum on European reaction to Bush's speech on the future of Europe and Germany.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1989), 91117-008, NAID 366551745; document 01a: Hutchings to Scowcroft, European Press Reaction to the Future of Europe Speech. Digital object: 41-bpr-scow-ussrco-ussrl-91117-008.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1989), 91117-008, document 01a.",
+    "topics": [
+      "Malta follow-up",
+      "Future of Europe speech",
+      "Germany",
+      "Hutchings"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 5-6",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify post-Malta and Future of Europe speech reaction material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1989-12-06-891206-scowcroft-to-bush-pdf",
     "date": "1989-12-06",
     "sortDate": "1989-12-06",
@@ -7742,6 +9312,79 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1989-12-06-scowcroft-to-mcclure-talking-points-for-congressional-meeting-366551745-02a",
+    "date": "1989-12-06",
+    "sortDate": "1989-12-06",
+    "sortOrder": 0,
+    "type": "Talking Points Lead",
+    "title": "Scowcroft to McClure, Talking Points for Congressional Meeting",
+    "documentTitle": "Scowcroft to McClure, Talking Points for Congressional Meeting",
+    "participants": [
+      "Brent Scowcroft",
+      "Frederick D. McClure",
+      "George H. W. Bush",
+      "Congressional leaders"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Europe"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551745",
+    "catalogUrl": "https://catalog.archives.gov/id/366551745",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-008.pdf",
+    "localIdentifier": "91117-008",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-008.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551745",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1989)",
+      "localIdentifier": "91117-008"
+    },
+    "dateLine": "December 6, 1989",
+    "subjectLine": "Scowcroft transmittal of Malta/Brussels trip talking points for congressional consultation.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1989), 91117-008, NAID 366551745; document 02a: Scowcroft to McClure, Talking Points for Congressional Meeting. Digital object: 41-bpr-scow-ussrco-ussrl-91117-008.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1989), 91117-008, document 02a.",
+    "topics": [
+      "Malta",
+      "Brussels",
+      "Congressional leadership",
+      "Talking points"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "02a",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify post-Malta and Future of Europe speech reaction material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "nara-1989-12-22-nsc-dc-090-december-22-1989-nsc-dc-meeting-on-soviet-noncompliance-keywords-ussr-arms-cont-470761074",
@@ -9080,6 +10723,80 @@ window.MEMCONS = [
     }
   },
   {
+    "id": "scowcroft-doc-1990-04-10-meeting-with-baltic-american-leaders-366551748-01a",
+    "date": "1990-04-10",
+    "sortDate": "1990-04-10",
+    "sortOrder": 0,
+    "type": "Meeting Brief",
+    "title": "Meeting with Baltic American Leaders",
+    "documentTitle": "Meeting with Baltic American Leaders",
+    "participants": [
+      "George H. W. Bush",
+      "Brent Scowcroft",
+      "Baltic American leaders"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Lithuania",
+      "Estonia",
+      "Latvia"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551748",
+    "catalogUrl": "https://catalog.archives.gov/id/366551748",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-002.pdf",
+    "localIdentifier": "91118-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91118-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551748",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1]",
+      "localIdentifier": "91118-002"
+    },
+    "dateLine": "April 10, 1990",
+    "subjectLine": "Meeting brief for Bush's April 11 meeting with Baltic American leaders on Lithuanian independence, quiet diplomacy, and pressure from Moscow.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1], 91118-002, NAID 366551748; document 01a: Meeting with Baltic American Leaders. Digital object: 41-bpr-scow-ussrco-ussrl-91118-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1], 91118-002, document 01a.",
+    "topics": [
+      "Lithuania",
+      "Baltic states",
+      "Quiet diplomacy",
+      "Gorbachev"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 5-7",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Lithuania/Baltic meeting briefs, Landsbergis/Prunskiene material, and military-to-military contacts."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-scowcroft-1990-04-18-1990-4-18-gbpl-scowcroft-brent-files-box-91125-soviet-power-collapse-in-eastern-",
     "date": "1990-04-18",
     "sortDate": "1990-04-18",
@@ -9188,6 +10905,77 @@ window.MEMCONS = [
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1990-04-19-hayden-and-rice-to-scowcroft-upcoming-u-s-soviet-military-to-military-contacts-366551748-02",
+    "date": "1990-04-19",
+    "sortDate": "1990-04-19",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Hayden and Rice to Scowcroft, Upcoming U.S.-Soviet Military-to-Military Contacts",
+    "documentTitle": "Hayden and Rice to Scowcroft, Upcoming U.S.-Soviet Military-to-Military Contacts",
+    "participants": [
+      "Michael Hayden",
+      "Condoleezza Rice",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551748",
+    "catalogUrl": "https://catalog.archives.gov/id/366551748",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-002.pdf",
+    "localIdentifier": "91118-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91118-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551748",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1]",
+      "localIdentifier": "91118-002"
+    },
+    "dateLine": "April 19, 1990",
+    "subjectLine": "Hayden-Rice memorandum on military-to-military contacts as Lithuania and summit planning complicated U.S.-Soviet engagement.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1], 91118-002, NAID 366551748; document 02: Hayden and Rice to Scowcroft, Upcoming U.S.-Soviet Military-to-Military Contacts. Digital object: 41-bpr-scow-ussrco-ussrl-91118-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1], 91118-002, document 02.",
+    "topics": [
+      "Military-to-military contacts",
+      "Rice",
+      "Hayden",
+      "U.S.-Soviet relations"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "02",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Lithuania/Baltic meeting briefs, Landsbergis/Prunskiene material, and military-to-military contacts."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "public-papers-1990-04-20-soviet-sanctions-lithuania",
     "date": "1990-04-20",
     "sortDate": "1990-04-20",
@@ -9243,6 +11031,150 @@ window.MEMCONS = [
     },
     "publicPapersTextLine": 180801,
     "seedBatch": "google-drive-public-papers-cheney-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1990-04-24-rostow-to-scowcroft-lithuania-and-the-international-court-of-justice-366551748-04",
+    "date": "1990-04-24",
+    "sortDate": "1990-04-24",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Rostow to Scowcroft, Lithuania and the International Court of Justice",
+    "documentTitle": "Rostow to Scowcroft, Lithuania and the International Court of Justice",
+    "participants": [
+      "Nicholas Rostow",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Lithuania"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551748",
+    "catalogUrl": "https://catalog.archives.gov/id/366551748",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-002.pdf",
+    "localIdentifier": "91118-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91118-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551748",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1]",
+      "localIdentifier": "91118-002"
+    },
+    "dateLine": "April 24, 1990",
+    "subjectLine": "Rostow memorandum on possible International Court of Justice dimensions of the Lithuanian crisis.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1], 91118-002, NAID 366551748; document 04: Rostow to Scowcroft, Lithuania and the International Court of Justice. Digital object: 41-bpr-scow-ussrco-ussrl-91118-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1], 91118-002, document 04.",
+    "topics": [
+      "Lithuania",
+      "International Court of Justice",
+      "Rostow",
+      "Baltic policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "04",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Lithuania/Baltic meeting briefs, Landsbergis/Prunskiene material, and military-to-military contacts."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1990-04-26-rice-to-scowcroft-letter-to-landsbergis-366551748-07a",
+    "date": "1990-04-26",
+    "sortDate": "1990-04-26",
+    "sortOrder": 0,
+    "type": "Presidential Message Lead",
+    "title": "Rice to Scowcroft, Letter to Landsbergis",
+    "documentTitle": "Rice to Scowcroft, Letter to Landsbergis",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft",
+      "Vytautas Landsbergis",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Lithuania"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551748",
+    "catalogUrl": "https://catalog.archives.gov/id/366551748",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-002.pdf",
+    "localIdentifier": "91118-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91118-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551748",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1]",
+      "localIdentifier": "91118-002"
+    },
+    "dateLine": "April 26, 1990",
+    "subjectLine": "Rice memorandum on a proposed presidential letter to Lithuanian President Vytautas Landsbergis.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1], 91118-002, NAID 366551748; document 07a: Rice to Scowcroft, Letter to Landsbergis. Digital object: 41-bpr-scow-ussrco-ussrl-91118-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1], 91118-002, document 07a.",
+    "topics": [
+      "Lithuania",
+      "Landsbergis",
+      "Rice",
+      "Presidential message"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "07a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Lithuania/Baltic meeting briefs, Landsbergis/Prunskiene material, and military-to-military contacts."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "1990-05-01-nsd-39-cocom-soviet-446396859",
@@ -9383,6 +11315,79 @@ window.MEMCONS = [
       "searchReport": "reports/central-chronology-374000108-search.json"
     },
     "seedBatch": "central-chronology-374000108-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1990-05-02-hutchings-to-scowcroft-president-s-meeting-with-lithuanian-prime-minister-prunskiene-366551748-08e",
+    "date": "1990-05-02",
+    "sortDate": "1990-05-02",
+    "sortOrder": 0,
+    "type": "Meeting Brief",
+    "title": "Hutchings to Scowcroft, President's Meeting with Lithuanian Prime Minister Prunskiene",
+    "documentTitle": "Hutchings to Scowcroft, President's Meeting with Lithuanian Prime Minister Prunskiene",
+    "participants": [
+      "Robert L. Hutchings",
+      "Brent Scowcroft",
+      "George H. W. Bush",
+      "Kazimiera Prunskiene"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Lithuania"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551748",
+    "catalogUrl": "https://catalog.archives.gov/id/366551748",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-002.pdf",
+    "localIdentifier": "91118-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91118-002.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551748",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1]",
+      "localIdentifier": "91118-002"
+    },
+    "dateLine": "May 2, 1990",
+    "subjectLine": "Briefing memorandum for Bush's meeting with Lithuanian Prime Minister Kazimiera Prunskiene.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1], 91118-002, NAID 366551748; document 08e: Hutchings to Scowcroft, President's Meeting with Lithuanian Prime Minister Prunskiene. Digital object: 41-bpr-scow-ussrco-ussrl-91118-002.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (April-May 1990) [1], 91118-002, document 08e.",
+    "topics": [
+      "Lithuania",
+      "Prunskiene",
+      "Meeting brief",
+      "Baltic policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "08e",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Lithuania/Baltic meeting briefs, Landsbergis/Prunskiene material, and military-to-military contacts."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "nara-1990-05-08-nsc-dc-125-may-08-1990-nsc-dc-meeting-on-u-s-soviet-relations-keywords-ussr-470761117",
@@ -10787,6 +12792,77 @@ window.MEMCONS = [
     "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1990-12-07-baker-to-bush-u-s-economic-support-assistance-for-the-soviet-union-366551759-01",
+    "date": "1990-12-07",
+    "sortDate": "1990-12-07",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Baker to Bush, U.S. Economic Support-Assistance for the Soviet Union",
+    "documentTitle": "Baker to Bush, U.S. Economic Support-Assistance for the Soviet Union",
+    "participants": [
+      "James A. Baker III",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "December 7, 1990",
+    "subjectLine": "Baker memorandum to Bush on humanitarian assistance, food aid, Jackson-Vanik, IMF/World Bank, and a broader economic assistance package for the Soviet Union.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 01: Baker to Bush, U.S. Economic Support-Assistance for the Soviet Union. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 01.",
+    "topics": [
+      "Economic assistance",
+      "Jackson-Vanik",
+      "Food aid",
+      "IMF",
+      "Baker"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "OCR sampled open memorandum pages; exact full page span should be captured before selection.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 6-10",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-1990-12-07-cheney-press-conference-ocr-lead",
     "date": "1990-12-07",
     "sortDate": "1990-12-07",
@@ -10845,6 +12921,289 @@ window.MEMCONS = [
     "seedBatch": "google-drive-public-papers-cheney-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1990-12-07-gompert-et-al-to-scowcroft-soviet-summit-timing-366551759-02",
+    "date": "1990-12-07",
+    "sortDate": "1990-12-07",
+    "sortOrder": 1,
+    "type": "Policy Memorandum",
+    "title": "Gompert et al. to Scowcroft, Soviet Summit Timing",
+    "documentTitle": "Gompert et al. to Scowcroft, Soviet Summit Timing",
+    "participants": [
+      "David C. Gompert",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "December 7, 1990",
+    "subjectLine": "Gompert memorandum to Scowcroft on timing a Soviet summit amid economic and political instability.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 02: Gompert et al. to Scowcroft, Soviet Summit Timing. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 02.",
+    "topics": [
+      "Soviet summit",
+      "Gompert",
+      "Gorbachev",
+      "Economic crisis"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "02",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1990-12-10-burns-to-scowcroft-your-meeting-with-ukrainian-prime-minister-vitold-fokin-366551759-04a",
+    "date": "1990-12-10",
+    "sortDate": "1990-12-10",
+    "sortOrder": 0,
+    "type": "Meeting Brief",
+    "title": "Burns to Scowcroft, Your Meeting with Ukrainian Prime Minister Vitold Fokin",
+    "documentTitle": "Burns to Scowcroft, Your Meeting with Ukrainian Prime Minister Vitold Fokin",
+    "participants": [
+      "Nicholas Burns",
+      "Brent Scowcroft",
+      "Vitold Fokin"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Ukraine"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "December 10, 1990",
+    "subjectLine": "Briefing memorandum for Scowcroft's meeting with Ukrainian Prime Minister Vitold Fokin.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 04a: Burns to Scowcroft, Your Meeting with Ukrainian Prime Minister Vitold Fokin. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 04a.",
+    "topics": [
+      "Ukraine",
+      "Fokin",
+      "Republics policy",
+      "Meeting brief"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "04a",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1990-12-11-meeting-with-soviet-foreign-minister-eduard-shevardnadze-366551759-05a",
+    "date": "1990-12-11",
+    "sortDate": "1990-12-11",
+    "sortOrder": 0,
+    "type": "Meeting Brief",
+    "title": "Meeting with Soviet Foreign Minister Eduard Shevardnadze",
+    "documentTitle": "Meeting with Soviet Foreign Minister Eduard Shevardnadze",
+    "participants": [
+      "George H. W. Bush",
+      "Eduard Shevardnadze",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "December 11, 1990",
+    "subjectLine": "Meeting brief and talking points for the President's meeting with Shevardnadze in December 1990.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 05a: Meeting with Soviet Foreign Minister Eduard Shevardnadze. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 05a.",
+    "topics": [
+      "Shevardnadze",
+      "Gorbachev",
+      "Economic assistance",
+      "Soviet crisis"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "05a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1990-12-12-burns-to-scowcroft-press-releases-on-economic-assistance-for-the-soviet-union-366551759-06",
+    "date": "1990-12-12",
+    "sortDate": "1990-12-12",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Burns to Scowcroft, Press Releases on Economic Assistance for the Soviet Union",
+    "documentTitle": "Burns to Scowcroft, Press Releases on Economic Assistance for the Soviet Union",
+    "participants": [
+      "Nicholas Burns",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "December 12, 1990",
+    "subjectLine": "Burns memorandum on public handling of economic assistance for the Soviet Union.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 06: Burns to Scowcroft, Press Releases on Economic Assistance for the Soviet Union. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 06.",
+    "topics": [
+      "Economic assistance",
+      "Press guidance",
+      "Burns",
+      "Soviet Union"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "06",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-1990-12-13-rostow-scowcroft-all-union-treaty",
     "date": "1990-12-13",
     "sortDate": "1990-12-13",
@@ -10895,6 +13254,77 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "essential-collections-and-drive-2026-05-20"
+  },
+  {
+    "id": "scowcroft-doc-1990-12-17-rice-and-deal-to-scowcroft-imf-world-bank-report-on-the-soviet-economy-366551759-07",
+    "date": "1990-12-17",
+    "sortDate": "1990-12-17",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Rice and Deal to Scowcroft, IMF/World Bank Report on the Soviet Economy",
+    "documentTitle": "Rice and Deal to Scowcroft, IMF/World Bank Report on the Soviet Economy",
+    "participants": [
+      "Condoleezza Rice",
+      "Timothy Deal",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "December 17, 1990",
+    "subjectLine": "Rice-Deal memorandum on the IMF/World Bank-led report on the Soviet economy.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 07: Rice and Deal to Scowcroft, IMF/World Bank Report on the Soviet Economy. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 07.",
+    "topics": [
+      "IMF",
+      "World Bank",
+      "Soviet economy",
+      "Rice"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "07",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "nara-1990-12-18-nsc-dc-231-december-18-1990-nsc-dc-meeting-on-cfe-and-soviet-data-keywords-cfe-ussr-470761234",
@@ -10954,6 +13384,223 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "essential-collections-and-drive-2026-05-20"
+  },
+  {
+    "id": "scowcroft-doc-1990-12-18-rice-to-gates-senior-small-group-meeting-on-soviet-contingencies-366551759-08a",
+    "date": "1990-12-18",
+    "sortDate": "1990-12-18",
+    "sortOrder": 0,
+    "type": "Contingency Paper",
+    "title": "Rice to Gates, Senior Small Group Meeting on Soviet Contingencies",
+    "documentTitle": "Rice to Gates, Senior Small Group Meeting on Soviet Contingencies",
+    "participants": [
+      "Condoleezza Rice",
+      "Robert Gates"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Ukraine",
+      "Baltic States"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "December 18, 1990",
+    "subjectLine": "Rice memorandum for a senior small group meeting on Soviet contingencies as the center, republics, and hardliners moved toward confrontation.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 08a: Rice to Gates, Senior Small Group Meeting on Soviet Contingencies. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 08a.",
+    "topics": [
+      "Soviet contingencies",
+      "Rice",
+      "Gates",
+      "Republics policy",
+      "Crisis planning"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "08a",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1990-12-18-the-soviet-republics-independence-claims-legal-issues-and-u-s-policy-366551759-08b",
+    "date": "1990-12-18",
+    "sortDate": "1990-12-18",
+    "sortOrder": 1,
+    "type": "Policy Paper",
+    "title": "The Soviet Republics: Independence Claims, Legal Issues and U.S. Policy",
+    "documentTitle": "The Soviet Republics: Independence Claims, Legal Issues and U.S. Policy",
+    "participants": [
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Ukraine",
+      "Baltic States"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "Undated, filed with December 18, 1990 Senior Small Group material",
+    "subjectLine": "Policy paper on Soviet republic independence claims, legal issues, and implications for U.S. policy.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 08b: The Soviet Republics: Independence Claims, Legal Issues and U.S. Policy. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 08b.",
+    "topics": [
+      "Republics policy",
+      "Independence claims",
+      "Legal issues",
+      "Soviet collapse"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "08b",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1990-12-18-what-do-we-do-if-there-s-a-crackdown-366551759-08e",
+    "date": "1990-12-18",
+    "sortDate": "1990-12-18",
+    "sortOrder": 2,
+    "type": "Contingency Paper",
+    "title": "What Do We Do If There's A Crackdown?",
+    "documentTitle": "What Do We Do If There's A Crackdown?",
+    "participants": [
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Baltic States"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "Undated, filed with December 1990 Soviet contingency material",
+    "subjectLine": "Contingency paper on U.S. responses if Soviet authorities used a crackdown during the republic crisis.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 08e: What Do We Do If There's A Crackdown?. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 08e.",
+    "topics": [
+      "Soviet crackdown",
+      "Contingency planning",
+      "Baltic states",
+      "Republics policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "08e",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "drive-scowcroft-1990-12-19-1990-12-19-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-soviet-relation",
@@ -11118,6 +13765,150 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1990-12-21-scowcroft-to-bush-responding-to-the-toughening-line-in-moscow-366551759-10a",
+    "date": "1990-12-21",
+    "sortDate": "1990-12-21",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Scowcroft to Bush, Responding to the Toughening Line in Moscow",
+    "documentTitle": "Scowcroft to Bush, Responding to the Toughening Line in Moscow",
+    "participants": [
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Baltic States"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "December 21, 1990",
+    "subjectLine": "Scowcroft memorandum to Bush on how to respond to the hardening line in Moscow.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 10a: Scowcroft to Bush, Responding to the Toughening Line in Moscow. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 10a.",
+    "topics": [
+      "Hardliners",
+      "Moscow",
+      "Soviet crisis",
+      "Scowcroft"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "10a",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1990-12-21-rice-to-scowcroft-responding-to-the-toughening-line-in-moscow-366551759-10b",
+    "date": "1990-12-21",
+    "sortDate": "1990-12-21",
+    "sortOrder": 1,
+    "type": "Policy Memorandum",
+    "title": "Rice to Scowcroft, Responding to the Toughening Line in Moscow",
+    "documentTitle": "Rice to Scowcroft, Responding to the Toughening Line in Moscow",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Baltic States"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551759",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
+    },
+    "dateLine": "December 21, 1990",
+    "subjectLine": "Rice memorandum to Scowcroft on U.S. policy options as Moscow's line toughened.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759; document 10b: Rice to Scowcroft, Responding to the Toughening Line in Moscow. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, document 10b.",
+    "topics": [
+      "Rice",
+      "Hardliners",
+      "Moscow",
+      "Soviet crisis"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "10b",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify economic assistance, Ukraine/Fokin, Shevardnadze, IMF/World Bank, Soviet contingencies, and toughening-line memoranda."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "1991-01-01-russia-science-technology-briefing-book-285792229",
@@ -11552,6 +14343,369 @@ window.MEMCONS = [
     "seedBatch": "essential-collections-and-drive-2026-05-20"
   },
   {
+    "id": "scowcroft-doc-1991-03-07-scowcroft-to-bush-coping-with-the-soviet-union-s-internal-turmoil-366551761-01a",
+    "date": "1991-03-07",
+    "sortDate": "1991-03-07",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Scowcroft to Bush, Coping with the Soviet Union's Internal Turmoil",
+    "documentTitle": "Scowcroft to Bush, Coping with the Soviet Union's Internal Turmoil",
+    "participants": [
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Baltic States"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551761",
+    "catalogUrl": "https://catalog.archives.gov/id/366551761",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "localIdentifier": "91119-005",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551761",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991)",
+      "localIdentifier": "91119-005"
+    },
+    "dateLine": "March 7, 1991",
+    "subjectLine": "Scowcroft memorandum to Bush describing the Soviet Union as being in a pre-revolutionary state and assessing possible triggers for wider crisis.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761; document 01a: Scowcroft to Bush, Coping with the Soviet Union's Internal Turmoil. Digital object: 41-bpr-scow-ussrco-ussrl-91119-005.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, document 01a.",
+    "topics": [
+      "Soviet turmoil",
+      "Pre-revolutionary state",
+      "Scowcroft",
+      "Gorbachev",
+      "Yeltsin"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "OCR sampled the NSC profile and opening page of the memorandum; full page-span review remains.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 2; NSC profile page 6; open OCR page 10",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Scowcroft's Coping with Soviet Union's Internal Turmoil memo, Estonia/Ruutel, Matlock, Silayev, CFE/BW, and CCC-credit material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-03-07-rice-to-scowcroft-coping-with-the-soviet-union-s-internal-turmoil-366551761-01b",
+    "date": "1991-03-07",
+    "sortDate": "1991-03-07",
+    "sortOrder": 1,
+    "type": "Policy Memorandum",
+    "title": "Rice to Scowcroft, Coping with the Soviet Union's Internal Turmoil",
+    "documentTitle": "Rice to Scowcroft, Coping with the Soviet Union's Internal Turmoil",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Baltic States"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551761",
+    "catalogUrl": "https://catalog.archives.gov/id/366551761",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "localIdentifier": "91119-005",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551761",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991)",
+      "localIdentifier": "91119-005"
+    },
+    "dateLine": "Undated, filed with March 7, 1991 Scowcroft memorandum",
+    "subjectLine": "Rice memorandum forwarding or framing Scowcroft's memorandum to Bush on internal Soviet turmoil.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761; document 01b: Rice to Scowcroft, Coping with the Soviet Union's Internal Turmoil. Digital object: 41-bpr-scow-ussrco-ussrl-91119-005.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, document 01b.",
+    "topics": [
+      "Rice",
+      "Soviet turmoil",
+      "Gorbachev",
+      "Yeltsin"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01b",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Scowcroft's Coping with Soviet Union's Internal Turmoil memo, Estonia/Ruutel, Matlock, Silayev, CFE/BW, and CCC-credit material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-04-09-hewett-to-scowcroft-and-gates-highlights-on-the-current-soviet-situation-366551761-03",
+    "date": "1991-04-09",
+    "sortDate": "1991-04-09",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Hewett to Scowcroft and Gates, Highlights on the Current Soviet Situation",
+    "documentTitle": "Hewett to Scowcroft and Gates, Highlights on the Current Soviet Situation",
+    "participants": [
+      "Edward A. Hewett",
+      "Brent Scowcroft",
+      "Robert Gates"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Ukraine",
+      "Baltic States"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551761",
+    "catalogUrl": "https://catalog.archives.gov/id/366551761",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "localIdentifier": "91119-005",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551761",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991)",
+      "localIdentifier": "91119-005"
+    },
+    "dateLine": "April 9, 1991",
+    "subjectLine": "Hewett memorandum on the current Soviet situation during the spring 1991 crisis period.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761; document 03: Hewett to Scowcroft and Gates, Highlights on the Current Soviet Situation. Digital object: 41-bpr-scow-ussrco-ussrl-91119-005.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, document 03.",
+    "topics": [
+      "Hewett",
+      "Current Soviet situation",
+      "Gates",
+      "Republics policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "03",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Scowcroft's Coping with Soviet Union's Internal Turmoil memo, Estonia/Ruutel, Matlock, Silayev, CFE/BW, and CCC-credit material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-04-19-burns-to-scowcroft-meeting-with-russian-republic-prime-minister-ivan-silayev-366551761-05a",
+    "date": "1991-04-19",
+    "sortDate": "1991-04-19",
+    "sortOrder": 0,
+    "type": "Meeting Brief",
+    "title": "Burns to Scowcroft, Meeting with Russian Republic Prime Minister Ivan Silayev",
+    "documentTitle": "Burns to Scowcroft, Meeting with Russian Republic Prime Minister Ivan Silayev",
+    "participants": [
+      "Nicholas Burns",
+      "Brent Scowcroft",
+      "Ivan Silayev"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551761",
+    "catalogUrl": "https://catalog.archives.gov/id/366551761",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "localIdentifier": "91119-005",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551761",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991)",
+      "localIdentifier": "91119-005"
+    },
+    "dateLine": "April 19, 1991",
+    "subjectLine": "Briefing memorandum for Scowcroft's meeting with Russian Republic Prime Minister Ivan Silayev.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761; document 05a: Burns to Scowcroft, Meeting with Russian Republic Prime Minister Ivan Silayev. Digital object: 41-bpr-scow-ussrco-ussrl-91119-005.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, document 05a.",
+    "topics": [
+      "Russia",
+      "Silayev",
+      "Republics policy",
+      "Meeting brief"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "05a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Scowcroft's Coping with Soviet Union's Internal Turmoil memo, Estonia/Ruutel, Matlock, Silayev, CFE/BW, and CCC-credit material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-04-29-gompert-and-kanter-to-scowcroft-dealing-with-the-soviets-on-cfe-and-bw-366551761-06",
+    "date": "1991-04-29",
+    "sortDate": "1991-04-29",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Gompert and Kanter to Scowcroft, Dealing with the Soviets on CFE and BW",
+    "documentTitle": "Gompert and Kanter to Scowcroft, Dealing with the Soviets on CFE and BW",
+    "participants": [
+      "David C. Gompert",
+      "Arnold Kanter",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551761",
+    "catalogUrl": "https://catalog.archives.gov/id/366551761",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "localIdentifier": "91119-005",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551761",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991)",
+      "localIdentifier": "91119-005"
+    },
+    "dateLine": "April 29, 1991",
+    "subjectLine": "Gompert-Kanter memorandum on dealing with the Soviets on CFE and biological weapons.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761; document 06: Gompert and Kanter to Scowcroft, Dealing with the Soviets on CFE and BW. Digital object: 41-bpr-scow-ussrco-ussrl-91119-005.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, document 06.",
+    "topics": [
+      "CFE",
+      "Biological weapons",
+      "Gompert",
+      "Kanter",
+      "Arms control"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "06",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Scowcroft's Coping with Soviet Union's Internal Turmoil memo, Estonia/Ruutel, Matlock, Silayev, CFE/BW, and CCC-credit material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-scowcroft-1991-04-30-1991-4-30-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-soviet-relations",
     "date": "1991-04-30",
     "sortDate": "1991-04-30",
@@ -11606,6 +14760,77 @@ window.MEMCONS = [
     "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1991-04-30-scowcroft-to-bush-proposed-presidential-letter-to-gorbachev-on-additional-ccc-credits-366551761-07a",
+    "date": "1991-04-30",
+    "sortDate": "1991-04-30",
+    "sortOrder": 0,
+    "type": "Presidential Message Lead",
+    "title": "Scowcroft to Bush, Proposed Presidential Letter to Gorbachev on Additional CCC Credits",
+    "documentTitle": "Scowcroft to Bush, Proposed Presidential Letter to Gorbachev on Additional CCC Credits",
+    "participants": [
+      "Brent Scowcroft",
+      "George H. W. Bush",
+      "Mikhail Gorbachev"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551761",
+    "catalogUrl": "https://catalog.archives.gov/id/366551761",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "localIdentifier": "91119-005",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551761",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991)",
+      "localIdentifier": "91119-005"
+    },
+    "dateLine": "April 30, 1991",
+    "subjectLine": "Scowcroft memorandum to Bush on a proposed letter to Gorbachev responding to his request for additional CCC credits.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761; document 07a: Scowcroft to Bush, Proposed Presidential Letter to Gorbachev on Additional CCC Credits. Digital object: 41-bpr-scow-ussrco-ussrl-91119-005.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, document 07a.",
+    "topics": [
+      "CCC credits",
+      "Bush-Gorbachev correspondence",
+      "Economic assistance",
+      "Soviet crisis"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "07a",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Scowcroft's Coping with Soviet Union's Internal Turmoil memo, Estonia/Ruutel, Matlock, Silayev, CFE/BW, and CCC-credit material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1991-05-01-1991-5-1-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-soviet-relations-",
     "date": "1991-05-01",
     "sortDate": "1991-05-01",
@@ -11657,6 +14882,77 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-05-01-gompert-and-kanter-to-scowcroft-response-to-the-soviets-on-cfe-366551761-08a",
+    "date": "1991-05-01",
+    "sortDate": "1991-05-01",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Gompert and Kanter to Scowcroft, Response to the Soviets on CFE",
+    "documentTitle": "Gompert and Kanter to Scowcroft, Response to the Soviets on CFE",
+    "participants": [
+      "David C. Gompert",
+      "Arnold Kanter",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551761",
+    "catalogUrl": "https://catalog.archives.gov/id/366551761",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "localIdentifier": "91119-005",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551761",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991)",
+      "localIdentifier": "91119-005"
+    },
+    "dateLine": "May 1, 1991",
+    "subjectLine": "Gompert-Kanter memorandum on a response to the Soviets on CFE.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761; document 08a: Gompert and Kanter to Scowcroft, Response to the Soviets on CFE. Digital object: 41-bpr-scow-ussrco-ussrl-91119-005.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, document 08a.",
+    "topics": [
+      "CFE",
+      "Gompert",
+      "Kanter",
+      "Arms control"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "08a",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Scowcroft's Coping with Soviet Union's Internal Turmoil memo, Estonia/Ruutel, Matlock, Silayev, CFE/BW, and CCC-credit material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "central-chronology-1991-07-01-30518-001-470761765",
@@ -12189,6 +15485,215 @@ window.MEMCONS = [
     "seedBatch": "essential-collections-and-drive-2026-05-20"
   },
   {
+    "id": "scowcroft-doc-1991-08-19-report-recommendations-366551859-16",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "sortOrder": 0,
+    "type": "Recommendations Paper",
+    "title": "Report, Recommendations",
+    "documentTitle": "Report, Recommendations",
+    "participants": [
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551859",
+    "catalogUrl": "https://catalog.archives.gov/id/366551859",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "localIdentifier": "91131-009",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551859",
+      "folderTitle": "Soviet Coup/Aftermath",
+      "localIdentifier": "91131-009"
+    },
+    "dateLine": "August 19, 1991",
+    "subjectLine": "Recommendations paper from the first day of the Soviet coup.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, NAID 366551859; document 16: Report, Recommendations. Digital object: 41-bpr-scow-ssussr-yel-91131-009.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, document 16.",
+    "topics": [
+      "Soviet coup",
+      "Recommendations",
+      "Crisis response",
+      "Yeltsin"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "16",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-08-19-cable-guidance-366551859-19a",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "sortOrder": 1,
+    "type": "Cable",
+    "title": "Cable, Guidance",
+    "documentTitle": "Cable, Guidance",
+    "participants": [
+      "White House",
+      "State Department"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551859",
+    "catalogUrl": "https://catalog.archives.gov/id/366551859",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "localIdentifier": "91131-009",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551859",
+      "folderTitle": "Soviet Coup/Aftermath",
+      "localIdentifier": "91131-009"
+    },
+    "dateLine": "August 19, 1991",
+    "subjectLine": "Guidance cable on U.S. handling of the Soviet coup.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, NAID 366551859; document 19a: Cable, Guidance. Digital object: 41-bpr-scow-ssussr-yel-91131-009.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, document 19a.",
+    "topics": [
+      "Soviet coup",
+      "Guidance cable",
+      "Crisis response"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "19a",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-08-19-yanayev-to-bush-unofficial-translation-366551859-22",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "sortOrder": 2,
+    "type": "Letter",
+    "title": "Yanayev to Bush, Unofficial Translation",
+    "documentTitle": "Yanayev to Bush, Unofficial Translation",
+    "participants": [
+      "Gennady Yanayev",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "Soviet Union",
+      "United States"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551859",
+    "catalogUrl": "https://catalog.archives.gov/id/366551859",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "localIdentifier": "91131-009",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551859",
+      "folderTitle": "Soviet Coup/Aftermath",
+      "localIdentifier": "91131-009"
+    },
+    "dateLine": "Undated, filed with August 19, 1991 coup material",
+    "subjectLine": "Unofficial translation of Yanayev's letter to Bush during the Soviet coup.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, NAID 366551859; document 22: Yanayev to Bush, Unofficial Translation. Digital object: 41-bpr-scow-ssussr-yel-91131-009.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, document 22.",
+    "topics": [
+      "Soviet coup",
+      "Yanayev",
+      "Bush",
+      "Presidential correspondence"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "22",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "public-papers-1991-08-19-attempted-coup",
     "date": "1991-08-19",
     "sortDate": "1991-08-19",
@@ -12245,6 +15750,216 @@ window.MEMCONS = [
     },
     "publicPapersTextLine": 326044,
     "seedBatch": "google-drive-public-papers-cheney-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-08-20-memo-for-deputies-working-group-366551859-15b",
+    "date": "1991-08-20",
+    "sortDate": "1991-08-20",
+    "sortOrder": 0,
+    "type": "Deputies Committee Memo",
+    "title": "Memo for Deputies, Working Group",
+    "documentTitle": "Memo for Deputies, Working Group",
+    "participants": [
+      "Deputies Committee",
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551859",
+    "catalogUrl": "https://catalog.archives.gov/id/366551859",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "localIdentifier": "91131-009",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551859",
+      "folderTitle": "Soviet Coup/Aftermath",
+      "localIdentifier": "91131-009"
+    },
+    "dateLine": "August 20, 1991",
+    "subjectLine": "Deputies working-group memo from the first days of the August 1991 Soviet coup.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, NAID 366551859; document 15b: Memo for Deputies, Working Group. Digital object: 41-bpr-scow-ssussr-yel-91131-009.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, document 15b.",
+    "topics": [
+      "Soviet coup",
+      "Deputies Committee",
+      "Working group",
+      "Crisis response"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "15b",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-08-20-issues-for-deputies-discussion-and-decision-366551859-15g",
+    "date": "1991-08-20",
+    "sortDate": "1991-08-20",
+    "sortOrder": 1,
+    "type": "Decision Paper",
+    "title": "Issues for Deputies' Discussion and Decision",
+    "documentTitle": "Issues for Deputies' Discussion and Decision",
+    "participants": [
+      "Deputies Committee",
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551859",
+    "catalogUrl": "https://catalog.archives.gov/id/366551859",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "localIdentifier": "91131-009",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551859",
+      "folderTitle": "Soviet Coup/Aftermath",
+      "localIdentifier": "91131-009"
+    },
+    "dateLine": "Undated, filed with August 20, 1991 Deputies working-group material",
+    "subjectLine": "Decision paper identifying issues for Deputies during the August 1991 Soviet coup.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, NAID 366551859; document 15g: Issues for Deputies' Discussion and Decision. Digital object: 41-bpr-scow-ssussr-yel-91131-009.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, document 15g.",
+    "topics": [
+      "Soviet coup",
+      "Deputies Committee",
+      "Crisis response",
+      "Decision paper"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "15g",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-08-20-gompert-to-scowcroft-statement-366551859-15i",
+    "date": "1991-08-20",
+    "sortDate": "1991-08-20",
+    "sortOrder": 2,
+    "type": "Policy Memorandum",
+    "title": "Gompert to Scowcroft, Statement",
+    "documentTitle": "Gompert to Scowcroft, Statement",
+    "participants": [
+      "David C. Gompert",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551859",
+    "catalogUrl": "https://catalog.archives.gov/id/366551859",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "localIdentifier": "91131-009",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551859",
+      "folderTitle": "Soviet Coup/Aftermath",
+      "localIdentifier": "91131-009"
+    },
+    "dateLine": "August 20, 1991",
+    "subjectLine": "Gompert memorandum to Scowcroft on a public statement during the Soviet coup.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, NAID 366551859; document 15i: Gompert to Scowcroft, Statement. Digital object: 41-bpr-scow-ssussr-yel-91131-009.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, document 15i.",
+    "topics": [
+      "Soviet coup",
+      "Gompert",
+      "Public statement",
+      "Crisis response"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "15i",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "scout-1991-08-20-tuesday-august-20-1991-1-470417302",
@@ -12466,6 +16181,76 @@ window.MEMCONS = [
     "seedBatch": "nara-scout-russia-fsu-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1991-08-22-paper-soviet-coup-366551859-12",
+    "date": "1991-08-22",
+    "sortDate": "1991-08-22",
+    "sortOrder": 0,
+    "type": "Policy Paper",
+    "title": "Paper, Soviet Coup",
+    "documentTitle": "Paper, Soviet Coup",
+    "participants": [
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551859",
+    "catalogUrl": "https://catalog.archives.gov/id/366551859",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "localIdentifier": "91131-009",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551859",
+      "folderTitle": "Soviet Coup/Aftermath",
+      "localIdentifier": "91131-009"
+    },
+    "dateLine": "August 22, 1991",
+    "subjectLine": "Eleven-page policy paper on the Soviet coup, filed in Scowcroft's Special Separate USSR Notes/Yeltsin Files.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, NAID 366551859; document 12: Paper, Soviet Coup. Digital object: 41-bpr-scow-ssussr-yel-91131-009.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, document 12.",
+    "topics": [
+      "Soviet coup",
+      "Yeltsin",
+      "Gorbachev",
+      "Crisis management"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "12",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "scout-1991-08-22-thursday-august-22-1991-470417306",
     "date": "1991-08-22",
     "sortDate": "1991-08-22",
@@ -12585,6 +16370,222 @@ window.MEMCONS = [
     "seedBatch": "essential-collections-and-drive-2026-05-20"
   },
   {
+    "id": "scowcroft-doc-1991-08-27-checklist-for-dc-meeting-on-soviet-humanitarian-options-366551859-03",
+    "date": "1991-08-27",
+    "sortDate": "1991-08-27",
+    "sortOrder": 0,
+    "type": "Meeting Checklist",
+    "title": "Checklist for DC Meeting on Soviet Humanitarian Options",
+    "documentTitle": "Checklist for DC Meeting on Soviet Humanitarian Options",
+    "participants": [
+      "Deputies Committee",
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Soviet Republics"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551859",
+    "catalogUrl": "https://catalog.archives.gov/id/366551859",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "localIdentifier": "91131-009",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551859",
+      "folderTitle": "Soviet Coup/Aftermath",
+      "localIdentifier": "91131-009"
+    },
+    "dateLine": "Undated, filed with August 27-28, 1991 coup-aftermath assistance material",
+    "subjectLine": "Checklist for a Deputies Committee meeting on humanitarian options after the Soviet coup.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, NAID 366551859; document 03: Checklist for DC Meeting on Soviet Humanitarian Options. Digital object: 41-bpr-scow-ssussr-yel-91131-009.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, document 03.",
+    "topics": [
+      "Humanitarian assistance",
+      "Deputies Committee",
+      "Soviet coup aftermath",
+      "Food aid"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "03",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-08-28-collins-to-scowcroft-letter-from-bush-on-the-baltics-366551845-02b",
+    "date": "1991-08-28",
+    "sortDate": "1991-08-28",
+    "sortOrder": 0,
+    "type": "Cable",
+    "title": "Collins to Scowcroft, Letter from Bush on the Baltics",
+    "documentTitle": "Collins to Scowcroft, Letter from Bush on the Baltics",
+    "participants": [
+      "James Collins",
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Baltic States"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551845",
+    "catalogUrl": "https://catalog.archives.gov/id/366551845",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "localIdentifier": "91130-003",
+    "objectFilename": "41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551845",
+      "folderTitle": "Gorbachev -Sensitive July-December 1991 [1]",
+      "localIdentifier": "91130-003"
+    },
+    "dateLine": "August 28, 1991",
+    "subjectLine": "Collins cable to Scowcroft concerning a Bush letter on the Baltics after the failed coup.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845; document 02b: Collins to Scowcroft, Letter from Bush on the Baltics. Digital object: 41-bpr-scow-ssussr-gor-91130-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, document 02b.",
+    "topics": [
+      "Baltic states",
+      "Bush correspondence",
+      "Collins",
+      "Post-coup policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "02b",
+      "pageEvidence": "Withdrawal sheet page 2; OCR page 10 message form",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify Bush-Gorbachev correspondence, Strauss reporting, USSR State Council material, and Yeltsin messages in the Gorbachev sensitive file."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-08-28-help-for-the-soviet-union-366551859-01b",
+    "date": "1991-08-28",
+    "sortDate": "1991-08-28",
+    "sortOrder": 0,
+    "type": "Policy Outline",
+    "title": "Help for the Soviet Union",
+    "documentTitle": "Help for the Soviet Union",
+    "participants": [
+      "Nicholas Brady",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Soviet Republics"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551859",
+    "catalogUrl": "https://catalog.archives.gov/id/366551859",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "localIdentifier": "91131-009",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551859",
+      "folderTitle": "Soviet Coup/Aftermath",
+      "localIdentifier": "91131-009"
+    },
+    "dateLine": "August 28, 1991",
+    "subjectLine": "Post-coup outline linking assistance to reform, direct aid to republics, defense-spending reductions, food credits, distribution, technical assistance, and IMF association.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, NAID 366551859; document 01b: Help for the Soviet Union. Digital object: 41-bpr-scow-ssussr-yel-91131-009.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, document 01b.",
+    "topics": [
+      "Soviet assistance",
+      "Republics",
+      "Economic reform",
+      "Food aid",
+      "IMF"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "OCR sampled the Brady cover sheet and open outline text.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01b",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 8-10",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "nara-1991-08-28-nsc-dc-308-august-28-1991-nsc-dc-meeting-re-humanitarian-assistance-to-ussr-keywords-ussr--470761329",
     "date": "1991-08-28",
     "sortDate": "1991-08-28",
@@ -12642,6 +16643,76 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "essential-collections-and-drive-2026-05-20"
+  },
+  {
+    "id": "scowcroft-doc-1991-08-28-guidance-on-economic-assistance-366551859-05",
+    "date": "1991-08-28",
+    "sortDate": "1991-08-28",
+    "sortOrder": 1,
+    "type": "Policy Guidance",
+    "title": "Guidance on Economic Assistance",
+    "documentTitle": "Guidance on Economic Assistance",
+    "participants": [
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Soviet Republics"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551859",
+    "catalogUrl": "https://catalog.archives.gov/id/366551859",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "localIdentifier": "91131-009",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-009.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551859",
+      "folderTitle": "Soviet Coup/Aftermath",
+      "localIdentifier": "91131-009"
+    },
+    "dateLine": "Undated, filed with August 28, 1991 coup-aftermath assistance material",
+    "subjectLine": "Guidance on economic assistance after the failed Soviet coup.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, NAID 366551859; document 05: Guidance on Economic Assistance. Digital object: 41-bpr-scow-ssussr-yel-91131-009.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Soviet Coup/Aftermath, 91131-009, document 05.",
+    "topics": [
+      "Economic assistance",
+      "Soviet coup aftermath",
+      "Republics",
+      "Policy guidance"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "05",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Soviet coup, humanitarian assistance, debt, economic aid, and Deputies working-group material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "central-chronology-1991-09-01-30520-001-470761776",
@@ -12894,6 +16965,76 @@ window.MEMCONS = [
     },
     "publicPapersTextLine": 336119,
     "seedBatch": "google-drive-public-papers-cheney-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-09-26-cable-september-26-letter-from-bush-to-gorbachev-366551845-03d",
+    "date": "1991-09-26",
+    "sortDate": "1991-09-26",
+    "sortOrder": 0,
+    "type": "Presidential Message",
+    "title": "Cable, September 26 Letter from Bush to Gorbachev",
+    "documentTitle": "Cable, September 26 Letter from Bush to Gorbachev",
+    "participants": [
+      "George H. W. Bush",
+      "Mikhail Gorbachev"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551845",
+    "catalogUrl": "https://catalog.archives.gov/id/366551845",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "localIdentifier": "91130-003",
+    "objectFilename": "41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551845",
+      "folderTitle": "Gorbachev -Sensitive July-December 1991 [1]",
+      "localIdentifier": "91130-003"
+    },
+    "dateLine": "September 26, 1991",
+    "subjectLine": "Cable transmitting Bush's September 26 letter to Gorbachev during the post-coup republics and nuclear-control crisis.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845; document 03d: Cable, September 26 Letter from Bush to Gorbachev. Digital object: 41-bpr-scow-ssussr-gor-91130-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, document 03d.",
+    "topics": [
+      "Bush-Gorbachev correspondence",
+      "Post-coup policy",
+      "Republics",
+      "Nuclear control"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "03d",
+      "pageEvidence": "Withdrawal sheet page 2",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify Bush-Gorbachev correspondence, Strauss reporting, USSR State Council material, and Yeltsin messages in the Gorbachev sensitive file."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "nara-1991-09-27-nsc-dc-313a-september-27-1991-nsc-dc-meeting-re-international-coordination-of-humanitarian-470761336",
@@ -13181,6 +17322,75 @@ window.MEMCONS = [
     "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1991-10-18-gorbachev-to-bush-unofficial-translation-366551845-04a",
+    "date": "1991-10-18",
+    "sortDate": "1991-10-18",
+    "sortOrder": 0,
+    "type": "Letter",
+    "title": "Gorbachev to Bush, Unofficial Translation",
+    "documentTitle": "Gorbachev to Bush, Unofficial Translation",
+    "participants": [
+      "Mikhail Gorbachev",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "Soviet Union",
+      "United States"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551845",
+    "catalogUrl": "https://catalog.archives.gov/id/366551845",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "localIdentifier": "91130-003",
+    "objectFilename": "41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551845",
+      "folderTitle": "Gorbachev -Sensitive July-December 1991 [1]",
+      "localIdentifier": "91130-003"
+    },
+    "dateLine": "October 18, 1991",
+    "subjectLine": "Gorbachev letter to Bush in October 1991, filed in Scowcroft's Gorbachev sensitive file.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845; document 04a: Gorbachev to Bush, Unofficial Translation. Digital object: 41-bpr-scow-ssussr-gor-91130-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, document 04a.",
+    "topics": [
+      "Gorbachev",
+      "Bush-Gorbachev correspondence",
+      "Soviet collapse"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "04a",
+      "pageEvidence": "Withdrawal sheet pages 2-3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify Bush-Gorbachev correspondence, Strauss reporting, USSR State Council material, and Yeltsin messages in the Gorbachev sensitive file."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1991-10-24-911024-moscow-cable-re-kravchuk-and-nukes-pdf",
     "date": "1991-10-24",
     "sortDate": "1991-10-24",
@@ -13233,6 +17443,75 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-10-27-cable-letter-from-bush-to-gorbachev-366551845-08",
+    "date": "1991-10-27",
+    "sortDate": "1991-10-27",
+    "sortOrder": 0,
+    "type": "Presidential Message",
+    "title": "Cable, Letter from Bush to Gorbachev",
+    "documentTitle": "Cable, Letter from Bush to Gorbachev",
+    "participants": [
+      "George H. W. Bush",
+      "Mikhail Gorbachev"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551845",
+    "catalogUrl": "https://catalog.archives.gov/id/366551845",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "localIdentifier": "91130-003",
+    "objectFilename": "41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551845",
+      "folderTitle": "Gorbachev -Sensitive July-December 1991 [1]",
+      "localIdentifier": "91130-003"
+    },
+    "dateLine": "October 27, 1991",
+    "subjectLine": "Cable transmitting a Bush letter to Gorbachev after the failed coup and before formal Soviet dissolution.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845; document 08: Cable, Letter from Bush to Gorbachev. Digital object: 41-bpr-scow-ssussr-gor-91130-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, document 08.",
+    "topics": [
+      "Bush-Gorbachev correspondence",
+      "Soviet collapse",
+      "Post-coup policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "08",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify Bush-Gorbachev correspondence, Strauss reporting, USSR State Council material, and Yeltsin messages in the Gorbachev sensitive file."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "drive-sweep-1991-10-29-911029-dod-paper-in-response-to-john-gordon-pdf",
@@ -13655,6 +17934,148 @@ window.MEMCONS = [
     "seedBatch": "central-chronology-374000108-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1991-11-10-strauss-to-scowcroft-meeting-with-gorbachev-366551845-11",
+    "date": "1991-11-10",
+    "sortDate": "1991-11-10",
+    "sortOrder": 0,
+    "type": "Cable",
+    "title": "Strauss to Scowcroft, Meeting with Gorbachev",
+    "documentTitle": "Strauss to Scowcroft, Meeting with Gorbachev",
+    "participants": [
+      "Robert Strauss",
+      "Brent Scowcroft",
+      "Mikhail Gorbachev"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551845",
+    "catalogUrl": "https://catalog.archives.gov/id/366551845",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "localIdentifier": "91130-003",
+    "objectFilename": "41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551845",
+      "folderTitle": "Gorbachev -Sensitive July-December 1991 [1]",
+      "localIdentifier": "91130-003"
+    },
+    "dateLine": "November 10, 1991",
+    "subjectLine": "Strauss cable to Scowcroft on his meeting with Gorbachev in November 1991.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845; document 11: Strauss to Scowcroft, Meeting with Gorbachev. Digital object: 41-bpr-scow-ssussr-gor-91130-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, document 11.",
+    "topics": [
+      "Strauss",
+      "Gorbachev",
+      "Soviet collapse",
+      "Ambassador reporting"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "11",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify Bush-Gorbachev correspondence, Strauss reporting, USSR State Council material, and Yeltsin messages in the Gorbachev sensitive file."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-11-15-report-ussr-state-council-s-session-366551845-14",
+    "date": "1991-11-15",
+    "sortDate": "1991-11-15",
+    "sortOrder": 0,
+    "type": "Report",
+    "title": "Report, USSR State Council's Session",
+    "documentTitle": "Report, USSR State Council's Session",
+    "participants": [
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Soviet Republics"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551845",
+    "catalogUrl": "https://catalog.archives.gov/id/366551845",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "localIdentifier": "91130-003",
+    "objectFilename": "41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551845",
+      "folderTitle": "Gorbachev -Sensitive July-December 1991 [1]",
+      "localIdentifier": "91130-003"
+    },
+    "dateLine": "November 15, 1991",
+    "subjectLine": "Report on the USSR State Council session during the final weeks of the Soviet Union.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845; document 14: Report, USSR State Council's Session. Digital object: 41-bpr-scow-ssussr-gor-91130-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, document 14.",
+    "topics": [
+      "USSR State Council",
+      "Soviet collapse",
+      "Republics policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "14",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify Bush-Gorbachev correspondence, Strauss reporting, USSR State Council material, and Yeltsin messages in the Gorbachev sensitive file."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "public-papers-1991-11-20-food-assistance-soviet-union",
     "date": "1991-11-20",
     "sortDate": "1991-11-20",
@@ -13821,6 +18242,77 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-11-26-yeltsin-to-bush-unofficial-translation-366551845-15",
+    "date": "1991-11-26",
+    "sortDate": "1991-11-26",
+    "sortOrder": 0,
+    "type": "Letter",
+    "title": "Yeltsin to Bush, Unofficial Translation",
+    "documentTitle": "Yeltsin to Bush, Unofficial Translation",
+    "participants": [
+      "Boris Yeltsin",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "Russia",
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551845",
+    "catalogUrl": "https://catalog.archives.gov/id/366551845",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "localIdentifier": "91130-003",
+    "objectFilename": "41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551845",
+      "folderTitle": "Gorbachev -Sensitive July-December 1991 [1]",
+      "localIdentifier": "91130-003"
+    },
+    "dateLine": "November 26, 1991",
+    "subjectLine": "Yeltsin letter to Bush, filed in the Scowcroft Gorbachev sensitive file during the Soviet dissolution period.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845; document 15: Yeltsin to Bush, Unofficial Translation. Digital object: 41-bpr-scow-ssussr-gor-91130-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, document 15.",
+    "topics": [
+      "Yeltsin",
+      "Bush-Yeltsin correspondence",
+      "Russia",
+      "Soviet collapse"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "15",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify Bush-Gorbachev correspondence, Strauss reporting, USSR State Council material, and Yeltsin messages in the Gorbachev sensitive file."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "drive-sweep-1991-11-30-911130-bush-and-yeltsin-telcon-pdf",
@@ -14179,6 +18671,76 @@ window.MEMCONS = [
     }
   },
   {
+    "id": "scowcroft-doc-1991-12-25-gorbachev-to-bush-december-25-1991-letter-366551845-17a",
+    "date": "1991-12-25",
+    "sortDate": "1991-12-25",
+    "sortOrder": 0,
+    "type": "Letter",
+    "title": "Gorbachev to Bush, December 25, 1991 Letter",
+    "documentTitle": "Gorbachev to Bush, December 25, 1991 Letter",
+    "participants": [
+      "Mikhail Gorbachev",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "Soviet Union",
+      "United States",
+      "Russia"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551845",
+    "catalogUrl": "https://catalog.archives.gov/id/366551845",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "localIdentifier": "91130-003",
+    "objectFilename": "41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551845",
+      "folderTitle": "Gorbachev -Sensitive July-December 1991 [1]",
+      "localIdentifier": "91130-003"
+    },
+    "dateLine": "December 25, 1991",
+    "subjectLine": "Gorbachev letter to Bush on the day he resigned as Soviet president.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845; document 17a: Gorbachev to Bush, December 25, 1991 Letter. Digital object: 41-bpr-scow-ssussr-gor-91130-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, document 17a.",
+    "topics": [
+      "Gorbachev resignation",
+      "Soviet dissolution",
+      "Bush-Gorbachev correspondence"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "17a",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify Bush-Gorbachev correspondence, Strauss reporting, USSR State Council material, and Yeltsin messages in the Gorbachev sensitive file."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "public-papers-1991-12-25-gorbachev-resignation",
     "date": "1991-12-25",
     "sortDate": "1991-12-25",
@@ -14302,6 +18864,78 @@ window.MEMCONS = [
     },
     "publicPapersTextLine": 367297,
     "seedBatch": "google-drive-public-papers-cheney-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1991-12-26-collins-to-scowcroft-and-hewett-no-subject-366551845-18",
+    "date": "1991-12-26",
+    "sortDate": "1991-12-26",
+    "sortOrder": 0,
+    "type": "Cable",
+    "title": "Collins to Scowcroft and Hewett, No Subject",
+    "documentTitle": "Collins to Scowcroft and Hewett, No Subject",
+    "participants": [
+      "James Collins",
+      "Brent Scowcroft",
+      "Edward Hewett"
+    ],
+    "countries": [
+      "United States",
+      "Russia",
+      "Former Soviet Union"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551845",
+    "catalogUrl": "https://catalog.archives.gov/id/366551845",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "localIdentifier": "91130-003",
+    "objectFilename": "41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551845",
+      "folderTitle": "Gorbachev -Sensitive July-December 1991 [1]",
+      "localIdentifier": "91130-003"
+    },
+    "dateLine": "December 26, 1991",
+    "subjectLine": "Collins cable to Scowcroft and Hewett immediately after Soviet dissolution.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845; document 18: Collins to Scowcroft and Hewett, No Subject. Digital object: 41-bpr-scow-ssussr-gor-91130-003.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, document 18.",
+    "topics": [
+      "Collins",
+      "Soviet dissolution",
+      "Russia",
+      "Post-Soviet transition"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "18",
+      "pageEvidence": "Withdrawal sheet page 5",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets identify Bush-Gorbachev correspondence, Strauss reporting, USSR State Council material, and Yeltsin messages in the Gorbachev sensitive file."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "scout-1991-12-26-thursday-december-26-1991-470417516",
@@ -15275,6 +19909,78 @@ window.MEMCONS = [
       "searchReport": "reports/central-chronology-374000108-search.json"
     },
     "seedBatch": "central-chronology-374000108-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1992-03-05-strauss-to-scowcroft-and-baker-kozyrev-hints-at-walk-in-the-woods-366551851-10a",
+    "date": "1992-03-05",
+    "sortDate": "1992-03-05",
+    "sortOrder": 0,
+    "type": "Cable",
+    "title": "Strauss to Scowcroft and Baker, Kozyrev Hints at Walk in the Woods",
+    "documentTitle": "Strauss to Scowcroft and Baker, Kozyrev Hints at Walk in the Woods",
+    "participants": [
+      "Robert Strauss",
+      "Brent Scowcroft",
+      "James A. Baker III",
+      "Andrei Kozyrev"
+    ],
+    "countries": [
+      "United States",
+      "Russia"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551851",
+    "catalogUrl": "https://catalog.archives.gov/id/366551851",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "localIdentifier": "91131-001",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551851",
+      "folderTitle": "Yeltsin (January-December) 1992 [1]",
+      "localIdentifier": "91131-001"
+    },
+    "dateLine": "March 5, 1992",
+    "subjectLine": "Strauss cable on Kozyrev hints about a possible private negotiation track, filed in the Yeltsin 1992 folder.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, NAID 366551851; document 10a: Strauss to Scowcroft and Baker, Kozyrev Hints at Walk in the Woods. Digital object: 41-bpr-scow-ssussr-yel-91131-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, document 10a.",
+    "topics": [
+      "Kozyrev",
+      "Strauss",
+      "Russia policy",
+      "Arms control"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "10a",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Yeltsin/START II/HEU/Nunn-Lugar transition material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "drive-1992-03-10-nunn-lugar-trip-report",
@@ -18406,6 +23112,76 @@ window.MEMCONS = [
     "seedBatch": "google-drive-public-papers-cheney-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1992-11-20-cable-message-from-bush-to-yeltsin-366551851-14",
+    "date": "1992-11-20",
+    "sortDate": "1992-11-20",
+    "sortOrder": 0,
+    "type": "Presidential Message",
+    "title": "Cable, Message from Bush to Yeltsin",
+    "documentTitle": "Cable, Message from Bush to Yeltsin",
+    "participants": [
+      "George H. W. Bush",
+      "Boris Yeltsin"
+    ],
+    "countries": [
+      "United States",
+      "Russia"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551851",
+    "catalogUrl": "https://catalog.archives.gov/id/366551851",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "localIdentifier": "91131-001",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551851",
+      "folderTitle": "Yeltsin (January-December) 1992 [1]",
+      "localIdentifier": "91131-001"
+    },
+    "dateLine": "November 20, 1992",
+    "subjectLine": "Bush message to Yeltsin in the late-1992 START II and transition period.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, NAID 366551851; document 14: Cable, Message from Bush to Yeltsin. Digital object: 41-bpr-scow-ssussr-yel-91131-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, document 14.",
+    "topics": [
+      "Bush-Yeltsin correspondence",
+      "Russia",
+      "START II",
+      "Transition"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "14",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Yeltsin/START II/HEU/Nunn-Lugar transition material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1992-11-23-921123-nunn-lugar-with-russian-parliamentarians-pdf",
     "date": "1992-11-23",
     "sortDate": "1992-11-23",
@@ -18684,6 +23460,75 @@ window.MEMCONS = [
     "seedBatch": "essential-collections-and-drive-2026-05-20"
   },
   {
+    "id": "scowcroft-doc-1992-11-29-cable-message-from-bush-to-yeltsin-366551851-06",
+    "date": "1992-11-29",
+    "sortDate": "1992-11-29",
+    "sortOrder": 0,
+    "type": "Presidential Message",
+    "title": "Cable, Message from Bush to Yeltsin",
+    "documentTitle": "Cable, Message from Bush to Yeltsin",
+    "participants": [
+      "George H. W. Bush",
+      "Boris Yeltsin"
+    ],
+    "countries": [
+      "United States",
+      "Russia"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551851",
+    "catalogUrl": "https://catalog.archives.gov/id/366551851",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "localIdentifier": "91131-001",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551851",
+      "folderTitle": "Yeltsin (January-December) 1992 [1]",
+      "localIdentifier": "91131-001"
+    },
+    "dateLine": "November 29, 1992",
+    "subjectLine": "Bush message to Yeltsin transmitted by White House cable in late November 1992.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, NAID 366551851; document 06: Cable, Message from Bush to Yeltsin. Digital object: 41-bpr-scow-ssussr-yel-91131-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, document 06.",
+    "topics": [
+      "Bush-Yeltsin correspondence",
+      "Russia",
+      "Transition"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "06",
+      "pageEvidence": "Withdrawal sheet page 3",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Yeltsin/START II/HEU/Nunn-Lugar transition material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "scout-1992-12-01-december-1992-4-470761838",
     "date": "1992-12-01",
     "sortDate": "1992-12-01",
@@ -18942,6 +23787,148 @@ window.MEMCONS = [
     "seedBatch": "nara-scout-russia-fsu-2026-05-21"
   },
   {
+    "id": "scowcroft-doc-1992-12-18-cable-yeltsin-december-16-letter-to-bush-on-start-ii-366551851-13",
+    "date": "1992-12-18",
+    "sortDate": "1992-12-18",
+    "sortOrder": 0,
+    "type": "Cable",
+    "title": "Cable, Yeltsin December 16 Letter to Bush on START II",
+    "documentTitle": "Cable, Yeltsin December 16 Letter to Bush on START II",
+    "participants": [
+      "Boris Yeltsin",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "Russia",
+      "United States"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551851",
+    "catalogUrl": "https://catalog.archives.gov/id/366551851",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "localIdentifier": "91131-001",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551851",
+      "folderTitle": "Yeltsin (January-December) 1992 [1]",
+      "localIdentifier": "91131-001"
+    },
+    "dateLine": "December 18, 1992",
+    "subjectLine": "Cable reporting Yeltsin's December 16 letter to Bush on START II.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, NAID 366551851; document 13: Cable, Yeltsin December 16 Letter to Bush on START II. Digital object: 41-bpr-scow-ssussr-yel-91131-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, document 13.",
+    "topics": [
+      "START II",
+      "Yeltsin",
+      "Bush-Yeltsin correspondence",
+      "Arms control"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "13",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Yeltsin/START II/HEU/Nunn-Lugar transition material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1992-12-18-cable-next-steps-on-bush-yeltsin-meeting-on-start-ii-366551851-15",
+    "date": "1992-12-18",
+    "sortDate": "1992-12-18",
+    "sortOrder": 1,
+    "type": "Cable",
+    "title": "Cable, Next Steps on Bush-Yeltsin Meeting on START II",
+    "documentTitle": "Cable, Next Steps on Bush-Yeltsin Meeting on START II",
+    "participants": [
+      "U.S. Embassy Moscow",
+      "White House",
+      "Boris Yeltsin",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Russia"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551851",
+    "catalogUrl": "https://catalog.archives.gov/id/366551851",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "localIdentifier": "91131-001",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551851",
+      "folderTitle": "Yeltsin (January-December) 1992 [1]",
+      "localIdentifier": "91131-001"
+    },
+    "dateLine": "Undated, filed with December 1992 START II messages",
+    "subjectLine": "Moscow-to-White House cable on next steps for a Bush-Yeltsin meeting on START II.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, NAID 366551851; document 15: Cable, Next Steps on Bush-Yeltsin Meeting on START II. Digital object: 41-bpr-scow-ssussr-yel-91131-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, document 15.",
+    "topics": [
+      "START II",
+      "Bush-Yeltsin meeting",
+      "Russia",
+      "Arms control"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Document title/date extracted from OCR of NARA Scowcroft file-unit withdrawal sheets; full document text still needs page-span review.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "15",
+      "pageEvidence": "Withdrawal sheet page 4",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Yeltsin/START II/HEU/Nunn-Lugar transition material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1992-12-24-921224-bush-and-kravchuk-pdf",
     "date": "1992-12-24",
     "sortDate": "1992-12-24",
@@ -19052,6 +24039,85 @@ window.MEMCONS = [
     },
     "publicPapersTextLine": 500938,
     "seedBatch": "google-drive-public-papers-cheney-2026-05-21"
+  },
+  {
+    "id": "scowcroft-doc-1993-01-14-poneman-and-burns-to-scowcroft-proposed-presidential-message-to-yeltsin-on-heu-sharing-366551851-01a",
+    "date": "1993-01-14",
+    "sortDate": "1993-01-14",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "Poneman and Burns to Scowcroft, Proposed Presidential Message to Yeltsin on HEU Sharing",
+    "documentTitle": "Poneman and Burns to Scowcroft, Proposed Presidential Message to Yeltsin on HEU Sharing",
+    "participants": [
+      "Daniel Poneman",
+      "Nicholas Burns",
+      "Brent Scowcroft",
+      "Boris Yeltsin",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Russia",
+      "Ukraine",
+      "Kazakhstan",
+      "Belarus"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "PDF available; document identified inside Scowcroft file unit; NARA access status Restricted - Possibly",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "naid": "366551851",
+    "catalogUrl": "https://catalog.archives.gov/id/366551851",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "localIdentifier": "91131-001",
+    "objectFilename": "41-bpr-scow-ssussr-yel-91131-001.pdf",
+    "digitalObjects": 1,
+    "source": {
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551851",
+      "folderTitle": "Yeltsin (January-December) 1992 [1]",
+      "localIdentifier": "91131-001"
+    },
+    "dateLine": "January 14, 1993",
+    "subjectLine": "Transition-period memorandum urging Yeltsin to sign the HEU agreement and settle proceeds-sharing with Ukraine, Kazakhstan, and Belarus to support START/NPT implementation.",
+    "sourceNote": "Source: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, NAID 366551851; document 01a: Poneman and Burns to Scowcroft, Proposed Presidential Message to Yeltsin on HEU Sharing. Digital object: 41-bpr-scow-ssussr-yel-91131-001.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Yeltsin (January-December) 1992 [1], 91131-001, document 01a.",
+    "topics": [
+      "HEU agreement",
+      "Ukraine",
+      "Kazakhstan",
+      "Belarus",
+      "START",
+      "NPT",
+      "Nunn-Lugar"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Extracted Scowcroft document candidate",
+    "nextAction": "Review the cited PDF pages, capture exact page span and document state, and reconcile against any duplicate Drive or FRUS Volume III source copy before selection.",
+    "extractionStatus": "Dated January 14, 1993, but still Bush administration transition material; OCR sampled open memorandum and message text.",
+    "extractionBasis": {
+      "method": "OCR of NARA PDF withdrawal sheet",
+      "documentNo": "01a",
+      "pageEvidence": "Withdrawal sheet page 2; open OCR pages 5-9",
+      "folderNote": "OCR sampled first ten pages; withdrawal sheets and open pages identify Yeltsin/START II/HEU/Nunn-Lugar transition material."
+    },
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "scowcroft-nara-documents-2026-05-21"
   },
   {
     "id": "source-frus-volume-iii-status",
