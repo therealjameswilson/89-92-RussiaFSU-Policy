@@ -3779,19 +3779,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890130 Mahley to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "January 30, 1989",
     "subjectLine": "Mahley memorandum to Scowcroft from the opening phase of the Bush administration's Soviet policy review.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890130 Mahley to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890130 Mahley to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Mahley",
       "Scowcroft",
@@ -3800,8 +3807,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -3810,7 +3816,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN"
+    }
   },
   {
     "id": "scowcroft-doc-1989-01-30-blackwill-to-scowcroft-secretary-baker-s-letter-to-shevardnadze-366551738-01a",
@@ -3904,19 +3929,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890204 Zelikow to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "February 4, 1989",
     "subjectLine": "Zelikow memorandum to Scowcroft during the administration's initial Soviet strategy review.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890204 Zelikow to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890204 Zelikow to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Zelikow",
       "Scowcroft",
@@ -3925,8 +3957,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -3935,7 +3966,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0"
+    }
   },
   {
     "id": "drive-scowcroft-1989-02-10-890210-zelikow-to-scowcroft-pdf",
@@ -3957,19 +4007,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890210 Zelikow to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "February 10, 1989",
     "subjectLine": "Follow-on Zelikow memorandum to Scowcroft in the February 1989 Soviet-policy review cycle.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890210 Zelikow to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890210 Zelikow to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Zelikow",
       "Scowcroft",
@@ -3978,8 +4035,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -3988,7 +4044,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr"
+    }
   },
   {
     "id": "scowcroft-doc-1989-02-14-rice-to-scowcroft-cable-from-ambassador-matlock-366551738-03a",
@@ -4199,19 +4274,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890216 Blackwill to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "February 16, 1989",
     "subjectLine": "Blackwill memorandum to Scowcroft on Soviet and European policy during the early Bush transition.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890216 Blackwill to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890216 Blackwill to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Blackwill",
       "Scowcroft",
@@ -4220,8 +4302,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -4230,7 +4311,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ"
+    }
   },
   {
     "id": "scowcroft-doc-1989-02-16-blackwill-to-scowcroft-work-program-for-nsrs-3-4-and-5-366551738-05",
@@ -4453,19 +4553,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890221 Scowcroft and Bahr .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "February 21, 1989",
     "subjectLine": "Scowcroft-Bahr material useful for triangulating Soviet, German, and European policy assumptions.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890221 Scowcroft and Bahr .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890221 Scowcroft and Bahr .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Scowcroft",
       "Bahr",
@@ -4474,8 +4581,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -4484,7 +4590,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw"
+    }
   },
   {
     "id": "drive-scowcroft-1989-02-27-890227-leach-and-rice-to-scowcroft-pdf",
@@ -4507,19 +4632,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890227 Leach and Rice to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "February 27, 1989",
     "subjectLine": "Leach-Rice memorandum to Scowcroft in the first-year Soviet policy review.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890227 Leach and Rice to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890227 Leach and Rice to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Rice",
       "Leach",
@@ -4528,8 +4660,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -4538,7 +4669,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj"
+    }
   },
   {
     "id": "scowcroft-doc-1989-02-27-leach-and-rice-to-scowcroft-handling-the-no-expectations-policy-366551738-07a",
@@ -4815,19 +4965,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890302 Rice to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "March 2, 1989",
     "subjectLine": "Rice memorandum to Scowcroft as the NSC framed policy toward Gorbachev and Soviet reform.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890302 Rice to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890302 Rice to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Rice",
       "Scowcroft",
@@ -4836,8 +4993,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -4846,7 +5002,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj"
+    }
   },
   {
     "id": "scowcroft-doc-1989-03-02-rice-to-scowcroft-your-meeting-with-jack-matlock-366551738-09",
@@ -4940,19 +5115,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890311 Zelikow and Mahley to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "March 11, 1989",
     "subjectLine": "Zelikow-Mahley memorandum to Scowcroft on the Soviet policy course under review.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890311 Zelikow and Mahley to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890311 Zelikow and Mahley to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Zelikow",
       "Mahley",
@@ -4961,8 +5143,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -4971,7 +5152,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V"
+    }
   },
   {
     "id": "drive-scowcroft-1989-03-13-890313-zelikow-to-scowcroft-pdf",
@@ -4993,19 +5193,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890313 Zelikow to Scowcroft.pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "March 13, 1989",
     "subjectLine": "Zelikow memorandum to Scowcroft from the March 1989 policy-planning sequence.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890313 Zelikow to Scowcroft.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890313 Zelikow to Scowcroft.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Zelikow",
       "Scowcroft",
@@ -5014,8 +5221,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -5024,7 +5230,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J"
+    }
   },
   {
     "id": "source-lead-google-drive-cheney-public-statements",
@@ -5158,19 +5383,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890321 Zelikow to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "March 21, 1989",
     "subjectLine": "Zelikow memorandum to Scowcroft during the March 1989 Soviet policy review.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890321 Zelikow to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890321 Zelikow to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Zelikow",
       "Scowcroft",
@@ -5179,8 +5411,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -5189,7 +5420,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0"
+    }
   },
   {
     "id": "drive-scowcroft-1989-03-21-890321-snider-to-scowcroft-pdf",
@@ -5211,19 +5461,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890321 Snider to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "March 21, 1989",
     "subjectLine": "Snider memorandum to Scowcroft in the early Soviet policy-development period.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890321 Snider to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890321 Snider to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Snider",
       "Scowcroft",
@@ -5232,8 +5489,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -5242,7 +5498,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ"
+    }
   },
   {
     "id": "drive-scowcroft-1989-03-28-890328-melby-and-lowenkron-to-scowcroft-pdf",
@@ -5266,19 +5541,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890328 Melby and Lowenkron to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "March 28, 1989",
     "subjectLine": "Melby-Lowenkron memorandum to Scowcroft on the Soviet and Eastern Europe policy environment.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890328 Melby and Lowenkron to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890328 Melby and Lowenkron to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Melby",
       "Lowenkron",
@@ -5287,8 +5569,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -5297,7 +5578,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF"
+    }
   },
   {
     "id": "nara-1989-03-29-nsc-dc-014-march-29-1989-nsc-dc-meeting-on-nsr-3-re-u-s-soviet-economic-relations-keywords-470760988",
@@ -5732,19 +6032,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890405 Scowcroft to Powell .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "April 5, 1989",
     "subjectLine": "Scowcroft memorandum to Powell in the pre-NSD-23 Soviet policy-planning period.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890405 Scowcroft to Powell .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890405 Scowcroft to Powell .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Scowcroft",
       "Powell",
@@ -5753,8 +6060,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -5763,7 +6069,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ"
+    }
   },
   {
     "id": "scowcroft-doc-1989-04-08-rice-to-scowcroft-president-s-message-to-gorbachev-on-the-mike-class-submarine-accident-366551738-11a",
@@ -5860,19 +6185,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV",
-    "pdfUrl": "https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551795",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-001.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1989.4.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memos and draft presidential statements on Polish Democracy and Ending Division in Europe.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Chronological Files",
+      "seriesNaid": "4708332",
+      "folderNaid": "366551795",
+      "folderTitle": "Soviet Power Collapse in Eastern Europe (March-April 1989)",
+      "localIdentifier": "91124-001"
     },
     "dateLine": "April 10, 1989",
     "subjectLine": "GBPL source-copy lead for presidential statements on Polish democracy and ending Europe's division.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.4.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memos and draft presidential statements on Polish Democracy and Ending Division in Europe.pdf. URL: https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (March-April 1989), 91124-001, NAID 366551795. Digital object: 41-bpr-scow-ussrch-svp-91124-001.pdf. Original Drive source-copy title: 1989.4.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memos and draft presidential statements on Polish Democracy and Ending Division in Europe.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (March-April 1989), 91124-001, NAID 366551795.",
     "topics": [
       "GBPL",
       "Poland",
@@ -5881,8 +6213,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -5891,7 +6222,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551795",
+    "localIdentifier": "91124-001",
+    "objectFilename": "41-bpr-scow-ussrch-svp-91124-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91124-001",
+      "matchedNaid": "366551795",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551795",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV"
+    }
   },
   {
     "id": "drive-scowcroft-1989-04-11-890411-blackwill-and-rodman-to-scowcroft-pdf",
@@ -5915,19 +6265,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551738",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890411 Blackwill and Rodman to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551738",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989)",
+      "localIdentifier": "91117-001"
     },
     "dateLine": "April 11, 1989",
     "subjectLine": "Blackwill-Rodman memorandum to Scowcroft on Soviet and Eastern Europe policy questions.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890411 Blackwill and Rodman to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738. Digital object: 41-bpr-scow-ussrco-ussrl-91117-001.pdf. Original Drive source-copy title: 890411 Blackwill and Rodman to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-April 1989), 91117-001, NAID 366551738.",
     "topics": [
       "Blackwill",
       "Rodman",
@@ -5936,8 +6293,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -5946,7 +6302,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551738",
+    "localIdentifier": "91117-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-001",
+      "matchedNaid": "366551738",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551738",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV"
+    }
   },
   {
     "id": "scowcroft-doc-1989-04-26-stearman-to-scowcroft-soviets-still-exporting-revolution-in-southern-africa-366551738-12",
@@ -6109,19 +6484,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1989.Spring, GBPL, Scowcroft, Brent Files, USSR Collapse- US-Sov Relations Thru 1991 (May 1989), Outline of Coast Guard Academy Speech.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
     },
     "dateLine": "Spring 1989",
     "subjectLine": "GBPL source-copy lead for early Bush administration public framing of U.S.-Soviet relations.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.Spring, GBPL, Scowcroft, Brent Files, USSR Collapse- US-Sov Relations Thru 1991 (May 1989), Outline of Coast Guard Academy Speech.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf. Original Drive source-copy title: 1989.Spring, GBPL, Scowcroft, Brent Files, USSR Collapse- US-Sov Relations Thru 1991 (May 1989), Outline of Coast Guard Academy Speech.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739.",
     "topics": [
       "GBPL",
       "Scowcroft Files",
@@ -6130,8 +6512,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -6140,7 +6521,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551739",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91117-002",
+      "matchedNaid": "366551739",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551739",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU"
+    }
   },
   {
     "id": "scowcroft-doc-1989-05-01-rice-to-scowcroft-soviet-nsd-366551739-01g",
@@ -6304,19 +6704,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551765",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-snf-91120-004.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1989.5.02, GBPL, Scowcroft, Brent Files, Box 91120, Soviet Power Collapse - SNF - February-May 1989, Prepared Q&As for Press Conference on NATO.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Chronological Files",
+      "seriesNaid": "4708332",
+      "folderNaid": "366551765",
+      "folderTitle": "Soviet Power Collapse in Eastern Europe--SNF [Short-range Nuclear Forces] May 1989 [1]",
+      "localIdentifier": "91120-004"
     },
     "dateLine": "May 2, 1989",
     "subjectLine": "GBPL source-copy lead for NATO press guidance amid Soviet and European policy repositioning.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.5.02, GBPL, Scowcroft, Brent Files, Box 91120, Soviet Power Collapse - SNF - February-May 1989, Prepared Q&As for Press Conference on NATO.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe--SNF [Short-range Nuclear Forces] May 1989 [1], 91120-004, NAID 366551765. Digital object: 41-bpr-scow-ussrch-snf-91120-004.pdf. Original Drive source-copy title: 1989.5.02, GBPL, Scowcroft, Brent Files, Box 91120, Soviet Power Collapse - SNF - February-May 1989, Prepared Q&As for Press Conference on NATO.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe--SNF [Short-range Nuclear Forces] May 1989 [1], 91120-004, NAID 366551765.",
     "topics": [
       "GBPL",
       "NATO",
@@ -6325,8 +6732,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -6335,7 +6741,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551765",
+    "localIdentifier": "91120-004",
+    "objectFilename": "41-bpr-scow-ussrch-snf-91120-004.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library box/file-unit lane.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-box",
+      "matchedLocalIdentifier": "91120-004",
+      "matchedNaid": "366551765",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551765",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-snf-91120-004.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ"
+    }
   },
   {
     "id": "scowcroft-doc-1989-05-02-hughes-to-scowcroft-b-c-s-breakfast-meeting-366551739-01a",
@@ -6643,19 +7068,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551795",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-001.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1989.5.3, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memo from Rice to BW re Meeting with Polish opposition leaders.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Chronological Files",
+      "seriesNaid": "4708332",
+      "folderNaid": "366551795",
+      "folderTitle": "Soviet Power Collapse in Eastern Europe (March-April 1989)",
+      "localIdentifier": "91124-001"
     },
     "dateLine": "May 3, 1989",
     "subjectLine": "Rice memorandum lead on meetings with Polish opposition leaders during the Soviet-bloc transition.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.5.3, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memo from Rice to BW re Meeting with Polish opposition leaders.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (March-April 1989), 91124-001, NAID 366551795. Digital object: 41-bpr-scow-ussrch-svp-91124-001.pdf. Original Drive source-copy title: 1989.5.3, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memo from Rice to BW re Meeting with Polish opposition leaders.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (March-April 1989), 91124-001, NAID 366551795.",
     "topics": [
       "GBPL",
       "Rice",
@@ -6664,8 +7096,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -6674,7 +7105,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551795",
+    "localIdentifier": "91124-001",
+    "objectFilename": "41-bpr-scow-ussrch-svp-91124-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91124-001",
+      "matchedNaid": "366551795",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551795",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE"
+    }
   },
   {
     "id": "scowcroft-doc-1989-05-03-rodman-to-gates-regional-issues-at-the-moscow-ministerial-366551739-02a",
@@ -6842,7 +7292,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgUVR4THBjdk9kXzg",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgUVR4THBjdk9kXzg",
     "source": {
@@ -6863,8 +7313,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -6967,19 +7416,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890509 Blackwill to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
     },
     "dateLine": "May 9, 1989",
     "subjectLine": "Blackwill memorandum to Scowcroft as Soviet policy, NATO, and German issues converged in spring 1989.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890509 Blackwill to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf. Original Drive source-copy title: 890509 Blackwill to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739.",
     "topics": [
       "Blackwill",
       "Scowcroft",
@@ -6988,8 +7444,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -6998,7 +7453,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551739",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-002",
+      "matchedNaid": "366551739",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551739",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n"
+    }
   },
   {
     "id": "scowcroft-doc-1989-05-09-blackwill-to-scowcroft-presidential-speeches-related-to-europe-trip-366551739-04a",
@@ -7093,19 +7567,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551739",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890509 Snider to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551739",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989)",
+      "localIdentifier": "91117-002"
     },
     "dateLine": "May 9, 1989",
     "subjectLine": "Snider memorandum to Scowcroft during the May 1989 policy-framing period.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890509 Snider to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739. Digital object: 41-bpr-scow-ussrco-ussrl-91117-002.pdf. Original Drive source-copy title: 890509 Snider to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May 1989), 91117-002, NAID 366551739.",
     "topics": [
       "Snider",
       "Scowcroft",
@@ -7114,8 +7595,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7124,7 +7604,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551739",
+    "localIdentifier": "91117-002",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-002",
+      "matchedNaid": "366551739",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551739",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-002.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw"
+    }
   },
   {
     "id": "scowcroft-doc-1989-05-09-scowcroft-to-cheney-u-s-soviet-dangerous-military-activity-agreement-366551739-05a",
@@ -7215,7 +7714,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSXBROEJFc0loZENOdTItYXd0dE12M1JMOVhN",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSXBROEJFc0loZENOdTItYXd0dE12M1JMOVhN",
     "source": {
@@ -7235,8 +7734,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7267,7 +7765,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaUdTMTFUdGRWNVE3Y2JDaXFQV3l2a2tUU3VB",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaUdTMTFUdGRWNVE3Y2JDaXFQV3l2a2tUU3VB",
     "source": {
@@ -7287,8 +7785,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7378,7 +7875,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgS0dKTm43aGhiaERJRWk1d0hYejlPYlNFaG5z",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgS0dKTm43aGhiaERJRWk1d0hYejlPYlNFaG5z",
     "source": {
@@ -7398,8 +7895,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7607,7 +8103,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbGJpRWVsSWxzMXFQWW1EQnQ5dkVJVmxacU5N",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbGJpRWVsSWxzMXFQWW1EQnQ5dkVJVmxacU5N",
     "source": {
@@ -7627,8 +8123,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7659,19 +8154,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551740",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-003.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890621 Nixon oped for Scowcroft.pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551740",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (May-June 1989)",
+      "localIdentifier": "91117-003"
     },
     "dateLine": "June 21, 1989",
     "subjectLine": "Nixon op-ed material for Scowcroft as outside Republican advice shaped the administration's Soviet line.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890621 Nixon oped for Scowcroft.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May-June 1989), 91117-003, NAID 366551740. Digital object: 41-bpr-scow-ussrco-ussrl-91117-003.pdf. Original Drive source-copy title: 890621 Nixon oped for Scowcroft.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (May-June 1989), 91117-003, NAID 366551740.",
     "topics": [
       "Nixon",
       "Scowcroft",
@@ -7680,8 +8182,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7690,7 +8191,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551740",
+    "localIdentifier": "91117-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-003.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-003",
+      "matchedNaid": "366551740",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551740",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-003.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn"
+    }
   },
   {
     "id": "drive-scowcroft-1989-06-28-1989-6-28-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-",
@@ -7713,19 +8233,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551797",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-003.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1989.6.28, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (June-July 1989), Cover Memo and Routing Slip re US Objectives at Paris Economic Summit.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Chronological Files",
+      "seriesNaid": "4708332",
+      "folderNaid": "366551797",
+      "folderTitle": "Soviet Power Collapse in Eastern Europe (June-July 1989)",
+      "localIdentifier": "91124-003"
     },
     "dateLine": "June 28, 1989",
     "subjectLine": "GBPL lead on U.S. objectives for the Paris Economic Summit as Soviet-bloc change accelerated.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.6.28, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (June-July 1989), Cover Memo and Routing Slip re US Objectives at Paris Economic Summit.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (June-July 1989), 91124-003, NAID 366551797. Digital object: 41-bpr-scow-ussrch-svp-91124-003.pdf. Original Drive source-copy title: 1989.6.28, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (June-July 1989), Cover Memo and Routing Slip re US Objectives at Paris Economic Summit.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (June-July 1989), 91124-003, NAID 366551797.",
     "topics": [
       "GBPL",
       "Paris Economic Summit",
@@ -7734,8 +8261,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7744,7 +8270,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551797",
+    "localIdentifier": "91124-003",
+    "objectFilename": "41-bpr-scow-ussrch-svp-91124-003.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91124-003",
+      "matchedNaid": "366551797",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551797",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-003.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c"
+    }
   },
   {
     "id": "drive-sweep-1989-07-01-1989-7-gbpl-scowcroft-brent-files-box-91126-gorbachev-dobrynin-sensitive-1989-ju",
@@ -7765,7 +8310,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgb0RyVDZaanlBM28",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgb0RyVDZaanlBM28",
     "source": {
@@ -7786,8 +8331,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7818,19 +8362,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551741",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-004.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890701 Scowcroft to Powell .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551741",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (July-August 1989)",
+      "localIdentifier": "91117-004"
     },
     "dateLine": "July 1, 1989",
     "subjectLine": "Scowcroft memorandum to Powell after the administration set its public Soviet-policy framework.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890701 Scowcroft to Powell .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (July-August 1989), 91117-004, NAID 366551741. Digital object: 41-bpr-scow-ussrco-ussrl-91117-004.pdf. Original Drive source-copy title: 890701 Scowcroft to Powell .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (July-August 1989), 91117-004, NAID 366551741.",
     "topics": [
       "Scowcroft",
       "Powell",
@@ -7839,8 +8390,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7849,7 +8399,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551741",
+    "localIdentifier": "91117-004",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-004.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-004",
+      "matchedNaid": "366551741",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551741",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-004.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw"
+    }
   },
   {
     "id": "drive-scowcroft-1989-07-10-1989-7-10-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-",
@@ -7871,19 +8440,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551798",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-004.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1989.7.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July 1989), Sakharov's Chatham House Lecture.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Chronological Files",
+      "seriesNaid": "4708332",
+      "folderNaid": "366551798",
+      "folderTitle": "Soviet Power Collapse in Eastern Europe (July 1989)",
+      "localIdentifier": "91124-004"
     },
     "dateLine": "July 10, 1989",
     "subjectLine": "GBPL source-copy lead for Sakharov's Chatham House lecture in Scowcroft's Soviet-collapse files.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.7.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July 1989), Sakharov's Chatham House Lecture.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (July 1989), 91124-004, NAID 366551798. Digital object: 41-bpr-scow-ussrch-svp-91124-004.pdf. Original Drive source-copy title: 1989.7.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July 1989), Sakharov's Chatham House Lecture.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (July 1989), 91124-004, NAID 366551798.",
     "topics": [
       "GBPL",
       "Sakharov",
@@ -7892,8 +8468,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7902,7 +8477,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551798",
+    "localIdentifier": "91124-004",
+    "objectFilename": "41-bpr-scow-ussrch-svp-91124-004.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91124-004",
+      "matchedNaid": "366551798",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551798",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-004.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M"
+    }
   },
   {
     "id": "drive-sweep-1989-08-03-890803-rice-to-scowcroft-pdf",
@@ -7924,7 +8518,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSi1xak9sNTN5SzVNWnNiMDJpSGpCaHRndDd3",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSi1xak9sNTN5SzVNWnNiMDJpSGpCaHRndDd3",
     "source": {
@@ -7945,8 +8539,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -7977,19 +8570,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551741",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-004.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890807 Paal to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551741",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (July-August 1989)",
+      "localIdentifier": "91117-004"
     },
     "dateLine": "August 7, 1989",
     "subjectLine": "Paal memorandum to Scowcroft with Soviet-policy relevance during summer 1989 planning.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890807 Paal to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (July-August 1989), 91117-004, NAID 366551741. Digital object: 41-bpr-scow-ussrco-ussrl-91117-004.pdf. Original Drive source-copy title: 890807 Paal to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (July-August 1989), 91117-004, NAID 366551741.",
     "topics": [
       "Paal",
       "Scowcroft",
@@ -7998,8 +8598,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -8008,7 +8607,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551741",
+    "localIdentifier": "91117-004",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-004.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-004",
+      "matchedNaid": "366551741",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551741",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-004.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F"
+    }
   },
   {
     "id": "drive-sweep-1989-08-08-1989-8-8-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-e",
@@ -8031,7 +8649,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQTNrdU1NSEh2cFk",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQTNrdU1NSEh2cFk",
     "source": {
@@ -8052,8 +8670,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -8085,19 +8702,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551741",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-004.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890809 Rice to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551741",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (July-August 1989)",
+      "localIdentifier": "91117-004"
     },
     "dateLine": "August 9, 1989",
     "subjectLine": "Rice memorandum to Scowcroft during the summer 1989 Soviet and Eastern Europe transition.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890809 Rice to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (July-August 1989), 91117-004, NAID 366551741. Digital object: 41-bpr-scow-ussrco-ussrl-91117-004.pdf. Original Drive source-copy title: 890809 Rice to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (July-August 1989), 91117-004, NAID 366551741.",
     "topics": [
       "Rice",
       "Scowcroft",
@@ -8106,8 +8730,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -8116,7 +8739,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551741",
+    "localIdentifier": "91117-004",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-004.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-004",
+      "matchedNaid": "366551741",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551741",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-004.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ"
+    }
   },
   {
     "id": "nara-1989-08-29-nsc-dc-045-august-29-1989-nsc-dc-meeting-on-soviet-emigration-keywords-ussr-470761019",
@@ -8256,7 +8898,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgZmhsVHg2cmJ0WXNBeVNHNlYwLXJjNEtjVVNz",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgZmhsVHg2cmJ0WXNBeVNHNlYwLXJjNEtjVVNz",
     "source": {
@@ -8276,8 +8918,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -8309,19 +8950,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_",
-    "pdfUrl": "https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551799",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-005.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1989.9.8, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July-August 1989), Routing Slip and Withdrawal Sheets for Memcons from Trip to Europe.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Chronological Files",
+      "seriesNaid": "4708332",
+      "folderNaid": "366551799",
+      "folderTitle": "Soviet Power Collapse in Eastern Europe (July-August 1989)",
+      "localIdentifier": "91124-005"
     },
     "dateLine": "September 8, 1989",
     "subjectLine": "GBPL lead preserving withdrawal-sheet evidence for Europe-trip memcons in the Soviet power-collapse files.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.9.8, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July-August 1989), Routing Slip and Withdrawal Sheets for Memcons from Trip to Europe.pdf. URL: https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (July-August 1989), 91124-005, NAID 366551799. Digital object: 41-bpr-scow-ussrch-svp-91124-005.pdf. Original Drive source-copy title: 1989.9.8, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July-August 1989), Routing Slip and Withdrawal Sheets for Memcons from Trip to Europe.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (July-August 1989), 91124-005, NAID 366551799.",
     "topics": [
       "GBPL",
       "Withdrawal sheets",
@@ -8330,8 +8978,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -8340,7 +8987,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551799",
+    "localIdentifier": "91124-005",
+    "objectFilename": "41-bpr-scow-ussrch-svp-91124-005.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91124-005",
+      "matchedNaid": "366551799",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551799",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91124-005.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_"
+    }
   },
   {
     "id": "nara-1989-09-20-nsd-22-september-20-1989-u-s-policy-on-nuclear-testing-and-arms-control-446396838",
@@ -8589,7 +9255,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgZjEwN25adWdVcnM",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgZjEwN25adWdVcnM",
     "source": {
@@ -8610,8 +9276,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -8642,19 +9307,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551742",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-005.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "890929 Rice to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551742",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (September 1989)",
+      "localIdentifier": "91117-005"
     },
     "dateLine": "September 29, 1989",
     "subjectLine": "Rice memorandum to Scowcroft after NSD-23 and before the Malta summit preparation cycle.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890929 Rice to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (September 1989), 91117-005, NAID 366551742. Digital object: 41-bpr-scow-ussrco-ussrl-91117-005.pdf. Original Drive source-copy title: 890929 Rice to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (September 1989), 91117-005, NAID 366551742.",
     "topics": [
       "Rice",
       "Scowcroft",
@@ -8663,8 +9335,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -8673,7 +9344,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551742",
+    "localIdentifier": "91117-005",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-005.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-005",
+      "matchedNaid": "366551742",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551742",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-005.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV"
+    }
   },
   {
     "id": "nara-1989-10-02-nsd-27-october-02-1989-soviet-emigration-policy-446396844",
@@ -8755,19 +9445,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551743",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-006.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "891010 Scowcroft to Solarz .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551743",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (October 1989)",
+      "localIdentifier": "91117-006"
     },
     "dateLine": "October 10, 1989",
     "subjectLine": "Scowcroft correspondence with Solarz as congressional and executive-branch views converged on Soviet-bloc change.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 891010 Scowcroft to Solarz .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (October 1989), 91117-006, NAID 366551743. Digital object: 41-bpr-scow-ussrco-ussrl-91117-006.pdf. Original Drive source-copy title: 891010 Scowcroft to Solarz .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (October 1989), 91117-006, NAID 366551743.",
     "topics": [
       "Scowcroft",
       "Solarz",
@@ -8776,8 +9473,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -8786,7 +9482,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551743",
+    "localIdentifier": "91117-006",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-006.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-006",
+      "matchedNaid": "366551743",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551743",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-006.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ"
+    }
   },
   {
     "id": "drive-scowcroft-1989-11-15-1989-11-15-gbpl-scowcroft-brent-files-box-91125-soviet-power-collapse-in-eastern",
@@ -8809,19 +9524,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551806",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91125-002.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1989.11.15, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (November 1989) (Part II), Evaluation of Poland Reform Program (withdrawal sheet).pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Chronological Files",
+      "seriesNaid": "4708332",
+      "folderNaid": "366551806",
+      "folderTitle": "Soviet Power Collapse in Eastern Europe (November 1989) (Part II)",
+      "localIdentifier": "91125-002"
     },
     "dateLine": "November 15, 1989",
     "subjectLine": "Withdrawal-sheet lead for evaluation of the Poland reform program during the November 1989 transition.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.11.15, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (November 1989) (Part II), Evaluation of Poland Reform Program (withdrawal sheet).pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (November 1989) (Part II), 91125-002, NAID 366551806. Digital object: 41-bpr-scow-ussrch-svp-91125-002.pdf. Original Drive source-copy title: 1989.11.15, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (November 1989) (Part II), Evaluation of Poland Reform Program (withdrawal sheet).pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (November 1989) (Part II), 91125-002, NAID 366551806.",
     "topics": [
       "GBPL",
       "Poland",
@@ -8830,8 +9552,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -8840,7 +9561,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551806",
+    "localIdentifier": "91125-002",
+    "objectFilename": "41-bpr-scow-ussrch-svp-91125-002.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91125-002",
+      "matchedNaid": "366551806",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551806",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91125-002.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA"
+    }
   },
   {
     "id": "drive-sweep-1989-11-20-891120-hutchings-to-scowcroft-pdf",
@@ -8862,7 +9602,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgYWFaYU5WVVpKM2FDM0pIOWlkNWNHMGlaWFhZ",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgYWFaYU5WVVpKM2FDM0pIOWlkNWNHMGlaWFhZ",
     "source": {
@@ -8883,8 +9623,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -8915,7 +9654,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQ2NnaWtIUHhQMC1HQ2QwLUZFVElyejJJa293",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQ2NnaWtIUHhQMC1HQ2QwLUZFVElyejJJa293",
     "source": {
@@ -8936,8 +9675,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -9156,7 +9894,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgX0c5ZlFCV0h5QlJZWE9JcjJBX1kzUVV2bmhZ",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgX0c5ZlFCV0h5QlJZWE9JcjJBX1kzUVV2bmhZ",
     "source": {
@@ -9176,8 +9914,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -9281,7 +10018,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgMTNVWjV5V0g1RElMNjNQb1dXVEVzNWJoa1Nr",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgMTNVWjV5V0g1RElMNjNQb1dXVEVzNWJoa1Nr",
     "source": {
@@ -9301,8 +10038,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -9641,7 +10377,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOFNJY0ZIZTlBLXRzMVloTy1vSEtLQ0V5YTNV",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOFNJY0ZIZTlBLXRzMVloTy1vSEtLQ0V5YTNV",
     "source": {
@@ -9661,8 +10397,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -9752,7 +10487,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgUUpRcGZBcFBIdTd1SG9mWjZXNnlPM3ZqV01R",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgUUpRcGZBcFBIdTd1SG9mWjZXNnlPM3ZqV01R",
     "source": {
@@ -9773,8 +10508,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -9922,7 +10656,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOHZPTFBiZ0tmSlR3TVVwc3lwRnZFbGVIaUV3",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOHZPTFBiZ0tmSlR3TVVwc3lwRnZFbGVIaUV3",
     "source": {
@@ -9943,8 +10677,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -9976,19 +10709,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551746",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-009.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "900217 Powell to Scowcroft .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551746",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-February 1990)",
+      "localIdentifier": "91117-009"
     },
     "dateLine": "February 17, 1990",
     "subjectLine": "Powell memorandum to Scowcroft during the February 1990 Moscow/German-unification diplomacy.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 900217 Powell to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-February 1990), 91117-009, NAID 366551746. Digital object: 41-bpr-scow-ussrco-ussrl-91117-009.pdf. Original Drive source-copy title: 900217 Powell to Scowcroft .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (January-February 1990), 91117-009, NAID 366551746.",
     "topics": [
       "Powell",
       "Scowcroft",
@@ -9997,8 +10737,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -10007,7 +10746,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551746",
+    "localIdentifier": "91117-009",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91117-009.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91117-009",
+      "matchedNaid": "366551746",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551746",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91117-009.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z"
+    }
   },
   {
     "id": "drive-sweep-1990-02-20-900220-blackwill-package-for-scowcroft-pdf",
@@ -10030,7 +10788,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgTk00SlBXdUZmSk9WUXNsZnRNMVIwOWxSZGlR",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgTk00SlBXdUZmSk9WUXNsZnRNMVIwOWxSZGlR",
     "source": {
@@ -10051,8 +10809,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -10084,7 +10841,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaFFaSVFqUEZGS3lhY0sxZ05zcjFJcUxsQjFN",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaFFaSVFqUEZGS3lhY0sxZ05zcjFJcUxsQjFN",
     "source": {
@@ -10105,8 +10862,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -10271,19 +11027,26 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551747",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-001.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "900313 Zelikow to Scowcroft and Gates.pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551747",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (February-April 1990)",
+      "localIdentifier": "91118-001"
     },
     "dateLine": "March 13, 1990",
     "subjectLine": "Zelikow memorandum to Scowcroft and Gates on Soviet-policy implications of the 1990 diplomatic track.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 900313 Zelikow to Scowcroft and Gates.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (February-April 1990), 91118-001, NAID 366551747. Digital object: 41-bpr-scow-ussrco-ussrl-91118-001.pdf. Original Drive source-copy title: 900313 Zelikow to Scowcroft and Gates.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (February-April 1990), 91118-001, NAID 366551747.",
     "topics": [
       "Zelikow",
       "Scowcroft",
@@ -10292,8 +11055,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -10302,7 +11064,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551747",
+    "localIdentifier": "91118-001",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91118-001.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91118-001",
+      "matchedNaid": "366551747",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551747",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-001.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0"
+    }
   },
   {
     "id": "nara-1990-03-24-nsc-dc-111a-march-24-1990-nsc-dc-meeting-on-lithuania-keywords-lithuania-470761099",
@@ -10443,7 +11224,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcXRCN0VRNC1oVTdGYS1oemUtNTJiSVlGNG1r",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcXRCN0VRNC1oVTdGYS1oemUtNTJiSVlGNG1r",
     "source": {
@@ -10464,8 +11245,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -10556,7 +11336,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgUlVIeHdXZmxtNlZSN3FET0RVU0hiMGthYU5r",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgUlVIeHdXZmxtNlZSN3FET0RVU0hiMGthYU5r",
     "source": {
@@ -10577,8 +11357,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -10817,19 +11596,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj",
-    "pdfUrl": "https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551809",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91125-005.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1990.4.18, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (February-May 1990), US Assistance to EE.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Chronological Files",
+      "seriesNaid": "4708332",
+      "folderNaid": "366551809",
+      "folderTitle": "Soviet Power Collapse in Eastern Europe (February-May 1990)",
+      "localIdentifier": "91125-005"
     },
     "dateLine": "April 18, 1990",
     "subjectLine": "GBPL source-copy lead for U.S. assistance to Eastern Europe in the Soviet power-collapse files.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.4.18, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (February-May 1990), US Assistance to EE.pdf. URL: https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (February-May 1990), 91125-005, NAID 366551809. Digital object: 41-bpr-scow-ussrch-svp-91125-005.pdf. Original Drive source-copy title: 1990.4.18, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (February-May 1990), US Assistance to EE.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Chronological Files, Soviet Power Collapse in Eastern Europe (February-May 1990), 91125-005, NAID 366551809.",
     "topics": [
       "GBPL",
       "Assistance",
@@ -10838,8 +11624,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -10848,7 +11633,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551809",
+    "localIdentifier": "91125-005",
+    "objectFilename": "41-bpr-scow-ussrch-svp-91125-005.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91125-005",
+      "matchedNaid": "366551809",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551809",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-svp-91125-005.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj"
+    }
   },
   {
     "id": "drive-sweep-1990-04-18-900418-rice-to-scowcroft-pdf",
@@ -10871,7 +11675,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgVDVBNEZRcHlVVGxpUVlpa1lDcjNVWjhlcjJj",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgVDVBNEZRcHlVVGxpUVlpa1lDcjNVWjhlcjJj",
     "source": {
@@ -10892,8 +11696,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -11468,7 +12271,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQWxxNTBRdzVzS3VZWXAyOTg4SmpYdk5sX1BR",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQWxxNTBRdzVzS3VZWXAyOTg4SmpYdk5sX1BR",
     "source": {
@@ -11489,8 +12292,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -11618,7 +12420,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgd2ZXR1RPS25zV2M",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgd2ZXR1RPS25zV2M",
     "source": {
@@ -11639,8 +12441,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -11671,7 +12472,7 @@ window.MEMCONS = [
       "number": 2,
       "name": "Soviet Reform and Arms Control Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRnJaNVhieFVSX3JmMTJEZGFkTjJHYlJva0NR",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRnJaNVhieFVSX3JmMTJEZGFkTjJHYlJva0NR",
     "source": {
@@ -11692,8 +12493,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -11724,19 +12524,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR",
-    "pdfUrl": "https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551753",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-007.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1990.7.9, GBPL, Scowcroft, Brent Files, Box 12, USSR Collapse- US-Sov Relations Thru 1991 (July 1990), Note from NSC to HWB on Food Needs of USSR.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551753",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (July 1990)",
+      "localIdentifier": "91118-007"
     },
     "dateLine": "July 9, 1990",
     "subjectLine": "NSC note to Bush on Soviet food needs, an early aid-and-instability lead before the collapse phase.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.7.9, GBPL, Scowcroft, Brent Files, Box 12, USSR Collapse- US-Sov Relations Thru 1991 (July 1990), Note from NSC to HWB on Food Needs of USSR.pdf. URL: https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (July 1990), 91118-007, NAID 366551753. Digital object: 41-bpr-scow-ussrco-ussrl-91118-007.pdf. Original Drive source-copy title: 1990.7.9, GBPL, Scowcroft, Brent Files, Box 12, USSR Collapse- US-Sov Relations Thru 1991 (July 1990), Note from NSC to HWB on Food Needs of USSR.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (July 1990), 91118-007, NAID 366551753.",
     "topics": [
       "GBPL",
       "Food assistance",
@@ -11745,8 +12552,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -11755,7 +12561,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551753",
+    "localIdentifier": "91118-007",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91118-007.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91118-007",
+      "matchedNaid": "366551753",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551753",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-007.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR"
+    }
   },
   {
     "id": "drive-sweep-1990-07-13-1990-7-13-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-thr",
@@ -11777,7 +12602,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQ3hKbEViWTg5ZzQ",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQ3hKbEViWTg5ZzQ",
     "source": {
@@ -11798,8 +12623,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -11830,19 +12654,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw",
-    "pdfUrl": "https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551772",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-snf-91120-011.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1990.7.14, GBPL, Scowcroft, Brent Files, Box 91120, SNF Dec 1990, Principals Mtg on START (MRs).pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Chronological Files",
+      "seriesNaid": "4708332",
+      "folderNaid": "366551772",
+      "folderTitle": "SNF [Short-range Nuclear Forces] December 1990",
+      "localIdentifier": "91120-011"
     },
     "dateLine": "July 14, 1990",
     "subjectLine": "GBPL lead for Principals Committee START meeting records in Scowcroft's SNF/START material.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.7.14, GBPL, Scowcroft, Brent Files, Box 91120, SNF Dec 1990, Principals Mtg on START (MRs).pdf. URL: https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Chronological Files, SNF [Short-range Nuclear Forces] December 1990, 91120-011, NAID 366551772. Digital object: 41-bpr-scow-ussrch-snf-91120-011.pdf. Original Drive source-copy title: 1990.7.14, GBPL, Scowcroft, Brent Files, Box 91120, SNF Dec 1990, Principals Mtg on START (MRs).pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Chronological Files, SNF [Short-range Nuclear Forces] December 1990, 91120-011, NAID 366551772.",
     "topics": [
       "GBPL",
       "START",
@@ -11851,8 +12682,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -11861,7 +12691,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551772",
+    "localIdentifier": "91120-011",
+    "objectFilename": "41-bpr-scow-ussrch-snf-91120-011.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library box/file-unit lane.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-box",
+      "matchedLocalIdentifier": "91120-011",
+      "matchedNaid": "366551772",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551772",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708332/41-bpr-scow-ussrch-snf-91120-011.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw"
+    }
   },
   {
     "id": "drive-sweep-1990-08-01-1990-8-1-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-thru",
@@ -11883,7 +12732,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1gGp-iVInr7JULlIbkv6BmHimiZL48C5_",
     "pdfUrl": "https://drive.google.com/file/d/1gGp-iVInr7JULlIbkv6BmHimiZL48C5_",
     "source": {
@@ -11904,8 +12753,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -11997,19 +12845,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z",
-    "pdfUrl": "https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551754",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-008.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1990.8.13, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Withdrawal slips for memos from CR on possible collapse of USSR.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551754",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (August 1990)",
+      "localIdentifier": "91118-008"
     },
     "dateLine": "August 13, 1990",
     "subjectLine": "Withdrawal-slip lead for Rice memoranda on possible Soviet collapse and U.S. response.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.8.13, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Withdrawal slips for memos from CR on possible collapse of USSR.pdf. URL: https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (August 1990), 91118-008, NAID 366551754. Digital object: 41-bpr-scow-ussrco-ussrl-91118-008.pdf. Original Drive source-copy title: 1990.8.13, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Withdrawal slips for memos from CR on possible collapse of USSR.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (August 1990), 91118-008, NAID 366551754.",
     "topics": [
       "GBPL",
       "Rice",
@@ -12018,8 +12873,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -12028,7 +12882,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551754",
+    "localIdentifier": "91118-008",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91118-008.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91118-008",
+      "matchedNaid": "366551754",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551754",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-008.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z"
+    }
   },
   {
     "id": "drive-sweep-1990-08-18-1990-8-18-gbpl-scowcroft-brent-files-box-12-ussr-collapse-us-sov-relations-thru-",
@@ -12050,7 +12923,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/17gVWmQM-TdkeSuHPD2KudiA7_L7pAEj0",
     "pdfUrl": "https://drive.google.com/file/d/17gVWmQM-TdkeSuHPD2KudiA7_L7pAEj0",
     "source": {
@@ -12071,8 +12944,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -12104,19 +12976,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU",
-    "pdfUrl": "https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551754",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-008.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1990.8.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Debate on Making Mosbacher Trip a Presidential Mission.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551754",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (August 1990)",
+      "localIdentifier": "91118-008"
     },
     "dateLine": "August 20, 1990",
     "subjectLine": "GBPL source-copy lead on whether to make Mosbacher's Soviet business trip a presidential mission.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.8.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Debate on Making Mosbacher Trip a Presidential Mission.pdf. URL: https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (August 1990), 91118-008, NAID 366551754. Digital object: 41-bpr-scow-ussrco-ussrl-91118-008.pdf. Original Drive source-copy title: 1990.8.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Debate on Making Mosbacher Trip a Presidential Mission.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (August 1990), 91118-008, NAID 366551754.",
     "topics": [
       "GBPL",
       "Mosbacher",
@@ -12125,8 +13004,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -12135,7 +13013,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551754",
+    "localIdentifier": "91118-008",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91118-008.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91118-008",
+      "matchedNaid": "366551754",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551754",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-008.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU"
+    }
   },
   {
     "id": "1990-09-09-gorbachev-helsinki-1-428081025",
@@ -12320,7 +13217,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgUVEzOVNCc0tNX2s",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgUVEzOVNCc0tNX2s",
     "source": {
@@ -12341,8 +13238,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -12374,19 +13270,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff",
-    "pdfUrl": "https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551756",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-010.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1990.9.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (September 1990) [2], Memo from Rice to BW re Business Ops with USSR (results of trip).pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551756",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (September 1990) [2]",
+      "localIdentifier": "91118-010"
     },
     "dateLine": "September 20, 1990",
     "subjectLine": "Rice memorandum lead on business operations with the USSR after the Mosbacher trip.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.9.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (September 1990) [2], Memo from Rice to BW re Business Ops with USSR (results of trip).pdf. URL: https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (September 1990) [2], 91118-010, NAID 366551756. Digital object: 41-bpr-scow-ussrco-ussrl-91118-010.pdf. Original Drive source-copy title: 1990.9.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (September 1990) [2], Memo from Rice to BW re Business Ops with USSR (results of trip).pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (September 1990) [2], 91118-010, NAID 366551756.",
     "topics": [
       "GBPL",
       "Rice",
@@ -12395,8 +13298,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -12405,7 +13307,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551756",
+    "localIdentifier": "91118-010",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91118-010.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91118-010",
+      "matchedNaid": "366551756",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551756",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91118-010.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff"
+    }
   },
   {
     "id": "1990-10-01-shevardnadze-428081113",
@@ -12535,7 +13456,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWV9jVmFaS2ZxUEk",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWV9jVmFaS2ZxUEk",
     "source": {
@@ -12557,8 +13478,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -12704,7 +13624,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgNkRPNGo2bGNjWHM2WFVOdGhlVUhNOUdEV1VF",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgNkRPNGo2bGNjWHM2WFVOdGhlVUhNOUdEV1VF",
     "source": {
@@ -12725,8 +13645,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -12758,19 +13677,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1",
-    "pdfUrl": "https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1990.12.7, GBPL, Scowcroft, Brent Files, Box 91118, USSR Collapse - US-Soviet Relations Thru 1991 (December 1990), Memo from JAB to BS and HWB re Econ Assistance to the USSR (impt).pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
     },
     "dateLine": "December 7, 1990",
     "subjectLine": "Baker memorandum lead to Scowcroft and Bush on economic assistance to the Soviet Union.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.12.7, GBPL, Scowcroft, Brent Files, Box 91118, USSR Collapse - US-Soviet Relations Thru 1991 (December 1990), Memo from JAB to BS and HWB re Econ Assistance to the USSR (impt).pdf. URL: https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf. Original Drive source-copy title: 1990.12.7, GBPL, Scowcroft, Brent Files, Box 91118, USSR Collapse - US-Soviet Relations Thru 1991 (December 1990), Memo from JAB to BS and HWB re Econ Assistance to the USSR (impt).pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759.",
     "topics": [
       "GBPL",
       "Baker",
@@ -12779,8 +13705,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -12789,7 +13714,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551759",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91119-003",
+      "matchedNaid": "366551759",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551759",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1"
+    }
   },
   {
     "id": "scowcroft-doc-1990-12-07-baker-to-bush-u-s-economic-support-assistance-for-the-soviet-union-366551759-01",
@@ -13623,19 +14567,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP",
-    "pdfUrl": "https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551759",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1990.12.19, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (December 1990), Gates Group -- POCs.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551759",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990)",
+      "localIdentifier": "91119-003"
     },
     "dateLine": "December 19, 1990",
     "subjectLine": "GBPL source-copy lead for Gates Group points of contact on U.S.-Soviet policy and collapse contingencies.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.12.19, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (December 1990), Gates Group -- POCs.pdf. URL: https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759. Digital object: 41-bpr-scow-ussrco-ussrl-91119-003.pdf. Original Drive source-copy title: 1990.12.19, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (December 1990), Gates Group -- POCs.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (December 1990), 91119-003, NAID 366551759.",
     "topics": [
       "GBPL",
       "Gates Group",
@@ -13644,8 +14595,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -13654,7 +14604,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551759",
+    "localIdentifier": "91119-003",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91119-003",
+      "matchedNaid": "366551759",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551759",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-003.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP"
+    }
   },
   {
     "id": "drive-sweep-1990-12-19-1990-12-19-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-sovit-relations",
@@ -13677,7 +14646,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQ0d4TmFoc0pIZzA",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQ0d4TmFoc0pIZzA",
     "source": {
@@ -13698,8 +14667,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -13732,7 +14700,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgd0lUb2NzeXRKZXc",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgd0lUb2NzeXRKZXc",
     "source": {
@@ -13754,8 +14722,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -14726,19 +15693,26 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo",
-    "pdfUrl": "https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551761",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
     "source": {
-      "type": "Bush Library source-copy PDF",
-      "title": "1991.4.30, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (March-May 1991), Proposed Pres Ltr to Gorbachev Responding to His Req.pdf",
-      "shortName": "GBPL Scowcroft source copy",
-      "url": "https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551761",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991)",
+      "localIdentifier": "91119-005"
     },
     "dateLine": "April 30, 1991",
     "subjectLine": "Proposed presidential letter to Gorbachev responding to his request during the 1991 Soviet crisis.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1991.4.30, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (March-May 1991), Proposed Pres Ltr to Gorbachev Responding to His Req.pdf. URL: https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761. Digital object: 41-bpr-scow-ussrco-ussrl-91119-005.pdf. Original Drive source-copy title: 1991.4.30, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (March-May 1991), Proposed Pres Ltr to Gorbachev Responding to His Req.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761.",
     "topics": [
       "GBPL",
       "Bush-Gorbachev correspondence",
@@ -14747,8 +15721,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -14757,7 +15730,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551761",
+    "localIdentifier": "91119-005",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; filename named the Bush Library/NARA file unit.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "filename-folder",
+      "matchedLocalIdentifier": "91119-005",
+      "matchedNaid": "366551761",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551761",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo"
+    }
   },
   {
     "id": "scowcroft-doc-1991-04-30-scowcroft-to-bush-proposed-presidential-letter-to-gorbachev-on-additional-ccc-credits-366551761-07a",
@@ -14850,7 +15842,7 @@ window.MEMCONS = [
       "number": 4,
       "name": "Archive Leads"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgT2dOZmdkd3VTb3M",
     "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgT2dOZmdkd3VTb3M",
     "source": {
@@ -14871,8 +15863,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -15114,7 +16105,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1IO-2N12y2rky5D5iJE3z2WpgjE5h8ywL",
     "pdfUrl": "https://drive.google.com/file/d/1IO-2N12y2rky5D5iJE3z2WpgjE5h8ywL",
     "source": {
@@ -15135,8 +16126,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -15170,19 +16160,26 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ",
-    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551761",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "undated Rice to Scowcroft with memo for Bush on Soviet turmoil .pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "USSR Collapse Files",
+      "seriesNaid": "4545954",
+      "folderNaid": "366551761",
+      "folderTitle": "USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991)",
+      "localIdentifier": "91119-005"
     },
     "dateLine": "Undated, filed with Soviet turmoil material",
     "subjectLine": "Rice memorandum to Scowcroft with a memo for Bush on Soviet turmoil; queued with the August 1991 collapse-policy files.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: undated Rice to Scowcroft with memo for Bush on Soviet turmoil .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761. Digital object: 41-bpr-scow-ussrco-ussrl-91119-005.pdf. Original Drive source-copy title: undated Rice to Scowcroft with memo for Bush on Soviet turmoil .pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, USSR Collapse Files, USSR Collapse: U.S.--Soviet Relations Thru 1991 (March-May 1991), 91119-005, NAID 366551761.",
     "topics": [
       "Rice",
       "Scowcroft",
@@ -15192,8 +16189,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -15202,7 +16198,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551761",
+    "localIdentifier": "91119-005",
+    "objectFilename": "41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ",
+    "sourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; matched to a related NARA Scowcroft document extraction.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "nara-document-crosswalk",
+      "matchedLocalIdentifier": "91119-005",
+      "matchedNaid": "366551761",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551761",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545954/41-bpr-scow-ussrco-ussrl-91119-005.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ"
+    }
   },
   {
     "id": "central-chronology-1991-08-01-30519-001-470761771",
@@ -16821,7 +17836,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1mNREjnRk9cI_f7PpRwtzwRPs5xFWiZBd",
     "pdfUrl": "https://drive.google.com/file/d/1mNREjnRk9cI_f7PpRwtzwRPs5xFWiZBd",
     "source": {
@@ -16842,8 +17857,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -16875,7 +17889,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1oFB0BP61Tk37A79AXSleJAIttfTreKWC",
     "pdfUrl": "https://drive.google.com/file/d/1oFB0BP61Tk37A79AXSleJAIttfTreKWC",
     "source": {
@@ -16896,8 +17910,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -17175,7 +18188,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/12vaIv2gr0DN99f7Vza8bo5ckG5bbVkU8",
     "pdfUrl": "https://drive.google.com/file/d/12vaIv2gr0DN99f7Vza8bo5ckG5bbVkU8",
     "source": {
@@ -17196,8 +18209,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -17288,19 +18300,26 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
-    "catalogUrl": "https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR",
-    "pdfUrl": "https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR",
+    "releaseStatus": "NARA/Bush Library source located; PDF available; exact document page span to verify.",
+    "catalogUrl": "https://catalog.archives.gov/id/366551845",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
     "source": {
-      "type": "Google Drive PDF",
-      "title": "91108 Hewett to Scowcroft re PZ meeting.pdf",
-      "shortName": "Google Drive Scowcroft PDF",
-      "url": "https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR"
+      "type": "Collection",
+      "naid": "4522156",
+      "title": "Brent Scowcroft Papers",
+      "shortName": "Scowcroft Papers",
+      "url": "https://catalog.archives.gov/id/4522156",
+      "bushLibraryFindingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/brent-scowcroft-papers",
+      "seriesTitle": "Special Separate USSR Notes Files",
+      "seriesNaid": "4708331",
+      "folderNaid": "366551845",
+      "folderTitle": "Gorbachev -Sensitive July-December 1991 [1]",
+      "localIdentifier": "91130-003"
     },
     "dateLine": "October 8, 1991",
     "subjectLine": "Hewett memorandum to Scowcroft on a Zelikow meeting during the post-coup Soviet collapse-policy phase.",
-    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 91108 Hewett to Scowcroft re PZ meeting.pdf. URL: https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR.",
-    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "sourceNote": "Source lead reconciled from NARA first, then the Bush Library finding aid: National Archives Catalog, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845. Digital object: 41-bpr-scow-ssussr-gor-91130-003.pdf. Original Drive source-copy title: 91108 Hewett to Scowcroft re PZ meeting.pdf.",
+    "frusSourceNote": "Source: George H.W. Bush Presidential Library, Brent Scowcroft Papers, Special Separate USSR Notes Files, Gorbachev -Sensitive July-December 1991 [1], 91130-003, NAID 366551845.",
     "topics": [
       "Hewett",
       "Scowcroft",
@@ -17309,8 +18328,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV Scowcroft policy/source document",
-    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "nextAction": "Open the NARA PDF, verify the exact document page span against the retained Drive source-copy URL, then capture the final FRUS source note.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -17319,7 +18337,26 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
       "status": "Being Researched"
     },
-    "seedBatch": "google-drive-scowcroft-2026-05-21"
+    "seedBatch": "google-drive-scowcroft-2026-05-21",
+    "naid": "366551845",
+    "localIdentifier": "91130-003",
+    "objectFilename": "41-bpr-scow-ssussr-gor-91130-003.pdf",
+    "accessRestrictionStatus": "Restricted - Possibly",
+    "googleDriveUrl": "https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR",
+    "sourceCopyUrl": "https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR",
+    "reconciliationStatus": "Matched to official NARA/Bush Library source lead on May 21, 2026; date/topic crosswalk against NARA Scowcroft file units.",
+    "sourceLead": {
+      "checkedOrder": [
+        "National Archives Catalog",
+        "George H.W. Bush Presidential Library finding aid"
+      ],
+      "matchedBy": "date-and-topic",
+      "matchedLocalIdentifier": "91130-003",
+      "matchedNaid": "366551845",
+      "matchedCatalogUrl": "https://catalog.archives.gov/id/366551845",
+      "matchedPdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4708331/41-bpr-scow-ssussr-gor-91130-003.pdf",
+      "driveSourceCopyUrl": "https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR"
+    }
   },
   {
     "id": "scowcroft-doc-1991-10-18-gorbachev-to-bush-unofficial-translation-366551845-04a",
@@ -17411,7 +18448,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/19EZDMqUzVlJt8siIFltnZD-pGE03H_zN",
     "pdfUrl": "https://drive.google.com/file/d/19EZDMqUzVlJt8siIFltnZD-pGE03H_zN",
     "source": {
@@ -17432,8 +18469,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -17537,7 +18573,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1pR5NpJoel_IhXEM46hGlsQ93Ptx1qI1L",
     "pdfUrl": "https://drive.google.com/file/d/1pR5NpJoel_IhXEM46hGlsQ93Ptx1qI1L",
     "source": {
@@ -17558,8 +18594,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -17706,7 +18741,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1fj_KbSMCwa6jjEYfVcGcloFT3rU1QAsW",
     "pdfUrl": "https://drive.google.com/file/d/1fj_KbSMCwa6jjEYfVcGcloFT3rU1QAsW",
     "source": {
@@ -17727,8 +18762,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -17762,7 +18796,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1Zq-pQzEWbVJMq9ydgN6iNAb_bBLIEHZN",
     "pdfUrl": "https://drive.google.com/file/d/1Zq-pQzEWbVJMq9ydgN6iNAb_bBLIEHZN",
     "source": {
@@ -17785,8 +18819,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -17821,7 +18854,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1UArL0DaYVZcht1r2xM9v1LA-xjWQUeyt",
     "pdfUrl": "https://drive.google.com/file/d/1UArL0DaYVZcht1r2xM9v1LA-xjWQUeyt",
     "source": {
@@ -17842,8 +18875,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -18157,7 +19189,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1r6a971l-mSVMUDe9l_FlNBzbOSlkoPb_",
     "pdfUrl": "https://drive.google.com/file/d/1r6a971l-mSVMUDe9l_FlNBzbOSlkoPb_",
     "source": {
@@ -18177,8 +19209,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -18210,7 +19241,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1bYRb35FmHG3zMxodrJSaT7nF0mslAVA0",
     "pdfUrl": "https://drive.google.com/file/d/1bYRb35FmHG3zMxodrJSaT7nF0mslAVA0",
     "source": {
@@ -18231,8 +19262,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -18335,7 +19365,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1e-PgkAdn471UpGA7xO0MVkKnhwlSCfwk",
     "pdfUrl": "https://drive.google.com/file/d/1e-PgkAdn471UpGA7xO0MVkKnhwlSCfwk",
     "source": {
@@ -18356,8 +19386,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -18531,7 +19560,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1hUnKdiWyn--DZAp61-Eov86yfvy8zD52",
     "pdfUrl": "https://drive.google.com/file/d/1hUnKdiWyn--DZAp61-Eov86yfvy8zD52",
     "source": {
@@ -18552,8 +19581,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -18584,7 +19612,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1KXWr_QnhKWXuIDF6XciKJrEjRo2u5b_4",
     "pdfUrl": "https://drive.google.com/file/d/1KXWr_QnhKWXuIDF6XciKJrEjRo2u5b_4",
     "source": {
@@ -18605,8 +19633,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -19019,7 +20046,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1J2TlGCuYn3wlMmcIBgfpczaFc9Qc0T89",
     "pdfUrl": "https://drive.google.com/file/d/1J2TlGCuYn3wlMmcIBgfpczaFc9Qc0T89",
     "source": {
@@ -19040,8 +20067,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -19198,7 +20224,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1W4MKY9aYIIIvK9JtwYpfSxXFnfp1JM5Q",
     "pdfUrl": "https://drive.google.com/file/d/1W4MKY9aYIIIvK9JtwYpfSxXFnfp1JM5Q",
     "source": {
@@ -19219,8 +20245,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -19429,7 +20454,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1AlFzfE7NaMVdbnuEqvKYKWgEpimfSS98",
     "pdfUrl": "https://drive.google.com/file/d/1AlFzfE7NaMVdbnuEqvKYKWgEpimfSS98",
     "source": {
@@ -19450,8 +20475,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -19483,7 +20507,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1zCsGt_NcB8I6SMRANN_QK9TcvMFf01F8",
     "pdfUrl": "https://drive.google.com/file/d/1zCsGt_NcB8I6SMRANN_QK9TcvMFf01F8",
     "source": {
@@ -19504,8 +20528,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -20562,7 +21585,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1SAe6FR09vONnbmdyR0Rf4oJmTTiLE72g",
     "pdfUrl": "https://drive.google.com/file/d/1SAe6FR09vONnbmdyR0Rf4oJmTTiLE72g",
     "source": {
@@ -20583,8 +21606,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -20882,7 +21904,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1B3BT2qmKBZP8QuD8xQFhn7YTAXjUuToN",
     "pdfUrl": "https://drive.google.com/file/d/1B3BT2qmKBZP8QuD8xQFhn7YTAXjUuToN",
     "source": {
@@ -20903,8 +21925,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -20935,7 +21956,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1iANr9iB_HKeuHQe9vjEK-7eF5WfAibKr",
     "pdfUrl": "https://drive.google.com/file/d/1iANr9iB_HKeuHQe9vjEK-7eF5WfAibKr",
     "source": {
@@ -20956,8 +21977,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -21284,7 +22304,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1RZetC-kjgv-PDPkSLek2kqz_dLdv6MhR",
     "pdfUrl": "https://drive.google.com/file/d/1RZetC-kjgv-PDPkSLek2kqz_dLdv6MhR",
     "source": {
@@ -21305,8 +22325,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -21517,7 +22536,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1k1yHNZzhVpUqN1726MhXA8PPL5Y10VTG",
     "pdfUrl": "https://drive.google.com/file/d/1k1yHNZzhVpUqN1726MhXA8PPL5Y10VTG",
     "source": {
@@ -21538,8 +22557,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -21712,7 +22730,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1uhFl0zmhsKwL5PhI2wBvZ89mAPNtKdFr",
     "pdfUrl": "https://drive.google.com/file/d/1uhFl0zmhsKwL5PhI2wBvZ89mAPNtKdFr",
     "source": {
@@ -21733,8 +22751,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -21765,7 +22782,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1qWYeNsqk9k40xpLxwNJ3Q-q_Tu7snh_f",
     "pdfUrl": "https://drive.google.com/file/d/1qWYeNsqk9k40xpLxwNJ3Q-q_Tu7snh_f",
     "source": {
@@ -21786,8 +22803,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -21878,7 +22894,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1Gg9YOYJ4-xA_r-ZxmCACxx80bY-jlYfU",
     "pdfUrl": "https://drive.google.com/file/d/1Gg9YOYJ4-xA_r-ZxmCACxx80bY-jlYfU",
     "source": {
@@ -21899,8 +22915,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -22336,7 +23351,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1itLWrEbZUIsM1dP1JAh-Cucc7k1jHJzc",
     "pdfUrl": "https://drive.google.com/file/d/1itLWrEbZUIsM1dP1JAh-Cucc7k1jHJzc",
     "source": {
@@ -22357,8 +23372,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -22389,7 +23403,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1t6Ff_zd4pgA-Xd5DJvmltXaJnrCWijXN",
     "pdfUrl": "https://drive.google.com/file/d/1t6Ff_zd4pgA-Xd5DJvmltXaJnrCWijXN",
     "source": {
@@ -22410,8 +23424,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -22501,7 +23514,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/17I_YzL89EevE3yTgAfi8vfprwosp_sIg",
     "pdfUrl": "https://drive.google.com/file/d/17I_YzL89EevE3yTgAfi8vfprwosp_sIg",
     "source": {
@@ -22522,8 +23535,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -23202,7 +24214,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1wS7jI88HlM-WD0eWVWUw3Ich_tqNBF_c",
     "pdfUrl": "https://drive.google.com/file/d/1wS7jI88HlM-WD0eWVWUw3Ich_tqNBF_c",
     "source": {
@@ -23222,8 +24234,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -23368,7 +24379,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1YwaARC2OqJcxlehD99ygNAcH3_F5XqdG",
     "pdfUrl": "https://drive.google.com/file/d/1YwaARC2OqJcxlehD99ygNAcH3_F5XqdG",
     "source": {
@@ -23389,8 +24400,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -23692,7 +24702,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/1f2yu2jJvNl-5gN29ftKaHMqGqNiDlShe",
     "pdfUrl": "https://drive.google.com/file/d/1f2yu2jJvNl-5gN29ftKaHMqGqNiDlShe",
     "source": {
@@ -23713,8 +24723,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {
@@ -23948,7 +24957,7 @@ window.MEMCONS = [
       "number": 3,
       "name": "Collapse and Republics Policy"
     },
-    "releaseStatus": "User Google Drive PDF hit; metadata captured; OCR/extraction pending",
+    "releaseStatus": "Google Drive source-copy lead; official citation check queued",
     "catalogUrl": "https://drive.google.com/file/d/18U0vOPUAR4hrMrj4k6__yWka-E6gpgmH",
     "pdfUrl": "https://drive.google.com/file/d/18U0vOPUAR4hrMrj4k6__yWka-E6gpgmH",
     "source": {
@@ -23969,8 +24978,7 @@ window.MEMCONS = [
     ],
     "potentialFrusDocument": true,
     "countStatus": "Candidate Volume IV source-copy document",
-    "nextAction": "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    "extractionStatus": "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+    "nextAction": "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
     "volumeRole": "volume-iv-policy-candidate",
     "volumeStatus": "Volume IV research candidate",
     "frusVolume": {

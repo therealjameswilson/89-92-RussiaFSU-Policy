@@ -56,7 +56,8 @@ function record(hit) {
   const sourceType = hit.gbpl ? "Bush Library source-copy PDF" : "Google Drive PDF";
   const shortName = hit.gbpl ? "GBPL Scowcroft source copy" : "Google Drive Scowcroft PDF";
   const releaseStatus =
-    hit.releaseStatus || "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending";
+    hit.releaseStatus || "Google Drive Scowcroft source-copy hit; reconcile against NARA/Bush Library citation";
+  const extractionStatus = hit.extractionStatus;
 
   return {
     id: `drive-scowcroft-${hit.date}-${slug(hit.title)}`,
@@ -88,10 +89,8 @@ function record(hit) {
     countStatus: hit.countStatus || "Candidate Volume IV Scowcroft policy/source document",
     nextAction:
       hit.nextAction ||
-      "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
-    extractionStatus:
-      hit.extractionStatus ||
-      "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+      "Run the Scowcroft NARA reconciliation pass, verify the exact page span, and capture formal archival citation before selection.",
+    ...(extractionStatus ? { extractionStatus } : {}),
     volumeRole: hit.volumeRole || "volume-iv-policy-candidate",
     volumeStatus: "Volume IV research candidate",
     frusVolume: volumeIv,

@@ -19,6 +19,7 @@ The official Office of the Historian status page lists the volume as **Being Res
 - Adds a focused Central Chronological Files pass for the NSC European and Eurasian Directorate, surfacing monthly file-unit leads around Soviet collapse, recognition, aid, Nunn-Lugar, Lisbon, and START II.
 - Adds a Google Drive date-prefix/GBPL pass for PDFs beginning with 89, 90, 91, or 92 and Bush Library source-copy filenames.
 - Adds a focused Google Drive Scowcroft pass for date-prefixed memoranda and GBPL Brent Scowcroft source-copy files relevant to Soviet, Russia, and FSU policy.
+- Reconciles Google Drive Scowcroft source-copy hits against official NARA/Bush Library Scowcroft file units and removes metadata-only compiler-note banners from the public page.
 - Adds a NARA Scowcroft document-extraction pass that promotes named memoranda, cables, talking points, meeting briefs, and presidential messages out of Scowcroft file-unit PDFs.
 - Tracks Elizabeth C. Charles's Reagan-era Soviet volumes as compiler precedents for arrangement, source notes, and selection density.
 
@@ -121,6 +122,8 @@ The focused Google Drive Scowcroft pass searches Drive for `Scowcroft`, `Brent S
 - 2 early-1990 Powell/Zelikow memoranda in the Soviet/German-unification policy lane.
 - 17 GBPL Brent Scowcroft source-copy leads, including food needs of the USSR, economic assistance to the USSR, Mosbacher business-trip policy, Gates Group POCs, START meeting records, Rice collapse memoranda withdrawal sheets, and a proposed Bush letter to Gorbachev.
 
+The Scowcroft Drive/NARA reconciliation pass checks the National Archives Catalog first, then the Bush Library Brent Scowcroft Papers finding aid. It updates all 43 Google Drive Scowcroft records with official NARA catalog URLs, PDF URLs, local identifiers, series titles, folder titles, and NAIDs while retaining the original Drive source-copy URL. It also removes the old metadata-only compiler-note banner from those records. The broader date-prefix Drive batch has the same metadata-only banner suppressed so the public page does not show source-harvest noise as a compiler warning.
+
 The NARA Scowcroft document-extraction pass goes back through the online Brent Scowcroft Papers, NAID 4522156, and promotes specific document titles out of the file-unit PDFs. It uses OCR on withdrawal sheets and readable opening pages from the USSR Collapse Files and Special Separate USSR Notes Files. The curated seed adds 71 records:
 
 - 23 documents from 1989, including Baker-Shevardnadze opening contacts, Rice/Blackwill early policy-review memoranda, the draft Soviet NSD, Bush-Gorbachev correspondence, START/Open Skies material, and post-Malta talking points.
@@ -135,6 +138,7 @@ Generated reports:
 - `reports/google-drive-source-hits.json`
 - `reports/google-drive-date-prefix-bush-library-seed.json`
 - `reports/google-drive-scowcroft-seed.json`
+- `reports/scowcroft-drive-nara-reconciliation.json`
 - `reports/scowcroft-nara-document-extraction.json`
 - `reports/nara-scout-russia-fsu-search.json`
 - `reports/nara-scout-russia-fsu-seed.json`
@@ -161,5 +165,6 @@ node 89-92-RussiaFSU-Policy/scripts/seed-central-chronology.js
 node 89-92-RussiaFSU-Policy/scripts/mine-frus-soviet-precedents.js
 node 89-92-RussiaFSU-Policy/scripts/seed-google-drive-date-prefix.js
 node 89-92-RussiaFSU-Policy/scripts/seed-google-drive-scowcroft.js
+node 89-92-RussiaFSU-Policy/scripts/reconcile-google-drive-scowcroft-sources.js
 node 89-92-RussiaFSU-Policy/scripts/seed-scowcroft-nara-documents.js
 ```

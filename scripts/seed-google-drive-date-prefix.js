@@ -59,10 +59,11 @@ function slug(value) {
 function record(hit) {
   const chapter = chapters[hit.chapterKey || "collapse"];
   const releaseStatus =
-    hit.releaseStatus || "User Google Drive PDF hit; metadata captured; OCR/extraction pending";
+    hit.releaseStatus || "Google Drive source-copy lead; official citation check queued";
   const sourceType = hit.sourceType || (hit.gbpl ? "Bush Library source-copy PDF" : "Google Drive PDF");
   const shortName = hit.gbpl ? "GBPL source copy" : "Google Drive PDF";
   const sourceTitle = hit.sourceTitle || hit.title;
+  const extractionStatus = hit.extractionStatus;
 
   return {
     id: `drive-sweep-${hit.date}-${slug(hit.title)}`,
@@ -94,10 +95,8 @@ function record(hit) {
     countStatus: hit.countStatus || "Candidate Volume IV source-copy document",
     nextAction:
       hit.nextAction ||
-      "Fetch/OCR the PDF, capture formal archival citation, and compare against NARA/Bush Library source files before selection.",
-    extractionStatus:
-      hit.extractionStatus ||
-      "Metadata-only hit from Google Drive search; PDF/OCR text still needs to be pulled and checked.",
+      "Check NARA first, then the Bush Library or original release source, and capture the formal archival citation before selection.",
+    ...(extractionStatus ? { extractionStatus } : {}),
     volumeRole: hit.volumeRole || "volume-iv-policy-candidate",
     volumeStatus: "Volume IV research candidate",
     frusVolume: volumeIv,
