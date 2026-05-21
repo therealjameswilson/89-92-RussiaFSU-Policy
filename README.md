@@ -17,6 +17,7 @@ The official Office of the Historian status page lists the volume as **Being Res
 - Seeds the policy queue with NSD/NSR directives, Deputies Committee files, Scowcroft/Rice strategy memoranda, Nunn-Lugar source copies, Russia/NIS briefing books, and OSTP science-technology files.
 - Preserves a NARA Scout search trail for broad Bush 41 Russia/FSU discovery, including declassified PDFs, withdrawal/MDR leads, and Daily File control packets.
 - Adds a focused Central Chronological Files pass for the NSC European and Eurasian Directorate, surfacing monthly file-unit leads around Soviet collapse, recognition, aid, Nunn-Lugar, Lisbon, and START II.
+- Tracks Elizabeth C. Charles's Reagan-era Soviet volumes as compiler precedents for arrangement, source notes, and selection density.
 
 ## Local Preview
 
@@ -39,6 +40,10 @@ Public GitHub Pages URL:
 - FRUS Volume IV status page: <https://history.state.gov/historicaldocuments/frus1989-92v04>
 - FRUS Volume III High-Level Contacts companion: <https://history.state.gov/historicaldocuments/frus1989-92v03>
 - FRUS series method: <https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries>
+- FRUS 1981-1988, Volume IV, Soviet Union, January 1983-March 1985: <https://history.state.gov/historicaldocuments/frus1981-88v04>
+- FRUS 1981-1988, Volume IV Sources: <https://history.state.gov/historicaldocuments/frus1981-88v04/sources>
+- FRUS 1981-1988, Volume V, Soviet Union, March 1985-October 1986: <https://history.state.gov/historicaldocuments/frus1981-88v05>
+- FRUS 1981-1988, Volume V Sources: <https://history.state.gov/historicaldocuments/frus1981-88v05/sources>
 - NARA Presidential Memcon Files: <https://catalog.archives.gov/id/321498039>
 - NARA Presidential Telcon Files: <https://catalog.archives.gov/id/321498139>
 - NARA Brent Scowcroft Papers: <https://catalog.archives.gov/id/4522156>
@@ -93,6 +98,14 @@ The Central Chronological Files pass searches the NSC European and Eurasian Dire
 - 1 source lead preserving the collection-specific query log and placeholder-PDF audit.
 - 19 monthly chronology file-unit leads, in chronological order, covering Malta follow-up, Lithuania, the 1991 coup, the Soviet breakup, CIS recognition, nuclear control, Nunn-Lugar, Lisbon, FREEDOM Support, the Yeltsin summit, and START II transition material.
 
+The Reagan Soviet precedent pass mines the official TEI for the two prior Soviet volumes edited by Elizabeth C. Charles:
+
+- `frus1981-88v04` has 388 total documents: 383 main-series documents plus 5 appendix items, arranged in 8 chronological chapters.
+- `frus1981-88v05` has 312 total documents: 309 main-series documents plus 3 appendix items, arranged in 6 chronological chapters.
+- The selection model is chronological and turning-point driven, not collection driven. It mixes policy memoranda, memoranda of conversation, telegrams, letters, briefing/information memoranda, intelligence or defense material, and editorial notes.
+- The source-note model is first-footnote rich: repository, collection/subfile, document state, classification, drafting/transmission context, and cross-references are all selection metadata to preserve.
+- For Volume IV, this points toward a chapter plan built around Malta and managed transition, German unification spillover, August 1991 coup response, recognition/nuclear inheritance, assistance/Nunn-Lugar, and the 1992 Russia/NIS policy transition.
+
 Generated reports:
 
 - `reports/essential-collections-harvest.json`
@@ -106,6 +119,7 @@ Generated reports:
 - `reports/google-drive-public-papers-cheney-seed.json`
 - `reports/central-chronology-374000108-search.json`
 - `reports/central-chronology-374000108-seed.json`
+- `reports/frus1981-88-soviet-precedents.json`
 
 Re-run the seed safely with:
 
@@ -119,4 +133,5 @@ node 89-92-RussiaFSU-Policy/scripts/seed-frus31-cited-collections.js
 node 89-92-RussiaFSU-Policy/scripts/seed-google-drive-public-papers.js
 node 89-92-RussiaFSU-Policy/scripts/harvest-central-chronology.js
 node 89-92-RussiaFSU-Policy/scripts/seed-central-chronology.js
+node 89-92-RussiaFSU-Policy/scripts/mine-frus-soviet-precedents.js
 ```

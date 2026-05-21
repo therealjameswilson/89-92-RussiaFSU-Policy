@@ -1,0 +1,620 @@
+{
+  "generatedAt": "2026-05-21T12:36:09.967Z",
+  "purpose": "Mine Elizabeth C. Charles's Reagan-era Soviet FRUS volumes for arrangement, source-note, and selection precedents useful to FRUS 1989-1992 Volume IV.",
+  "precedentVolumes": [
+    {
+      "id": "frus1981-88v04",
+      "title": "Foreign Relations of the United States, 1981-1988, Volume IV, Soviet Union, January 1983-March 1985",
+      "officialUrl": "https://history.state.gov/historicaldocuments/frus1981-88v04",
+      "sourcesUrl": "https://history.state.gov/historicaldocuments/frus1981-88v04/sources",
+      "prefaceUrl": "https://history.state.gov/historicaldocuments/frus1981-88v04/preface",
+      "rawTeiUrl": "https://raw.githubusercontent.com/HistoryAtState/frus/master/volumes/frus1981-88v04.xml",
+      "primaryEditor": "Elizabeth C. Charles",
+      "generalEditor": "Kathleen B. Rasmussen",
+      "publicationYear": "2021",
+      "documentCount": 388,
+      "mainDocumentCount": 383,
+      "appendixDocumentCount": 5,
+      "appendixDocumentRange": "384-388",
+      "historicalDocumentCount": 367,
+      "editorialNoteCount": 21,
+      "chapterCount": 8,
+      "chapters": [
+        {
+          "id": "ch1",
+          "title": "January 1983–April 1983 “ Dobrynin seemed like he wanted to run. But the Secretary is a jogger”: Shultz and the Four-Part Agenda",
+          "dateMin": "1983-01-19T00:00:00-05:00",
+          "dateMax": "1983-04-06T23:59:59-05:00",
+          "documentCount": 36,
+          "documentRange": "1-36"
+        },
+        {
+          "id": "ch2",
+          "title": "April 1983–August 1983 Preparing the Next Steps in U.S.-Soviet Relations: Human Rights and Arms Control",
+          "dateMin": "1983-04-06T16:00:00-05:00",
+          "dateMax": "1983-08-30T23:59:59-05:00",
+          "documentCount": 47,
+          "documentRange": "37-83"
+        },
+        {
+          "id": "ch3",
+          "title": "September 1983–October 1983 “Controlled Fury”: Shootdown of KAL 007",
+          "dateMin": "1983-08-31T20:56:00-05:00",
+          "dateMax": "1983-10-03T23:59:59-05:00",
+          "documentCount": 40,
+          "documentRange": "84-123"
+        },
+        {
+          "id": "ch4",
+          "title": "October 1983–February 1984 “The Winter of Soviet Discontent”: INF Walkout, the War Scare, and the ‘Ivan and Anya’ Speech",
+          "dateMin": "1983-10-11T00:00:00-05:00",
+          "dateMax": "1984-02-08T23:59:59-05:00",
+          "documentCount": 46,
+          "documentRange": "124-169"
+        },
+        {
+          "id": "ch5",
+          "title": "February 1984–June 1984 “Talking about each other rather than to each other”: Reagan , Chernenko , and U.S.-Soviet Stalemate",
+          "dateMin": "1984-02-10T00:00:00-05:00",
+          "dateMax": "1984-06-28T23:59:59-05:00",
+          "documentCount": 63,
+          "documentRange": "170-232"
+        },
+        {
+          "id": "ch6",
+          "title": "June 1984–October 1984 “Sitting on Mountains of Nuclear Weapons”: The Reagan - Gromyko Meeting",
+          "dateMin": "1984-06-29T00:00:00-05:00",
+          "dateMax": "1984-10-26T23:59:59-05:00",
+          "documentCount": 66,
+          "documentRange": "233-298"
+        },
+        {
+          "id": "ch7",
+          "title": "October 1984–January 1985 “An iron-ass Secretary of State”: Shultz and Gromyko in Geneva",
+          "dateMin": "1984-10-29T00:00:00-05:00",
+          "dateMax": "1985-01-08T15:00:00-05:00",
+          "documentCount": 65,
+          "documentRange": "299-363"
+        },
+        {
+          "id": "ch8",
+          "title": "January 1985–March 1985 “The principal menace to our security?”: Reagan and the Ambiguities of Soviet Leadership",
+          "dateMin": "1985-01-10T00:00:00-05:00",
+          "dateMax": "1985-03-10T23:59:59-05:00",
+          "documentCount": 20,
+          "documentRange": "364-383"
+        }
+      ],
+      "documentTypeCounts": [
+        {
+          "name": "Policy Memorandum",
+          "count": 170
+        },
+        {
+          "name": "Other",
+          "count": 44
+        },
+        {
+          "name": "Memorandum of Conversation",
+          "count": 37
+        },
+        {
+          "name": "Information Memorandum",
+          "count": 36
+        },
+        {
+          "name": "Telegram",
+          "count": 35
+        },
+        {
+          "name": "Letter",
+          "count": 23
+        },
+        {
+          "name": "Editorial Note",
+          "count": 20
+        },
+        {
+          "name": "Briefing Memorandum",
+          "count": 7
+        },
+        {
+          "name": "NSDD",
+          "count": 7
+        },
+        {
+          "name": "Message",
+          "count": 3
+        },
+        {
+          "name": "Policy Paper",
+          "count": 3
+        },
+        {
+          "name": "Meeting Memorandum",
+          "count": 1
+        },
+        {
+          "name": "Meeting Note",
+          "count": 1
+        },
+        {
+          "name": "Talking Points",
+          "count": 1
+        }
+      ],
+      "sourceRepositoryCounts": [
+        {
+          "name": "Reagan Library",
+          "count": 254
+        },
+        {
+          "name": "Department of State",
+          "count": 102
+        },
+        {
+          "name": "No first source note",
+          "count": 21
+        },
+        {
+          "name": "Central Intelligence Agency",
+          "count": 5
+        },
+        {
+          "name": "Department of Defense/WNRC",
+          "count": 3
+        },
+        {
+          "name": "National Security Council",
+          "count": 2
+        },
+        {
+          "name": "Library of Congress",
+          "count": 1
+        }
+      ],
+      "recurringSourceCues": [
+        {
+          "name": "Executive Secretariat",
+          "count": 187
+        },
+        {
+          "name": "NSC Country File",
+          "count": 71
+        },
+        {
+          "name": "Jack Matlock Files",
+          "count": 56
+        },
+        {
+          "name": "George Shultz Papers",
+          "count": 36
+        },
+        {
+          "name": "Lot 92D52",
+          "count": 31
+        },
+        {
+          "name": "Central Foreign Policy File",
+          "count": 29
+        },
+        {
+          "name": "NSC Head of State File",
+          "count": 18
+        },
+        {
+          "name": "McFarlane Files",
+          "count": 16
+        },
+        {
+          "name": "Sven Kraemer Files",
+          "count": 12
+        },
+        {
+          "name": "President’s Daily Diary",
+          "count": 11
+        },
+        {
+          "name": "System IV",
+          "count": 9
+        },
+        {
+          "name": "Lot 92D630",
+          "count": 8
+        },
+        {
+          "name": "Lot 93D188",
+          "count": 6
+        },
+        {
+          "name": "Lenczowski Files",
+          "count": 3
+        },
+        {
+          "name": "System II",
+          "count": 1
+        }
+      ],
+      "sampleDocuments": [
+        {
+          "id": "d1",
+          "number": "1",
+          "subtype": "historical-document",
+          "title": "1. Memorandum From Secretary of State Shultz to President Reagan",
+          "docType": "Policy Memorandum",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, Executive Secretariat, NSC Country File, Europe and Soviet Union, USSR (01/19/83–01/21/83); NLR–748–23–40–10–7. Secret; Sensitive. Although no drafting information appears on the memorandum, Burt wrote Shultz on January 18: “Per our con"
+        },
+        {
+          "id": "d2",
+          "number": "2",
+          "subtype": "historical-document",
+          "title": "2. Telegram From the Embassy in the Soviet Union to the Department of State",
+          "docType": "Telegram",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, Executive Secretariat, NSC Country File, Europe and Soviet Union, USSR (01/28/1983–02/02/1983). Confidential; Immediate; Nodis . Clark forwarded and summarized the telegram in a memorandum to the President on January 29. Reagan initiale"
+        },
+        {
+          "id": "d3",
+          "number": "3",
+          "subtype": "historical-document",
+          "title": "3. Memorandum From the President’s Assistant for National Security Affairs ( Clark ) to President Reagan",
+          "docType": "Policy Memorandum",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, Executive Secretariat, NSC Country File, Europe and Soviet Union, USSR (01/28/83–02/02/83); NLR–748–23–40–9–9. Secret; Sensitive. Sent for information. Drafted by Dobriansky . Printed from an uninitialed copy; however, next to his name "
+        },
+        {
+          "id": "d4",
+          "number": "4",
+          "subtype": "historical-document",
+          "title": "4. Memorandum From the President’s Assistant for National Security Affairs ( Clark ) to Secretary of State Shultz",
+          "docType": "Policy Memorandum",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, Executive Secretariat, NSC Country File, Europe and Soviet Union, USSR (01/28/83–02/02/83); NLR–748–23–40–7–1. Secret; Sensitive."
+        },
+        {
+          "id": "d5",
+          "number": "5",
+          "subtype": "historical-document",
+          "title": "5. Memorandum From Paula Dobriansky of the National Security Council Staff to the President’s Assistant for National Security Affairs ( Clark )",
+          "docType": "Policy Memorandum",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, Executive Secretariat, NSC Country File, Europe and Soviet Union, USSR (01/24/83–01/27/83). Secret, Sensitive; Nodis . Sent for information. Copies were sent to Boverie and Blair. Clark ’s stamp appears on the memorandum, indicating he "
+        },
+        {
+          "id": "d6",
+          "number": "6",
+          "subtype": "historical-document",
+          "title": "6. Memorandum of Conversation",
+          "docType": "Memorandum of Conversation",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, Executive Secretariat, NSC Country File, Europe and Soviet Union, USSR (02/11/83–02/20/83). Secret. Drafted by Burt on January 29; cleared by Eagleburger . The meeting took place in the Secretary’s office. Clark ’s stamp appears on the "
+        },
+        {
+          "id": "d7",
+          "number": "7",
+          "subtype": "historical-document",
+          "title": "7. Memorandum From the President’s Assistant for National Security Affairs ( Clark ) to President Reagan",
+          "docType": "Policy Memorandum",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, William Clark Files, US -Soviet Relations Papers Working File: Contains Originals (2). Secret; Sensitive; Eyes Only. The memorandum is unsigned. There is no drafting information on the memorandum. Reagan initialed the memorandum, indica"
+        },
+        {
+          "id": "d8",
+          "number": "8",
+          "subtype": "historical-document",
+          "title": "8. Memorandum From John Lenczowski of the National Security Council Staff to the President’s Assistant for National Security Affairs ( Clark )",
+          "docType": "Policy Memorandum",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, William Clark Files, US -Soviet Relations Papers Working File: Contains Originals (2). Secret; Sensitive; Eyes Only. Sent for information. Reagan initialed the memorandum, indicating he saw it. In a cover note to Reagan , Clark wrote: “"
+        }
+      ]
+    },
+    {
+      "id": "frus1981-88v05",
+      "title": "Foreign Relations of the United States, 1981-1988, Volume V, Soviet Union, March 1985-October 1986",
+      "officialUrl": "https://history.state.gov/historicaldocuments/frus1981-88v05",
+      "sourcesUrl": "https://history.state.gov/historicaldocuments/frus1981-88v05/sources",
+      "prefaceUrl": "https://history.state.gov/historicaldocuments/frus1981-88v05/preface",
+      "rawTeiUrl": "https://raw.githubusercontent.com/HistoryAtState/frus/master/volumes/frus1981-88v05.xml",
+      "primaryEditor": "Elizabeth C. Charles",
+      "generalEditor": "Kathleen B. Rasmussen",
+      "publicationYear": "2020",
+      "documentCount": 312,
+      "mainDocumentCount": 309,
+      "appendixDocumentCount": 3,
+      "appendixDocumentRange": "A-C",
+      "historicalDocumentCount": 305,
+      "editorialNoteCount": 7,
+      "chapterCount": 6,
+      "chapters": [
+        {
+          "id": "ch1",
+          "title": "March 1985–July 1985 “Now we have to begin everything anew”: Gorbachev ’s Debut",
+          "dateMin": "1985-03-11T00:00:00-05:00",
+          "dateMax": "1985-07-01T23:59:59-05:00",
+          "documentCount": 50,
+          "documentRange": "1-50"
+        },
+        {
+          "id": "ch2",
+          "title": "July 1985–August 1985 Sizing Up Shevardnadze and the Soviet Union 101",
+          "dateMin": "1985-07-01T00:00:00-05:00",
+          "dateMax": "1985-08-27T23:59:59-05:00",
+          "documentCount": 29,
+          "documentRange": "51-79"
+        },
+        {
+          "id": "ch3",
+          "title": "September 1985–November 1985 Personal Diplomacy: Reagan , Gorbachev , and the Geneva Summit",
+          "dateMin": "1985-09-06T00:00:00-05:00",
+          "dateMax": "1985-11-20T16:30:00-05:00",
+          "documentCount": 80,
+          "documentRange": "80-159"
+        },
+        {
+          "id": "ch4",
+          "title": "November 1985–April 1986 New Political Thinking: Gorbachev ’s Proposal To Eliminate Nuclear Weapons",
+          "dateMin": "1985-11-21T00:00:00-05:00",
+          "dateMax": "1986-04-24T23:59:59-05:00",
+          "documentCount": 60,
+          "documentRange": "160-219"
+        },
+        {
+          "id": "ch5",
+          "title": "April 1986–August 1986 Arms Control in the Shadow of Chernobyl",
+          "dateMin": "1986-04-29T00:00:00-05:00",
+          "dateMax": "1986-08-19T23:59:59-05:00",
+          "documentCount": 47,
+          "documentRange": "220-266"
+        },
+        {
+          "id": "ch6",
+          "title": "August 1986–October 1986 “The Iceland Cometh”: The Arrest of Daniloff ; SDI and the Reykjavik Summit",
+          "dateMin": "1986-08-30T12:19:00-05:00",
+          "dateMax": "1986-10-12T11:30:00-05:00",
+          "documentCount": 43,
+          "documentRange": "267-309"
+        }
+      ],
+      "documentTypeCounts": [
+        {
+          "name": "Policy Memorandum",
+          "count": 103
+        },
+        {
+          "name": "Memorandum of Conversation",
+          "count": 45
+        },
+        {
+          "name": "Telegram",
+          "count": 44
+        },
+        {
+          "name": "Other",
+          "count": 43
+        },
+        {
+          "name": "Letter",
+          "count": 24
+        },
+        {
+          "name": "Information Memorandum",
+          "count": 21
+        },
+        {
+          "name": "NSDD",
+          "count": 10
+        },
+        {
+          "name": "Editorial Note",
+          "count": 7
+        },
+        {
+          "name": "Policy Paper",
+          "count": 6
+        },
+        {
+          "name": "Talking Points",
+          "count": 5
+        },
+        {
+          "name": "Briefing Memorandum",
+          "count": 3
+        },
+        {
+          "name": "Message",
+          "count": 1
+        }
+      ],
+      "sourceRepositoryCounts": [
+        {
+          "name": "Reagan Library",
+          "count": 216
+        },
+        {
+          "name": "Department of State",
+          "count": 84
+        },
+        {
+          "name": "No first source note",
+          "count": 7
+        },
+        {
+          "name": "Central Intelligence Agency",
+          "count": 5
+        }
+      ],
+      "recurringSourceCues": [
+        {
+          "name": "Jack Matlock Files",
+          "count": 94
+        },
+        {
+          "name": "Executive Secretariat",
+          "count": 88
+        },
+        {
+          "name": "George Shultz Papers",
+          "count": 55
+        },
+        {
+          "name": "Central Foreign Policy File",
+          "count": 43
+        },
+        {
+          "name": "NSC Head of State File",
+          "count": 29
+        },
+        {
+          "name": "Lot 91D257",
+          "count": 13
+        },
+        {
+          "name": "Lot 93D188",
+          "count": 12
+        },
+        {
+          "name": "President’s Daily Diary",
+          "count": 10
+        },
+        {
+          "name": "McFarlane Files",
+          "count": 9
+        },
+        {
+          "name": "Sven Kraemer Files",
+          "count": 7
+        },
+        {
+          "name": "Lot 94D92",
+          "count": 5
+        },
+        {
+          "name": "Lenczowski Files",
+          "count": 4
+        },
+        {
+          "name": "Lot 92D630",
+          "count": 2
+        },
+        {
+          "name": "History Staff Files",
+          "count": 1
+        },
+        {
+          "name": "Office of Russian and European Analysis",
+          "count": 1
+        },
+        {
+          "name": "System II",
+          "count": 1
+        },
+        {
+          "name": "System IV",
+          "count": 1
+        }
+      ],
+      "sampleDocuments": [
+        {
+          "id": "d1",
+          "number": "1",
+          "subtype": "historical-document",
+          "title": "1. Letter From President Reagan to Soviet General Secretary Gorbachev",
+          "docType": "Letter",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, Executive Secretariat, NSC Head of State File, U.S.S.R.: General Secretary Gorbachev (8590272, 8590336). No classification marking. On March 11, Reagan wrote in his personal diary: “Awakened at 4 A.M. to be told Chernenko is dead. My mi"
+        },
+        {
+          "id": "d2",
+          "number": "2",
+          "subtype": "historical-document",
+          "title": "2. Talking Points for Secretary of State Shultz Prepared in the Department of State",
+          "docType": "Talking Points",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, George Shultz Papers, Secretary’s Meetings with the President (03/11/1985). No classification marking. These talking points were included in a larger packet for Shultz entitled: “Meeting with the President, Monday, March 11 2:00–2:30 pm"
+        },
+        {
+          "id": "d3",
+          "number": "3",
+          "subtype": "historical-document",
+          "title": "3. Memorandum From John Lenczowski of the National Security Council Staff to the President’s Assistant for National Security Affairs ( McFarlane )",
+          "docType": "Policy Memorandum",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, John Lenczowski Files, NSC Files, Chron File March 1985; NLR–324–11–69–2–2. Confidential. Sent for action. An unknown hand crossed out the subject line with black marker. Poindexter wrote in the margin: “Everybody agrees with this analy"
+        },
+        {
+          "id": "d4",
+          "number": "4",
+          "subtype": "historical-document",
+          "title": "4. Telegram From the Delegation at the Nuclear and Space Talks to the Department of State",
+          "docType": "Telegram",
+          "repository": "Department of State",
+          "sourceNotePreview": "Source: Department of State, Central Foreign Policy File, Electronic Telegrams, D850167–0381. Secret; Immediate; Exdis . Sent for information to Moscow, NATO Collective, and USNMR SHAPE ."
+        },
+        {
+          "id": "d5",
+          "number": "5",
+          "subtype": "historical-document",
+          "title": "5. Telegram From the Embassy in the Soviet Union to the Department of State",
+          "docType": "Telegram",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Department of State, Central Foreign Policy File, Electronic Telegrams, [no N number]. Secret; Immediate; Nodis . In telegram Tosec 50092/77674 to Shultz ’s aircraft, March 14, the Department repeated the text of telegram 3137. (Department of State, Ce"
+        },
+        {
+          "id": "d6",
+          "number": "6",
+          "subtype": "historical-document",
+          "title": "6. Information Memorandum From the Director of the Bureau of Intelligence and Research ( Abramowitz ) to Secretary of State Shultz",
+          "docType": "Information Memorandum",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, George Shultz Papers, Executive Secretariat Sensitive (03/14/1985–03/15/1985); NLR–775–13–29–9–7. Secret; Sensitive; Noforn ; Nocontract ; Orcon . Drafted by D.G. Simpson ( INR/PMA /GPT) on March 14. A stamped notation reading “ GPS ” a"
+        },
+        {
+          "id": "d7",
+          "number": "7",
+          "subtype": "historical-document",
+          "title": "7. Information Memorandum From the Chairman of the Policy Planning Council ( Rodman ) to Secretary of State Shultz",
+          "docType": "Information Memorandum",
+          "repository": "Department of State",
+          "sourceNotePreview": "Source: Department of State, S/P , Memoranda/Correspondence from the Director of the Policy Planning Staff, Lot 89D149, S/P Chrons PW 3/1–31/85. Secret; Sensitive. Drafted by Kaplan. Copies were sent to Chain , Wolfowitz , Burt , Murphy, Nitze , and Rowny . A "
+        },
+        {
+          "id": "d8",
+          "number": "8",
+          "subtype": "historical-document",
+          "title": "8. Information Memorandum From the Assistant Secretary of State for European and Canadian Affairs ( Burt ) and the Acting Director of the Bureau of Politico-Military Affairs ( Hawes ) to Secretary of State Shultz",
+          "docType": "Information Memorandum",
+          "repository": "Reagan Library",
+          "sourceNotePreview": "Source: Reagan Library, George Shultz Papers, Executive Secretariat Sensitive (03/20/1985–03/21/1985). Secret; Sensitive. Drafted by Dunkerley and Tefft; cleared by Palmer , Dobbins , Redman, Schwartz, Grobel , and Pifer. Patrick Moon, EUR/RPM , initialed for "
+        }
+      ]
+    }
+  ],
+  "methodLessonsForVolumeIv": [
+    "Arrange the policy volume around chronological turning points and chapter narratives, not around archive collections.",
+    "Keep high-level contacts visible, but use them as anchors for decision memoranda, briefing books, cable traffic, intelligence, and interagency records.",
+    "Preserve first-footnote-level provenance: repository, collection, subfile, document state, classification, drafting/transmission history, and contextual cross-references.",
+    "Expect State Executive Secretariat lots, NSC staff/directorate files, Head of State or presidential correspondence files, meeting files, country files, Daily Diary/Daily File material, intelligence records, and Defense records to work together.",
+    "Use editorial notes sparingly but deliberately to account for public statements, exchanges, unavailable records, and narrative transitions that are necessary for a complete decision history.",
+    "Let companion arms-control, human-rights, and national-security volumes carry their own deep lanes; cross-reference them while keeping this page focused on Soviet/Russia/FSU policy formation."
+  ],
+  "sourceBasePattern": [
+    {
+      "pattern": "White House and NSC files carry high-level decision-making",
+      "precedent": "Both official Sources pages identify Reagan Library White House Staff and Office Files, especially NSC Executive Secretariat files, as key sources."
+    },
+    {
+      "pattern": "State Department S/S lots and Central Foreign Policy File remain essential",
+      "precedent": "Both Sources pages foreground Executive Secretariat lot files, Soviet Affairs/Policy Planning files, and Moscow-Washington cable traffic."
+    },
+    {
+      "pattern": "Staff-level files matter when they explain policy formation",
+      "precedent": "Both volumes cite Matlock, Shultz, McFarlane/Poindexter, Lenczowski, Linhard, Lehman, Kraemer, and related staff files."
+    },
+    {
+      "pattern": "Published sources are supporting chronology, not substitutes for internal records",
+      "precedent": "Both volumes list diaries, memoirs, Public Papers, press, and Documents on Disarmament as published sources alongside archival records."
+    }
+  ]
+}
