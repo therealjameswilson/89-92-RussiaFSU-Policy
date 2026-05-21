@@ -16,10 +16,10 @@ The official Office of the Historian status page lists the volume as **Being Res
 - Keeps the Volume III/Volume IV boundary explicit so summit memcons are not double-counted as policy-volume candidates.
 - Seeds the policy queue with NSD/NSR directives, Deputies Committee files, Scowcroft/Rice strategy memoranda, Nunn-Lugar source copies, Russia/NIS briefing books, and OSTP science-technology files.
 - Preserves a NARA Scout search trail for broad Bush 41 Russia/FSU discovery, including declassified PDFs, withdrawal/MDR leads, and Daily File control packets.
-- Adds a focused Central Chronological Files pass for the NSC European and Eurasian Directorate, surfacing monthly file-unit leads around Soviet collapse, recognition, aid, Nunn-Lugar, Lisbon, and START II.
+- Adds a focused Central Chronological Files pass for the NSC European and Eurasian Directorate, surfacing named policy memoranda/papers plus monthly file-unit controls around Soviet collapse, recognition, aid, Nunn-Lugar, Lisbon, and START II.
 - Adds a Google Drive date-prefix/GBPL pass for PDFs beginning with 89, 90, 91, or 92 and Bush Library source-copy filenames.
 - Adds a focused Google Drive Scowcroft pass for date-prefixed memoranda and GBPL Brent Scowcroft source-copy files relevant to Soviet, Russia, and FSU policy.
-- Reconciles Google Drive Scowcroft source-copy hits against official NARA/Bush Library Scowcroft file units and removes metadata-only compiler-note banners from the public page.
+- Reconciles Google Drive Scowcroft source-copy hits against official NARA/Bush Library Scowcroft file units and replaces internal source-harvest notes with stable catalog citations on the public page.
 - Adds a NARA Scowcroft document-extraction pass that promotes named memoranda, cables, talking points, meeting briefs, and presidential messages out of Scowcroft file-unit PDFs.
 - Tracks Elizabeth C. Charles's Reagan-era Soviet volumes as compiler precedents for arrangement, source notes, and selection density.
 
@@ -97,10 +97,11 @@ The Public Papers and Cheney Drive pass mines the Drive-hosted `GHBPublicPapers.
 - 2 Google Drive source leads for the Public Papers corpus and Cheney's Secretary of Defense public-statement volumes.
 - 1 standalone Cheney press-conference OCR lead. The Cheney folder is present in Drive, but sampled PDFs returned empty connector text, so the set is queued for OCR before document-level selections.
 
-The Central Chronological Files pass searches the NSC European and Eurasian Directorate series, NAID 374000108. It found 184 unique online file units from 1989-1993, but the attached PDFs appear to be withdrawal/placeholder sheets, so the seed treats them as archival leads rather than extracted documents. The curated seed adds 20 records:
+The Central Chronological Files pass searches the NSC European and Eurasian Directorate series, NAID 374000108. The newer pass uses NARA's child-record endpoint for the series, harvests all 185 online file units from 1989-1993, and mines the OCR/withdrawal-sheet text locally. It extracted 1,336 named policy-document candidates and stages the strongest Russia/FSU policy leads as document-level records. The curated seed adds 80 records:
 
-- 1 source lead preserving the collection-specific query log and placeholder-PDF audit.
-- 19 monthly chronology file-unit leads, in chronological order, covering Malta follow-up, Lithuania, the 1991 coup, the Soviet breakup, CIS recognition, nuclear control, Nunn-Lugar, Lisbon, FREEDOM Support, the Yeltsin summit, and START II transition material.
+- 1 source lead preserving the collection-specific crawl, query log, OCR candidate count, and NARA series source trail.
+- 19 monthly chronology file-unit controls, in chronological order, covering Malta follow-up, Lithuania, the 1991 coup, the Soviet breakup, CIS recognition, nuclear control, Nunn-Lugar, Lisbon, FREEDOM Support, the Yeltsin summit, and START II transition material.
+- 60 named document candidates, including pre-Malta issue papers, Lithuania crisis memoranda, Soviet economic-policy papers, Kozyrev/Yeltsin leads, Baker post-coup trip papers, Kravchuk/Ukraine records, recognition letters, CIS diplomatic-relations memoranda, Russian reform assistance papers, Gaydar/Nazarbayev/Kravchuk meeting briefs, FREEDOM Support/Nunn-Lugar legislative papers, the interagency review of U.S.-Russian relations, U.S.-Ukrainian relations, expanded FSU contacts, and December 1992 transition papers.
 
 The Reagan Soviet precedent pass mines the official TEI for the two prior Soviet volumes edited by Elizabeth C. Charles:
 
@@ -122,7 +123,7 @@ The focused Google Drive Scowcroft pass searches Drive for `Scowcroft`, `Brent S
 - 2 early-1990 Powell/Zelikow memoranda in the Soviet/German-unification policy lane.
 - 17 GBPL Brent Scowcroft source-copy leads, including food needs of the USSR, economic assistance to the USSR, Mosbacher business-trip policy, Gates Group POCs, START meeting records, Rice collapse memoranda withdrawal sheets, and a proposed Bush letter to Gorbachev.
 
-The Scowcroft Drive/NARA reconciliation pass checks the National Archives Catalog first, then the Bush Library Brent Scowcroft Papers finding aid. It updates all 43 Google Drive Scowcroft records with official NARA catalog URLs, PDF URLs, local identifiers, series titles, folder titles, and NAIDs while retaining the original Drive source-copy URL. It also removes the old metadata-only compiler-note banner from those records. The broader date-prefix Drive batch has the same metadata-only banner suppressed so the public page does not show source-harvest noise as a compiler warning.
+The Scowcroft Drive/NARA reconciliation pass checks the National Archives Catalog first, then the Bush Library Brent Scowcroft Papers finding aid. It updates all 43 Google Drive Scowcroft records with official NARA catalog URLs, PDF URLs, local identifiers, series titles, folder titles, and NAIDs while retaining the original Drive source-copy URL. The broader date-prefix Drive batch has the same internal source-harvest notes suppressed so the public page does not show research workflow noise as a compiler warning.
 
 The NARA Scowcroft document-extraction pass goes back through the online Brent Scowcroft Papers, NAID 4522156, and promotes specific document titles out of the file-unit PDFs. It uses OCR on withdrawal sheets and readable opening pages from the USSR Collapse Files and Special Separate USSR Notes Files. The curated seed adds 71 records:
 
