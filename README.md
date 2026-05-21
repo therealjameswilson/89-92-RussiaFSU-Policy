@@ -17,6 +17,7 @@ The official Office of the Historian status page lists the volume as **Being Res
 - Seeds the policy queue with NSD/NSR directives, Deputies Committee files, Scowcroft/Rice strategy memoranda, Nunn-Lugar source copies, Russia/NIS briefing books, and OSTP science-technology files.
 - Preserves a NARA Scout search trail for broad Bush 41 Russia/FSU discovery, including declassified PDFs, withdrawal/MDR leads, and Daily File control packets.
 - Adds a focused Central Chronological Files pass for the NSC European and Eurasian Directorate, surfacing monthly file-unit leads around Soviet collapse, recognition, aid, Nunn-Lugar, Lisbon, and START II.
+- Adds a Google Drive date-prefix/GBPL pass for PDFs beginning with 89, 90, 91, or 92 and Bush Library source-copy filenames.
 - Tracks Elizabeth C. Charles's Reagan-era Soviet volumes as compiler precedents for arrangement, source notes, and selection density.
 
 ## Local Preview
@@ -106,11 +107,18 @@ The Reagan Soviet precedent pass mines the official TEI for the two prior Soviet
 - The source-note model is first-footnote rich: repository, collection/subfile, document state, classification, drafting/transmission context, and cross-references are all selection metadata to preserve.
 - For Volume IV, this points toward a chapter plan built around Malta and managed transition, German unification spillover, August 1991 coup response, recognition/nuclear inheritance, assistance/Nunn-Lugar, and the 1992 Russia/NIS policy transition.
 
+The Google Drive date-prefix/GBPL pass searches Drive PDFs whose filenames contain `89`, `90`, `91`, or `92`, then adds the `GBPL` convention used for Bush Library source-copy filenames. Literal PDF titles containing both `Bush` and `Library` returned no hits; `GBPL` returned the useful Bush Library source-copy bucket. The curated seed adds 67 records:
+
+- 33 Scowcroft/Rice/Blackwill/Zelikow policy memoranda and source-copy leads from 1989-1990.
+- 16 post-coup and dissolution records from 1991, including Kravchuk, Yeltsin, Bartholomew PNI, CIA/DIA nuclear, and early Nunn-Lugar implementation files.
+- 18 Russia/NIS records from 1992, including Bartholomew Moscow talking points, Nunn-Lugar correspondence and trips, Ukraine nuclear withdrawal, Bush meetings with Kravchuk/Nazarbayev/Shushkevich, Moscow SSD reports, and late-1992 Nunn-Lugar/Yeltsin/Gorbachev material.
+
 Generated reports:
 
 - `reports/essential-collections-harvest.json`
 - `reports/essential-chronology-seed.json`
 - `reports/google-drive-source-hits.json`
+- `reports/google-drive-date-prefix-bush-library-seed.json`
 - `reports/nara-scout-russia-fsu-search.json`
 - `reports/nara-scout-russia-fsu-seed.json`
 - `reports/frus31-cited-collections.json`
@@ -134,4 +142,5 @@ node 89-92-RussiaFSU-Policy/scripts/seed-google-drive-public-papers.js
 node 89-92-RussiaFSU-Policy/scripts/harvest-central-chronology.js
 node 89-92-RussiaFSU-Policy/scripts/seed-central-chronology.js
 node 89-92-RussiaFSU-Policy/scripts/mine-frus-soviet-precedents.js
+node 89-92-RussiaFSU-Policy/scripts/seed-google-drive-date-prefix.js
 ```

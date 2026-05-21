@@ -1,0 +1,984 @@
+{
+  "generatedAt": "2026-05-21T12:53:44.170Z",
+  "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21",
+  "searchNotes": [
+    "Google Drive search does not expose a starts-with operator; broad PDF searches used name contains '89', '90', '91', and '92' and were post-filtered by title/date relevance.",
+    "No PDF titles matched literal name contains 'Bush' and name contains 'Library'. The Drive convention for Bush Library source copies is GBPL, so a GBPL PDF search was added.",
+    "This seed intentionally captures high-signal FRUS Volume IV candidates and archive leads, not every duplicate Drive copy returned by the searches."
+  ],
+  "querySummary": [
+    {
+      "label": "89 date-prefix PDFs",
+      "driveFilter": "mimeType = 'application/pdf' and name contains '89'",
+      "returned": "top 100"
+    },
+    {
+      "label": "90 date-prefix PDFs",
+      "driveFilter": "mimeType = 'application/pdf' and name contains '90'",
+      "returned": "top 100"
+    },
+    {
+      "label": "91 date-prefix PDFs",
+      "driveFilter": "mimeType = 'application/pdf' and name contains '91'",
+      "returned": "top 100"
+    },
+    {
+      "label": "92 date-prefix PDFs",
+      "driveFilter": "mimeType = 'application/pdf' and name contains '92'",
+      "returned": "64 in this pass"
+    },
+    {
+      "label": "Literal Bush Library in PDF title",
+      "driveFilter": "mimeType = 'application/pdf' and name contains 'Bush' and name contains 'Library'",
+      "returned": 0
+    },
+    {
+      "label": "GBPL Bush Library source-copy PDFs",
+      "driveQuery": "GBPL",
+      "driveFilter": "mimeType = 'application/pdf'",
+      "returned": "top 100"
+    }
+  ],
+  "selectedRecordCount": 67,
+  "skippedAsDuplicateCount": 10,
+  "selectedByYear": {
+    "1989": 14,
+    "1990": 19,
+    "1991": 16,
+    "1992": 18
+  },
+  "selectedHits": [
+    {
+      "id": "drive-sweep-1989-05-20-890520-scowcroft-to-bush-pdf",
+      "date": "1989-05-20",
+      "title": "890520 Scowcroft to Bush.pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgSXBROEJFc0loZENOdTItYXd0dE12M1JMOVhN",
+      "topics": [
+        "Scowcroft",
+        "U.S.-Soviet strategy",
+        "Policy review"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-05-25-890525-scowcroft-to-bush-pdf",
+      "date": "1989-05-25",
+      "title": "890525 Scowcroft to Bush.pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgaUdTMTFUdGRWNVE3Y2JDaXFQV3l2a2tUU3VB",
+      "topics": [
+        "Scowcroft",
+        "Bush",
+        "Soviet policy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-06-01-890601-vershbow-paper-pdf",
+      "date": "1989-06-01",
+      "title": "890601 Vershbow paper.pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgS0dKTm43aGhiaERJRWk1d0hYejlPYlNFaG5z",
+      "topics": [
+        "Vershbow",
+        "NSC staff",
+        "Policy planning"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-06-20-890620-bush-to-gorbachev-pdf",
+      "date": "1989-06-20",
+      "title": "890620 Bush to Gorbachev .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgbGJpRWVsSWxzMXFQWW1EQnQ5dkVJVmxacU5N",
+      "topics": [
+        "Bush-Gorbachev correspondence",
+        "U.S.-Soviet relations",
+        "Presidential messages"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-08-03-890803-rice-to-scowcroft-pdf",
+      "date": "1989-08-03",
+      "title": "890803 Rice to Scowcroft .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgSi1xak9sNTN5SzVNWnNiMDJpSGpCaHRndDd3",
+      "topics": [
+        "Rice",
+        "Scowcroft",
+        "Eastern Europe",
+        "Soviet policy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-09-06-890906-dc-meeting-package-pdf",
+      "date": "1989-09-06",
+      "title": "890906 DC meeting package .pdf",
+      "type": "Meeting Package",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgZmhsVHg2cmJ0WXNBeVNHNlYwLXJjNEtjVVNz",
+      "topics": [
+        "Deputies Committee",
+        "NSD-23",
+        "Interagency process"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-11-20-891120-hutchings-to-scowcroft-pdf",
+      "date": "1989-11-20",
+      "title": "891120 Hutchings to Scowcroft  .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgYWFaYU5WVVpKM2FDM0pIOWlkNWNHMGlaWFhZ",
+      "topics": [
+        "Hutchings",
+        "Scowcroft",
+        "Malta",
+        "Summit preparation"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-11-22-891122-rice-to-scowcroft-pdf",
+      "date": "1989-11-22",
+      "title": "891122 Rice to Scowcroft  .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgQ2NnaWtIUHhQMC1HQ2QwLUZFVElyejJJa293",
+      "topics": [
+        "Rice",
+        "Scowcroft",
+        "Malta",
+        "Soviet reform"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-12-05-891205-hutchings-to-scowcroft-pdf",
+      "date": "1989-12-05",
+      "title": "891205 Hutchings to Scowcroft .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgX0c5ZlFCV0h5QlJZWE9JcjJBX1kzUVV2bmhZ",
+      "topics": [
+        "Malta follow-up",
+        "Hutchings",
+        "Scowcroft"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-12-06-891206-scowcroft-to-bush-pdf",
+      "date": "1989-12-06",
+      "title": "891206 Scowcroft to Bush .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgMTNVWjV5V0g1RElMNjNQb1dXVEVzNWJoa1Nr",
+      "topics": [
+        "Scowcroft",
+        "Bush",
+        "Malta follow-up"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-01-16-900116-scowcroft-to-bush-pdf",
+      "date": "1990-01-16",
+      "title": "900116 Scowcroft to Bush.pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgOFNJY0ZIZTlBLXRzMVloTy1vSEtLQ0V5YTNV",
+      "topics": [
+        "Scowcroft",
+        "Bush",
+        "Post-Malta policy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-02-01-900201-rice-to-scowcroft-pdf",
+      "date": "1990-02-01",
+      "title": "900201 Rice to Scowcroft .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgUUpRcGZBcFBIdTd1SG9mWjZXNnlPM3ZqV01R",
+      "topics": [
+        "Rice",
+        "Scowcroft",
+        "German unification",
+        "Soviet policy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-02-16-900216-fry-and-zelikow-to-scowcroft-pdf",
+      "date": "1990-02-16",
+      "title": "900216 Fry and Zelikow to Scowcroft .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgOHZPTFBiZ0tmSlR3TVVwc3lwRnZFbGVIaUV3",
+      "topics": [
+        "Zelikow",
+        "Fry",
+        "German unification",
+        "Soviet diplomacy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-02-20-900220-blackwill-package-for-scowcroft-pdf",
+      "date": "1990-02-20",
+      "title": "900220 Blackwill package for Scowcroft  .pdf",
+      "type": "Briefing Package",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgTk00SlBXdUZmSk9WUXNsZnRNMVIwOWxSZGlR",
+      "topics": [
+        "Blackwill",
+        "Scowcroft",
+        "Germany",
+        "NATO"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-02-27-900227-blackwill-to-scowcroft-pdf",
+      "date": "1990-02-27",
+      "title": "900227 Blackwill to Scowcroft .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgaFFaSVFqUEZGS3lhY0sxZ05zcjFJcUxsQjFN",
+      "topics": [
+        "Blackwill",
+        "Scowcroft",
+        "Two Plus Four",
+        "NATO"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-03-27-900327-rice-to-scowcroft-pdf",
+      "date": "1990-03-27",
+      "title": "900327 Rice to Scowcroft.pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgcXRCN0VRNC1oVTdGYS1oemUtNTJiSVlGNG1r",
+      "topics": [
+        "Rice",
+        "Scowcroft",
+        "Lithuania",
+        "German unification"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-03-30-900330-rice-to-scowcroft-pdf",
+      "date": "1990-03-30",
+      "title": "900330 Rice to Scowcroft .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgUlVIeHdXZmxtNlZSN3FET0RVU0hiMGthYU5r",
+      "topics": [
+        "Rice",
+        "Scowcroft",
+        "Baltic states",
+        "Gorbachev"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-04-18-900418-rice-to-scowcroft-pdf",
+      "date": "1990-04-18",
+      "title": "900418 Rice to Scowcroft .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgVDVBNEZRcHlVVGxpUVlpa1lDcjNVWjhlcjJj",
+      "topics": [
+        "Rice",
+        "Scowcroft",
+        "Lithuania",
+        "Soviet pressure"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-05-27-900527-scowcroft-to-bush-pdf",
+      "date": "1990-05-27",
+      "title": "900527 Scowcroft to Bush.pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgQWxxNTBRdzVzS3VZWXAyOTg4SmpYdk5sX1BR",
+      "topics": [
+        "Scowcroft",
+        "Bush",
+        "Washington summit",
+        "Gorbachev"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-07-04-900704-gorbachev-to-bush-pdf",
+      "date": "1990-07-04",
+      "title": "900704 Gorbachev to Bush .pdf",
+      "type": "Presidential Correspondence",
+      "chapter": "Soviet Reform and Arms Control Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRnJaNVhieFVSX3JmMTJEZGFkTjJHYlJva0NR",
+      "topics": [
+        "Gorbachev",
+        "Bush",
+        "Presidential correspondence",
+        "Post-summit diplomacy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-11-28-901128-zelikow-to-gates-pdf",
+      "date": "1990-11-28",
+      "title": "901128 Zelikow to Gates .pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgNkRPNGo2bGNjWHM2WFVOdGhlVUhNOUdEV1VF",
+      "topics": [
+        "Zelikow",
+        "Gates",
+        "Soviet collapse",
+        "Contingency planning"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-08-01-910801-bush-and-kravchuk-pdf",
+      "date": "1991-08-01",
+      "title": "910801 Bush and Kravchuk.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1IO-2N12y2rky5D5iJE3z2WpgjE5h8ywL",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Kiev",
+        "Republics policy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-09-16-910916-nie-on-soviet-nuclear-forces-and-republic-sovereignty-pdf",
+      "date": "1991-09-16",
+      "title": "910916 NIE on Soviet nuclear forces and republic sovereignty.pdf",
+      "type": "Intelligence Assessment",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1mNREjnRk9cI_f7PpRwtzwRPs5xFWiZBd",
+      "topics": [
+        "Nuclear weapons",
+        "Republic sovereignty",
+        "NIE",
+        "Command and control"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-09-25-910925-bush-and-kravchuk-pdf",
+      "date": "1991-09-25",
+      "title": "910925 Bush and Kravchuk.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1oFB0BP61Tk37A79AXSleJAIttfTreKWC",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Post-coup policy",
+        "Republics policy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-10-01-911001-zelikow-memo-re-meeting-with-kravchuk-pdf",
+      "date": "1991-10-01",
+      "title": "911001 Zelikow memo re meeting with Kravchuk.pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/12vaIv2gr0DN99f7Vza8bo5ckG5bbVkU8",
+      "topics": [
+        "Zelikow",
+        "Kravchuk",
+        "Ukraine",
+        "Republics policy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-10-24-911024-moscow-cable-re-kravchuk-and-nukes-pdf",
+      "date": "1991-10-24",
+      "title": "911024 Moscow cable re Kravchuk and nukes.pdf",
+      "type": "Cable",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/19EZDMqUzVlJt8siIFltnZD-pGE03H_zN",
+      "topics": [
+        "Kravchuk",
+        "Ukraine",
+        "Nuclear weapons",
+        "Moscow Embassy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-10-29-911029-dod-paper-in-response-to-john-gordon-pdf",
+      "date": "1991-10-29",
+      "title": "911029 DOD paper in response to John Gordon.pdf",
+      "type": "Policy Paper",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1pR5NpJoel_IhXEM46hGlsQ93Ptx1qI1L",
+      "topics": [
+        "Department of Defense",
+        "John Gordon",
+        "Nuclear weapons",
+        "Successor states"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-10-31-911031-gordon-memo-on-nukes-pdf",
+      "date": "1991-10-31",
+      "title": "911031 Gordon memo on nukes.pdf",
+      "type": "Policy Memorandum",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1fj_KbSMCwa6jjEYfVcGcloFT3rU1QAsW",
+      "topics": [
+        "John Gordon",
+        "Nuclear weapons",
+        "Successor states",
+        "Nonproliferation"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-10-31-911000-dia-report-on-nukes-outside-russia-pdf",
+      "date": "1991-10-31",
+      "title": "911000 DIA Report on nukes outside Russia.pdf",
+      "type": "Intelligence Assessment",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1Zq-pQzEWbVJMq9ydgN6iNAb_bBLIEHZN",
+      "topics": [
+        "DIA",
+        "Nuclear weapons",
+        "Russia",
+        "Ukraine",
+        "Kazakhstan",
+        "Belarus"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-11-01-911100-cia-report-on-soviet-tactical-nuclear-forces-and-gorbachev-s-nuclear-pled",
+      "date": "1991-11-01",
+      "title": "911100 Cia Report on Soviet Tactical Nuclear Forces and Gorbachev's Nuclear Pledges.pdf",
+      "type": "Intelligence Assessment",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1UArL0DaYVZcht1r2xM9v1LA-xjWQUeyt",
+      "topics": [
+        "CIA",
+        "Tactical nuclear weapons",
+        "Gorbachev",
+        "PNI"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-11-21-911121-strauss-to-nunn-pdf",
+      "date": "1991-11-21",
+      "title": "911121 Strauss to Nunn.pdf",
+      "type": "Letter",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1r6a971l-mSVMUDe9l_FlNBzbOSlkoPb_",
+      "topics": [
+        "Nunn-Lugar",
+        "Strauss",
+        "Cooperative threat reduction"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-11-24-911124-bush-with-ukrainians-pdf",
+      "date": "1991-11-24",
+      "title": "911124 Bush with Ukrainians.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1bYRb35FmHG3zMxodrJSaT7nF0mslAVA0",
+      "topics": [
+        "Ukraine",
+        "Bush",
+        "Independence referendum",
+        "Nuclear weapons"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-11-30-911130-bush-and-yeltsin-telcon-pdf",
+      "date": "1991-11-30",
+      "title": "911130 Bush and Yeltsin telcon.pdf",
+      "type": "Telcon",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1e-PgkAdn471UpGA7xO0MVkKnhwlSCfwk",
+      "topics": [
+        "Yeltsin",
+        "Russia",
+        "Ukraine referendum",
+        "Soviet collapse"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-12-03-911203-bush-and-kravchuk-pdf",
+      "date": "1991-12-03",
+      "title": "911203 Bush and Kravchuk.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1hUnKdiWyn--DZAp61-Eov86yfvy8zD52",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Independence",
+        "Nuclear weapons"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-12-10-911210-niles-cable-re-talks-in-kiev-pdf",
+      "date": "1991-12-10",
+      "title": "911210 Niles cable re talks in Kiev.pdf",
+      "type": "Cable",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1KXWr_QnhKWXuIDF6XciKJrEjRo2u5b_4",
+      "topics": [
+        "Ukraine",
+        "Kiev",
+        "Niles",
+        "Post-Soviet transition"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-12-27-911227-summary-of-seminar-on-nunn-lugar-implementation-for-the-400-million-pdf",
+      "date": "1991-12-27",
+      "title": "911227 Summary of Seminar on Nunn-Lugar Implementation for the 400 million.pdf",
+      "type": "Seminar Summary",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1J2TlGCuYn3wlMmcIBgfpczaFc9Qc0T89",
+      "topics": [
+        "Nunn-Lugar",
+        "Cooperative threat reduction",
+        "Implementation",
+        "Nuclear weapons"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-01-10-920110-reg-barthomew-talking-points-for-moscow-trip-pdf",
+      "date": "1992-01-10",
+      "title": "920110 Reg Barthomew Talking Points for Moscow trip.pdf",
+      "type": "Talking Points",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1W4MKY9aYIIIvK9JtwYpfSxXFnfp1JM5Q",
+      "topics": [
+        "Bartholomew",
+        "Moscow",
+        "Nuclear succession",
+        "NIS policy"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-01-24-920124-ssd-readout-from-moscow-pdf",
+      "date": "1992-01-24",
+      "title": "920124 SSD Readout From Moscow.pdf",
+      "type": "SSD Readout",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1AlFzfE7NaMVdbnuEqvKYKWgEpimfSS98",
+      "topics": [
+        "Moscow",
+        "State Department",
+        "Russia",
+        "Post-Soviet transition"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-01-29-920129-national-security-caucus-letter-to-bush-after-meeting-with-yeltsin-pdf",
+      "date": "1992-01-29",
+      "title": "920129 National Security Caucus Letter to Bush After Meeting with Yeltsin.pdf",
+      "type": "Letter",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1zCsGt_NcB8I6SMRANN_QK9TcvMFf01F8",
+      "topics": [
+        "Yeltsin",
+        "Congress",
+        "Russia policy",
+        "Nunn-Lugar"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-04-10-920410-bush-and-kravchuk-pdf",
+      "date": "1992-04-10",
+      "title": "920410 Bush and Kravchuk.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1SAe6FR09vONnbmdyR0Rf4oJmTTiLE72g",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Nuclear weapons",
+        "Bilateral relations"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-05-06-920506-bush-and-kravchuk-restricted-session-notes-pdf",
+      "date": "1992-05-06",
+      "title": "920506 Bush and Kravchuk Restricted Session notes.pdf",
+      "type": "Meeting Notes",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1B3BT2qmKBZP8QuD8xQFhn7YTAXjUuToN",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Restricted session",
+        "Nuclear weapons"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-05-06-920506-bush-and-kravchuk-pdf",
+      "date": "1992-05-06",
+      "title": "920506 Bush and Kravchuk.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1iANr9iB_HKeuHQe9vjEK-7eF5WfAibKr",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Bilateral relations",
+        "Nuclear weapons"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-05-19-920519-bush-and-nazaybayev-pdf",
+      "date": "1992-05-19",
+      "title": "920519 Bush and Nazaybayev.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1RZetC-kjgv-PDPkSLek2kqz_dLdv6MhR",
+      "topics": [
+        "Kazakhstan",
+        "Nazarbayev",
+        "Nuclear weapons",
+        "Bilateral relations"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-06-01-920601-ssd-report-from-moscow-pdf",
+      "date": "1992-06-01",
+      "title": "920601 SSD Report From Moscow.pdf",
+      "type": "SSD Report",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1k1yHNZzhVpUqN1726MhXA8PPL5Y10VTG",
+      "topics": [
+        "Moscow",
+        "Russia",
+        "SSD",
+        "Bush-Yeltsin summit"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-06-02-920602-ssd-from-moscow-pdf",
+      "date": "1992-06-02",
+      "title": "920602 SSD From Moscow.pdf",
+      "type": "SSD Report",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1uhFl0zmhsKwL5PhI2wBvZ89mAPNtKdFr",
+      "topics": [
+        "Moscow",
+        "Russia",
+        "SSD",
+        "Yeltsin"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-06-03-920603-ssd-from-moscow-pdf",
+      "date": "1992-06-03",
+      "title": "920603 SSD From Moscow.pdf",
+      "type": "SSD Report",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1qWYeNsqk9k40xpLxwNJ3Q-q_Tu7snh_f",
+      "topics": [
+        "Moscow",
+        "Russia",
+        "SSD",
+        "Post-Soviet transition"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-06-04-920604-burns-official-informal-ssd-from-moscow-pdf",
+      "date": "1992-06-04",
+      "title": "920604 Burns Official Informal SSD From Moscow.pdf",
+      "type": "SSD Report",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1Gg9YOYJ4-xA_r-ZxmCACxx80bY-jlYfU",
+      "topics": [
+        "William Burns",
+        "Moscow",
+        "Russia",
+        "SSD"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-07-09-920709-bush-and-shushkevich-pdf",
+      "date": "1992-07-09",
+      "title": "920709 Bush and Shushkevich.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1itLWrEbZUIsM1dP1JAh-Cucc7k1jHJzc",
+      "topics": [
+        "Belarus",
+        "Shushkevich",
+        "Nuclear weapons",
+        "Bilateral relations"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-07-09-920709-bush-and-kravchuk-pdf",
+      "date": "1992-07-09",
+      "title": "920709 Bush and Kravchuk.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1t6Ff_zd4pgA-Xd5DJvmltXaJnrCWijXN",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Lisbon Protocol",
+        "Nuclear weapons"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-07-31-920731-ssd-pdf",
+      "date": "1992-07-31",
+      "title": "920731 SSD.pdf",
+      "type": "SSD Report",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/17I_YzL89EevE3yTgAfi8vfprwosp_sIg",
+      "topics": [
+        "SSD",
+        "Russia",
+        "NIS",
+        "Post-Soviet transition"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-11-23-921123-nunn-lugar-with-russian-parliamentarians-pdf",
+      "date": "1992-11-23",
+      "title": "921123 Nunn Lugar with Russian parliamentarians.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1wS7jI88HlM-WD0eWVWUw3Ich_tqNBF_c",
+      "topics": [
+        "Nunn-Lugar",
+        "Russian parliament",
+        "Cooperative threat reduction"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-11-25-921125-nunn-from-moscow-pdf",
+      "date": "1992-11-25",
+      "title": "921125 Nunn from Moscow.pdf",
+      "type": "Cable",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1YwaARC2OqJcxlehD99ygNAcH3_F5XqdG",
+      "topics": [
+        "Nunn-Lugar",
+        "Moscow",
+        "Cooperative threat reduction",
+        "Russia"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-12-04-921204-bush-to-kravchuk-via-privacy-channels-pdf",
+      "date": "1992-12-04",
+      "title": "921204 Bush to Kravchuk via privacy channels.pdf",
+      "type": "Presidential Message",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/1f2yu2jJvNl-5gN29ftKaHMqGqNiDlShe",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Private channel",
+        "Presidential message"
+      ]
+    },
+    {
+      "id": "drive-sweep-1992-12-24-921224-bush-and-kravchuk-pdf",
+      "date": "1992-12-24",
+      "title": "921224 Bush and Kravchuk.pdf",
+      "type": "Meeting Record",
+      "chapter": "Collapse and Republics Policy",
+      "url": "https://drive.google.com/file/d/18U0vOPUAR4hrMrj4k6__yWka-E6gpgmH",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Transition",
+        "Nuclear weapons"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-05-07-1989-5-7-gbpl-scowcroft-brent-files-ussr-collapse-us-sov-relations-thru-1991-may",
+      "date": "1989-05-07",
+      "title": "1989.5.7, GBPL, Scowcroft, Brent Files, USSR Collapse- US-Sov Relations Thru 1991 (May 1989), Scowcroft Comments on A&M Speech Draft.pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgUVR4THBjdk9kXzg",
+      "topics": [
+        "GBPL",
+        "Scowcroft Files",
+        "Texas A&M speech",
+        "U.S.-Soviet relations"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-07-01-1989-7-gbpl-scowcroft-brent-files-box-91126-gorbachev-dobrynin-sensitive-1989-ju",
+      "date": "1989-07-01",
+      "title": "1989.7, GBPL, Scowcroft, Brent Files, Box 91126, Gorbachev (Dobrynin) Sensitive 1989-June 1990 [2], Annotated Copy of Moscow in the Aftermath of the Congress of People's Deputies (seen by Scowcroft).pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgb0RyVDZaanlBM28",
+      "topics": [
+        "GBPL",
+        "Scowcroft Files",
+        "Gorbachev",
+        "Soviet politics"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-08-08-1989-8-8-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-e",
+      "date": "1989-08-08",
+      "title": "1989.8.8, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July 1989), Memo from Rodman to BS \"Changes in EE- Why is Gorbachev Permitting This?\".pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgQTNrdU1NSEh2cFk",
+      "topics": [
+        "GBPL",
+        "Eastern Europe",
+        "Gorbachev",
+        "Rodman"
+      ]
+    },
+    {
+      "id": "drive-sweep-1989-09-25-1989-9-25-gbpl-scowcroft-brent-files-box-11-ussr-collapse-us-sov-relations-thru-",
+      "date": "1989-09-25",
+      "title": "1989.9.25, GBPL, Scowcroft, Brent Files, Box 11, USSR Collapse- US-Sov Relations Thru 1991 (September 1989), HWB Talking points for Bipartisan Leadership mtg.pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgZjEwN25adWdVcnM",
+      "topics": [
+        "GBPL",
+        "Congress",
+        "Talking points",
+        "U.S.-Soviet relations"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-06-05-1990-6-05-gbpl-scowcroft-brent-files-box-12-ussr-collapse-us-sov-relations-thru-",
+      "date": "1990-06-05",
+      "title": "1990.6.05, GBPL, Scowcroft, Brent Files, Box 12, USSR Collapse- US-Sov Relations Thru 1991 (June 1990) (2), BS to HWB on Talking pts to be made with Congressional leaders on Gorby mtgs.pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgd2ZXR1RPS25zV2M",
+      "topics": [
+        "GBPL",
+        "Gorbachev",
+        "Congress",
+        "Talking points"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-07-13-1990-7-13-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-thr",
+      "date": "1990-07-13",
+      "title": "1990.7.13, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (July 1990), Routing Slip for Matlock cable (redacted) entitled \"Possible Collapse of the USSR and What we should be doing about it\".pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgQ3hKbEViWTg5ZzQ",
+      "topics": [
+        "GBPL",
+        "Matlock",
+        "Soviet collapse",
+        "Contingency planning"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-08-01-1990-8-1-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-thru",
+      "date": "1990-08-01",
+      "title": "1990.8.1, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), BS cover memo and text of HWB Aspen Speech.pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/1gGp-iVInr7JULlIbkv6BmHimiZL48C5_",
+      "topics": [
+        "GBPL",
+        "Aspen speech",
+        "Scowcroft",
+        "U.S.-Soviet relations"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-08-18-1990-8-18-gbpl-scowcroft-brent-files-box-12-ussr-collapse-us-sov-relations-thru-",
+      "date": "1990-08-18",
+      "title": "1990.8.18, GBPL, Scowcroft, Brent Files, Box 12, USSR Collapse- US-Sov Relations Thru 1991 (Aug 1990), Routing Slips and papers (closed) on Collapse of USSR (1).pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/17gVWmQM-TdkeSuHPD2KudiA7_L7pAEj0",
+      "topics": [
+        "GBPL",
+        "Soviet collapse",
+        "Closed material",
+        "Contingency planning"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-09-20-1990-9-20-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-thr",
+      "date": "1990-09-20",
+      "title": "1990.9.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (September 1990) [2], Memo from BS to HWB re Results of Pres Bus Development Trip to USSR.pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgUVEzOVNCc0tNX2s",
+      "topics": [
+        "GBPL",
+        "Business development",
+        "Soviet economy",
+        "Mosbacher"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-10-11-1990-10-11-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-th",
+      "date": "1990-10-11",
+      "title": "1990.10.11, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (October 1990), Cover memo from CR (annotated) and BS talking pts for mtgs with Estonian leadership.pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgWV9jVmFaS2ZxUEk",
+      "topics": [
+        "GBPL",
+        "Estonia",
+        "Baltic states",
+        "Rice",
+        "Scowcroft"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-12-19-1990-12-19-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-sovit-relations",
+      "date": "1990-12-19",
+      "title": "1990.12.19, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Sovit Relations Through 1991 (December 1990), Memos on Presidential Response to Mosbacher Business Trip.pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgQ0d4TmFoc0pIZzA",
+      "topics": [
+        "GBPL",
+        "Mosbacher",
+        "Soviet economy",
+        "Presidential response"
+      ]
+    },
+    {
+      "id": "drive-sweep-1990-12-21-1990-12-21-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-sovit-relations",
+      "date": "1990-12-21",
+      "title": "1990.12.21, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Sovit Relations Through 1991 (December 1990), Routing Slips for memos from Rice and BS to HWB re Responding to toughening line in Moscow.pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgd0lUb2NzeXRKZXc",
+      "topics": [
+        "GBPL",
+        "Moscow",
+        "Rice",
+        "Scowcroft",
+        "Soviet hardliners"
+      ]
+    },
+    {
+      "id": "drive-sweep-1991-05-01-1991-5-1-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-soviet-relations-",
+      "date": "1991-05-01",
+      "title": "1991.5.1, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (March-May 1991), Routing Slip and Withdrawal Sheet on \"Response to Soviets re CFE\".pdf",
+      "type": "Source Lead",
+      "chapter": "Archive Leads",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgT2dOZmdkd3VTb3M",
+      "topics": [
+        "GBPL",
+        "CFE",
+        "Arms control",
+        "Withdrawal sheet"
+      ]
+    }
+  ]
+}
