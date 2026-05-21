@@ -18,6 +18,7 @@ The official Office of the Historian status page lists the volume as **Being Res
 - Preserves a NARA Scout search trail for broad Bush 41 Russia/FSU discovery, including declassified PDFs, withdrawal/MDR leads, and Daily File control packets.
 - Adds a focused Central Chronological Files pass for the NSC European and Eurasian Directorate, surfacing monthly file-unit leads around Soviet collapse, recognition, aid, Nunn-Lugar, Lisbon, and START II.
 - Adds a Google Drive date-prefix/GBPL pass for PDFs beginning with 89, 90, 91, or 92 and Bush Library source-copy filenames.
+- Adds a focused Google Drive Scowcroft pass for date-prefixed memoranda and GBPL Brent Scowcroft source-copy files relevant to Soviet, Russia, and FSU policy.
 - Tracks Elizabeth C. Charles's Reagan-era Soviet volumes as compiler precedents for arrangement, source notes, and selection density.
 
 ## Local Preview
@@ -113,12 +114,19 @@ The Google Drive date-prefix/GBPL pass searches Drive PDFs whose filenames conta
 - 16 post-coup and dissolution records from 1991, including Kravchuk, Yeltsin, Bartholomew PNI, CIA/DIA nuclear, and early Nunn-Lugar implementation files.
 - 18 Russia/NIS records from 1992, including Bartholomew Moscow talking points, Nunn-Lugar correspondence and trips, Ukraine nuclear withdrawal, Bush meetings with Kravchuk/Nazarbayev/Shushkevich, Moscow SSD reports, and late-1992 Nunn-Lugar/Yeltsin/Gorbachev material.
 
+The focused Google Drive Scowcroft pass searches Drive for `Scowcroft`, `Brent Scowcroft`, and `Scowcroft Soviet`, and also checks for Scowcroft-named folders. No Scowcroft folders were returned. The useful hits are direct PDF memoranda and GBPL source-copy filenames. The curated seed adds 43 records:
+
+- 24 early Bush administration Scowcroft/Zelikow/Rice/Blackwill/Mahley/Snider memoranda and policy leads from January-October 1989.
+- 2 early-1990 Powell/Zelikow memoranda in the Soviet/German-unification policy lane.
+- 17 GBPL Brent Scowcroft source-copy leads, including food needs of the USSR, economic assistance to the USSR, Mosbacher business-trip policy, Gates Group POCs, START meeting records, Rice collapse memoranda withdrawal sheets, and a proposed Bush letter to Gorbachev.
+
 Generated reports:
 
 - `reports/essential-collections-harvest.json`
 - `reports/essential-chronology-seed.json`
 - `reports/google-drive-source-hits.json`
 - `reports/google-drive-date-prefix-bush-library-seed.json`
+- `reports/google-drive-scowcroft-seed.json`
 - `reports/nara-scout-russia-fsu-search.json`
 - `reports/nara-scout-russia-fsu-seed.json`
 - `reports/frus31-cited-collections.json`
@@ -143,4 +151,5 @@ node 89-92-RussiaFSU-Policy/scripts/harvest-central-chronology.js
 node 89-92-RussiaFSU-Policy/scripts/seed-central-chronology.js
 node 89-92-RussiaFSU-Policy/scripts/mine-frus-soviet-precedents.js
 node 89-92-RussiaFSU-Policy/scripts/seed-google-drive-date-prefix.js
+node 89-92-RussiaFSU-Policy/scripts/seed-google-drive-scowcroft.js
 ```

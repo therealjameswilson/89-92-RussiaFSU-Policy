@@ -3760,6 +3760,165 @@ window.MEMCONS = [
     "seedBatch": "central-chronology-374000108-2026-05-21"
   },
   {
+    "id": "drive-scowcroft-1989-01-30-890130-mahley-to-scowcroft-pdf",
+    "date": "1989-01-30",
+    "sortDate": "1989-01-30",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890130 Mahley to Scowcroft .pdf",
+    "documentTitle": "890130 Mahley to Scowcroft .pdf",
+    "participants": [
+      "Richard Mahley",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890130 Mahley to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN"
+    },
+    "dateLine": "January 30, 1989",
+    "subjectLine": "Mahley memorandum to Scowcroft from the opening phase of the Bush administration's Soviet policy review.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890130 Mahley to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgOUl1R2xvLVA2UmlsZzFCSWM0YkNmOGM4THRN.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Mahley",
+      "Scowcroft",
+      "Policy review",
+      "Soviet Union"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-02-04-890204-zelikow-to-scowcroft-pdf",
+    "date": "1989-02-04",
+    "sortDate": "1989-02-04",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890204 Zelikow to Scowcroft .pdf",
+    "documentTitle": "890204 Zelikow to Scowcroft .pdf",
+    "participants": [
+      "Philip Zelikow",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890204 Zelikow to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0"
+    },
+    "dateLine": "February 4, 1989",
+    "subjectLine": "Zelikow memorandum to Scowcroft during the administration's initial Soviet strategy review.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890204 Zelikow to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgU19xTFM0VzNkU1B2M1NPTHZxUml3RmJ1dFI0.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Zelikow",
+      "Scowcroft",
+      "Soviet strategy",
+      "NSC staff"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-02-10-890210-zelikow-to-scowcroft-pdf",
+    "date": "1989-02-10",
+    "sortDate": "1989-02-10",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890210 Zelikow to Scowcroft .pdf",
+    "documentTitle": "890210 Zelikow to Scowcroft .pdf",
+    "participants": [
+      "Philip Zelikow",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890210 Zelikow to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr"
+    },
+    "dateLine": "February 10, 1989",
+    "subjectLine": "Follow-on Zelikow memorandum to Scowcroft in the February 1989 Soviet-policy review cycle.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890210 Zelikow to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgRHktXzQwVWhwZzF5OFdOY0V4b3VlUUVJcUtr.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Zelikow",
+      "Scowcroft",
+      "U.S.-Soviet relations",
+      "Policy review"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "nara-1989-02-15-nsr-3-february-15-1989-comprehensive-review-of-u-s-soviet-relations-1-446394925",
     "date": "1989-02-15",
     "sortDate": "1989-02-15",
@@ -3878,6 +4037,59 @@ window.MEMCONS = [
     "seedBatch": "essential-collections-and-drive-2026-05-20"
   },
   {
+    "id": "drive-scowcroft-1989-02-16-890216-blackwill-to-scowcroft-pdf",
+    "date": "1989-02-16",
+    "sortDate": "1989-02-16",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890216 Blackwill to Scowcroft .pdf",
+    "documentTitle": "890216 Blackwill to Scowcroft .pdf",
+    "participants": [
+      "Robert Blackwill",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890216 Blackwill to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ"
+    },
+    "dateLine": "February 16, 1989",
+    "subjectLine": "Blackwill memorandum to Scowcroft on Soviet and European policy during the early Bush transition.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890216 Blackwill to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgTkdONXY4NWo0V29rRlFDcjQtd1F2djRDV3JZ.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Blackwill",
+      "Scowcroft",
+      "Transition",
+      "Soviet policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "public-papers-1989-02-16-soviet-withdrawal-afghanistan",
     "date": "1989-02-16",
     "sortDate": "1989-02-16",
@@ -3932,6 +4144,114 @@ window.MEMCONS = [
     },
     "publicPapersTextLine": 36357,
     "seedBatch": "google-drive-public-papers-cheney-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-02-21-890221-scowcroft-and-bahr-pdf",
+    "date": "1989-02-21",
+    "sortDate": "1989-02-21",
+    "sortOrder": 0,
+    "type": "Meeting Lead",
+    "title": "890221 Scowcroft and Bahr .pdf",
+    "documentTitle": "890221 Scowcroft and Bahr .pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "Egon Bahr"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890221 Scowcroft and Bahr .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw"
+    },
+    "dateLine": "February 21, 1989",
+    "subjectLine": "Scowcroft-Bahr material useful for triangulating Soviet, German, and European policy assumptions.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890221 Scowcroft and Bahr .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgSFlKR1ZOeTN4QjZVZTNiV2U4cWNNQ1N5VDEw.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Scowcroft",
+      "Bahr",
+      "Germany",
+      "Soviet policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-02-27-890227-leach-and-rice-to-scowcroft-pdf",
+    "date": "1989-02-27",
+    "sortDate": "1989-02-27",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890227 Leach and Rice to Scowcroft .pdf",
+    "documentTitle": "890227 Leach and Rice to Scowcroft .pdf",
+    "participants": [
+      "James Leach",
+      "Condoleezza Rice",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890227 Leach and Rice to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj"
+    },
+    "dateLine": "February 27, 1989",
+    "subjectLine": "Leach-Rice memorandum to Scowcroft in the first-year Soviet policy review.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890227 Leach and Rice to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgOVJqODRkVVgtVHNVTGRiNUliaThaeGN4dWJj.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Rice",
+      "Leach",
+      "Scowcroft",
+      "Soviet policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "1989-03-01-essg-meetings-453248109",
@@ -4047,6 +4367,166 @@ window.MEMCONS = [
     "seedBatch": "essential-collections-and-drive-2026-05-20"
   },
   {
+    "id": "drive-scowcroft-1989-03-02-890302-rice-to-scowcroft-pdf",
+    "date": "1989-03-02",
+    "sortDate": "1989-03-02",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890302 Rice to Scowcroft .pdf",
+    "documentTitle": "890302 Rice to Scowcroft .pdf",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890302 Rice to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj"
+    },
+    "dateLine": "March 2, 1989",
+    "subjectLine": "Rice memorandum to Scowcroft as the NSC framed policy toward Gorbachev and Soviet reform.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890302 Rice to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgdWdEZG11ZXctbWxXUlowV3dHS3plbWd5VXVj.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Rice",
+      "Scowcroft",
+      "Gorbachev",
+      "Soviet reform"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-03-11-890311-zelikow-and-mahley-to-scowcroft-pdf",
+    "date": "1989-03-11",
+    "sortDate": "1989-03-11",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890311 Zelikow and Mahley to Scowcroft .pdf",
+    "documentTitle": "890311 Zelikow and Mahley to Scowcroft .pdf",
+    "participants": [
+      "Philip Zelikow",
+      "Richard Mahley",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890311 Zelikow and Mahley to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V"
+    },
+    "dateLine": "March 11, 1989",
+    "subjectLine": "Zelikow-Mahley memorandum to Scowcroft on the Soviet policy course under review.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890311 Zelikow and Mahley to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgRksxUmxkVk9DYU9lbkh1Wlp3cURGTUY3MG5V.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Zelikow",
+      "Mahley",
+      "Scowcroft",
+      "Policy planning"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-03-13-890313-zelikow-to-scowcroft-pdf",
+    "date": "1989-03-13",
+    "sortDate": "1989-03-13",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890313 Zelikow to Scowcroft.pdf",
+    "documentTitle": "890313 Zelikow to Scowcroft.pdf",
+    "participants": [
+      "Philip Zelikow",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890313 Zelikow to Scowcroft.pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J"
+    },
+    "dateLine": "March 13, 1989",
+    "subjectLine": "Zelikow memorandum to Scowcroft from the March 1989 policy-planning sequence.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890313 Zelikow to Scowcroft.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgYl9TSnVzakpUMDVjYVhFTVgwLTlEeUp3Vk1J.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Zelikow",
+      "Scowcroft",
+      "Soviet policy",
+      "NSC staff"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "source-lead-google-drive-cheney-public-statements",
     "date": "1989-03-20",
     "sortDate": "1989-03-20",
@@ -4157,6 +4637,167 @@ window.MEMCONS = [
       ]
     },
     "seedBatch": "google-drive-public-papers-cheney-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-03-21-890321-zelikow-to-scowcroft-pdf",
+    "date": "1989-03-21",
+    "sortDate": "1989-03-21",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890321 Zelikow to Scowcroft .pdf",
+    "documentTitle": "890321 Zelikow to Scowcroft .pdf",
+    "participants": [
+      "Philip Zelikow",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890321 Zelikow to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0"
+    },
+    "dateLine": "March 21, 1989",
+    "subjectLine": "Zelikow memorandum to Scowcroft during the March 1989 Soviet policy review.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890321 Zelikow to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgWG84R2VueXNVdmpXTkxFNVVhTGplZC1hRmY0.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Zelikow",
+      "Scowcroft",
+      "Policy review",
+      "Soviet Union"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-03-21-890321-snider-to-scowcroft-pdf",
+    "date": "1989-03-21",
+    "sortDate": "1989-03-21",
+    "sortOrder": 1,
+    "type": "Policy Memorandum",
+    "title": "890321 Snider to Scowcroft .pdf",
+    "documentTitle": "890321 Snider to Scowcroft .pdf",
+    "participants": [
+      "Lewis Snider",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890321 Snider to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ"
+    },
+    "dateLine": "March 21, 1989",
+    "subjectLine": "Snider memorandum to Scowcroft in the early Soviet policy-development period.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890321 Snider to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgOTVKa21YbDhJTS11QnZEVUJ2aXVXSW1QbmdJ.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Snider",
+      "Scowcroft",
+      "Soviet policy",
+      "NSC staff"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-03-28-890328-melby-and-lowenkron-to-scowcroft-pdf",
+    "date": "1989-03-28",
+    "sortDate": "1989-03-28",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890328 Melby and Lowenkron to Scowcroft .pdf",
+    "documentTitle": "890328 Melby and Lowenkron to Scowcroft .pdf",
+    "participants": [
+      "Eric Melby",
+      "Barry Lowenkron",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Eastern Europe"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890328 Melby and Lowenkron to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF"
+    },
+    "dateLine": "March 28, 1989",
+    "subjectLine": "Melby-Lowenkron memorandum to Scowcroft on the Soviet and Eastern Europe policy environment.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890328 Melby and Lowenkron to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgRGhDZ1B2QlNsc3ludGdNQ19uMXRkUm05TzhF.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Melby",
+      "Lowenkron",
+      "Eastern Europe",
+      "Soviet policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "nara-1989-03-29-nsc-dc-014-march-29-1989-nsc-dc-meeting-on-nsr-3-re-u-s-soviet-economic-relations-keywords-470760988",
@@ -4572,6 +5213,332 @@ window.MEMCONS = [
     "seedBatch": "essential-collections-and-drive-2026-05-20"
   },
   {
+    "id": "drive-scowcroft-1989-04-05-890405-scowcroft-to-powell-pdf",
+    "date": "1989-04-05",
+    "sortDate": "1989-04-05",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890405 Scowcroft to Powell .pdf",
+    "documentTitle": "890405 Scowcroft to Powell .pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "Colin Powell"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890405 Scowcroft to Powell .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ"
+    },
+    "dateLine": "April 5, 1989",
+    "subjectLine": "Scowcroft memorandum to Powell in the pre-NSD-23 Soviet policy-planning period.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890405 Scowcroft to Powell .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgdVpMd0FhOEJQaFEtaS1tVlNzOExOQjVsYXRZ.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Scowcroft",
+      "Powell",
+      "Soviet policy",
+      "White House"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-04-10-1989-4-10-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-",
+    "date": "1989-04-10",
+    "sortDate": "1989-04-10",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1989.4.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memos and draft presidential statements on Polish Democracy and Ending Division in Europe.pdf",
+    "documentTitle": "1989.4.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memos and draft presidential statements on Polish Democracy and Ending Division in Europe.pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "National Security Council staff",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Poland",
+      "Eastern Europe"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV",
+    "pdfUrl": "https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1989.4.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memos and draft presidential statements on Polish Democracy and Ending Division in Europe.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV"
+    },
+    "dateLine": "April 10, 1989",
+    "subjectLine": "GBPL source-copy lead for presidential statements on Polish democracy and ending Europe's division.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.4.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memos and draft presidential statements on Polish Democracy and Ending Division in Europe.pdf. URL: https://drive.google.com/file/d/1MbsR4m9zT8K5MzhIzL25QCxukrB38IPV.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Poland",
+      "Eastern Europe",
+      "Presidential statements"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-04-11-890411-blackwill-and-rodman-to-scowcroft-pdf",
+    "date": "1989-04-11",
+    "sortDate": "1989-04-11",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890411 Blackwill and Rodman to Scowcroft .pdf",
+    "documentTitle": "890411 Blackwill and Rodman to Scowcroft .pdf",
+    "participants": [
+      "Robert Blackwill",
+      "Peter Rodman",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Eastern Europe"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890411 Blackwill and Rodman to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV"
+    },
+    "dateLine": "April 11, 1989",
+    "subjectLine": "Blackwill-Rodman memorandum to Scowcroft on Soviet and Eastern Europe policy questions.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890411 Blackwill and Rodman to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgMlFxcDNaZ2tpdG9wdWhCYm00YjBKc0VSMExV.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Blackwill",
+      "Rodman",
+      "Scowcroft",
+      "Eastern Europe"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-05-01-1989-spring-gbpl-scowcroft-brent-files-ussr-collapse-us-sov-relations-thru-1991-",
+    "date": "1989-05-01",
+    "sortDate": "1989-05-01",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1989.Spring, GBPL, Scowcroft, Brent Files, USSR Collapse- US-Sov Relations Thru 1991 (May 1989), Outline of Coast Guard Academy Speech.pdf",
+    "documentTitle": "1989.Spring, GBPL, Scowcroft, Brent Files, USSR Collapse- US-Sov Relations Thru 1991 (May 1989), Outline of Coast Guard Academy Speech.pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1989.Spring, GBPL, Scowcroft, Brent Files, USSR Collapse- US-Sov Relations Thru 1991 (May 1989), Outline of Coast Guard Academy Speech.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU"
+    },
+    "dateLine": "Spring 1989",
+    "subjectLine": "GBPL source-copy lead for early Bush administration public framing of U.S.-Soviet relations.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.Spring, GBPL, Scowcroft, Brent Files, USSR Collapse- US-Sov Relations Thru 1991 (May 1989), Outline of Coast Guard Academy Speech.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgcHEwLVB1LVI4OVU.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Scowcroft Files",
+      "Coast Guard Academy speech",
+      "U.S.-Soviet relations"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-05-02-1989-5-02-gbpl-scowcroft-brent-files-box-91120-soviet-power-collapse-snf-februar",
+    "date": "1989-05-02",
+    "sortDate": "1989-05-02",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1989.5.02, GBPL, Scowcroft, Brent Files, Box 91120, Soviet Power Collapse - SNF - February-May 1989, Prepared Q&As for Press Conference on NATO.pdf",
+    "documentTitle": "1989.5.02, GBPL, Scowcroft, Brent Files, Box 91120, Soviet Power Collapse - SNF - February-May 1989, Prepared Q&As for Press Conference on NATO.pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "NATO"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1989.5.02, GBPL, Scowcroft, Brent Files, Box 91120, Soviet Power Collapse - SNF - February-May 1989, Prepared Q&As for Press Conference on NATO.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ"
+    },
+    "dateLine": "May 2, 1989",
+    "subjectLine": "GBPL source-copy lead for NATO press guidance amid Soviet and European policy repositioning.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.5.02, GBPL, Scowcroft, Brent Files, Box 91120, Soviet Power Collapse - SNF - February-May 1989, Prepared Q&As for Press Conference on NATO.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgRHIxZTFCNkpOdzQ.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "NATO",
+      "SNF",
+      "Press guidance"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-05-03-1989-5-3-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-e",
+    "date": "1989-05-03",
+    "sortDate": "1989-05-03",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1989.5.3, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memo from Rice to BW re Meeting with Polish opposition leaders.pdf",
+    "documentTitle": "1989.5.3, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memo from Rice to BW re Meeting with Polish opposition leaders.pdf",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft",
+      "Polish opposition leaders"
+    ],
+    "countries": [
+      "United States",
+      "Poland",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1989.5.3, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memo from Rice to BW re Meeting with Polish opposition leaders.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE"
+    },
+    "dateLine": "May 3, 1989",
+    "subjectLine": "Rice memorandum lead on meetings with Polish opposition leaders during the Soviet-bloc transition.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.5.3, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (March-April 1989), Memo from Rice to BW re Meeting with Polish opposition leaders.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgalJ1ZHRGM3gwcVE.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Rice",
+      "Poland",
+      "Eastern Europe"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1989-05-07-1989-5-7-gbpl-scowcroft-brent-files-ussr-collapse-us-sov-relations-thru-1991-may",
     "date": "1989-05-07",
     "sortDate": "1989-05-07",
@@ -4623,6 +5590,113 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-05-09-890509-blackwill-to-scowcroft-pdf",
+    "date": "1989-05-09",
+    "sortDate": "1989-05-09",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890509 Blackwill to Scowcroft .pdf",
+    "documentTitle": "890509 Blackwill to Scowcroft .pdf",
+    "participants": [
+      "Robert Blackwill",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890509 Blackwill to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n"
+    },
+    "dateLine": "May 9, 1989",
+    "subjectLine": "Blackwill memorandum to Scowcroft as Soviet policy, NATO, and German issues converged in spring 1989.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890509 Blackwill to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgcWl1bnBsY2dkckpsLW5PLVo4MW5rdTZSaS1n.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Blackwill",
+      "Scowcroft",
+      "NATO",
+      "Soviet policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-05-09-890509-snider-to-scowcroft-pdf",
+    "date": "1989-05-09",
+    "sortDate": "1989-05-09",
+    "sortOrder": 1,
+    "type": "Policy Memorandum",
+    "title": "890509 Snider to Scowcroft .pdf",
+    "documentTitle": "890509 Snider to Scowcroft .pdf",
+    "participants": [
+      "Lewis Snider",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890509 Snider to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw"
+    },
+    "dateLine": "May 9, 1989",
+    "subjectLine": "Snider memorandum to Scowcroft during the May 1989 policy-framing period.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890509 Snider to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgX2tDcGFJU1pITTh1emFNX3h1Q19mclNzTXYw.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Snider",
+      "Scowcroft",
+      "Policy planning",
+      "Soviet Union"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "drive-sweep-1989-05-20-890520-scowcroft-to-bush-pdf",
@@ -5069,6 +6143,113 @@ window.MEMCONS = [
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
   },
   {
+    "id": "drive-scowcroft-1989-06-21-890621-nixon-oped-for-scowcroft-pdf",
+    "date": "1989-06-21",
+    "sortDate": "1989-06-21",
+    "sortOrder": 0,
+    "type": "Policy Lead",
+    "title": "890621 Nixon oped for Scowcroft.pdf",
+    "documentTitle": "890621 Nixon oped for Scowcroft.pdf",
+    "participants": [
+      "Richard Nixon",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890621 Nixon oped for Scowcroft.pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn"
+    },
+    "dateLine": "June 21, 1989",
+    "subjectLine": "Nixon op-ed material for Scowcroft as outside Republican advice shaped the administration's Soviet line.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890621 Nixon oped for Scowcroft.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgcElBN0tnV1RUTmxoTFpzQzRPSXVvRDVjVktn.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Nixon",
+      "Scowcroft",
+      "Public diplomacy",
+      "Soviet policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-06-28-1989-6-28-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-",
+    "date": "1989-06-28",
+    "sortDate": "1989-06-28",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1989.6.28, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (June-July 1989), Cover Memo and Routing Slip re US Objectives at Paris Economic Summit.pdf",
+    "documentTitle": "1989.6.28, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (June-July 1989), Cover Memo and Routing Slip re US Objectives at Paris Economic Summit.pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Eastern Europe"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1989.6.28, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (June-July 1989), Cover Memo and Routing Slip re US Objectives at Paris Economic Summit.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c"
+    },
+    "dateLine": "June 28, 1989",
+    "subjectLine": "GBPL lead on U.S. objectives for the Paris Economic Summit as Soviet-bloc change accelerated.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.6.28, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (June-July 1989), Cover Memo and Routing Slip re US Objectives at Paris Economic Summit.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgbFdncVh4dTBFZ2c.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Paris Economic Summit",
+      "Eastern Europe",
+      "Economic policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1989-07-01-1989-7-gbpl-scowcroft-brent-files-box-91126-gorbachev-dobrynin-sensitive-1989-ju",
     "date": "1989-07-01",
     "sortDate": "1989-07-01",
@@ -5119,6 +6300,112 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-07-01-890701-scowcroft-to-powell-pdf",
+    "date": "1989-07-01",
+    "sortDate": "1989-07-01",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890701 Scowcroft to Powell .pdf",
+    "documentTitle": "890701 Scowcroft to Powell .pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "Colin Powell"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890701 Scowcroft to Powell .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw"
+    },
+    "dateLine": "July 1, 1989",
+    "subjectLine": "Scowcroft memorandum to Powell after the administration set its public Soviet-policy framework.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890701 Scowcroft to Powell .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgRWVNZlBVQmIyeWRMWWtXTlJGbmhkNHRwNGMw.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Scowcroft",
+      "Powell",
+      "Policy implementation",
+      "Soviet Union"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-07-10-1989-7-10-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-",
+    "date": "1989-07-10",
+    "sortDate": "1989-07-10",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1989.7.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July 1989), Sakharov's Chatham House Lecture.pdf",
+    "documentTitle": "1989.7.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July 1989), Sakharov's Chatham House Lecture.pdf",
+    "participants": [
+      "Andrei Sakharov",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1989.7.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July 1989), Sakharov's Chatham House Lecture.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M"
+    },
+    "dateLine": "July 10, 1989",
+    "subjectLine": "GBPL source-copy lead for Sakharov's Chatham House lecture in Scowcroft's Soviet-collapse files.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.7.10, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July 1989), Sakharov's Chatham House Lecture.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgQndPQm9na25fV3M.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Sakharov",
+      "Soviet reform",
+      "Human rights"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "drive-sweep-1989-08-03-890803-rice-to-scowcroft-pdf",
@@ -5174,6 +6461,59 @@ window.MEMCONS = [
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
   },
   {
+    "id": "drive-scowcroft-1989-08-07-890807-paal-to-scowcroft-pdf",
+    "date": "1989-08-07",
+    "sortDate": "1989-08-07",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890807 Paal to Scowcroft .pdf",
+    "documentTitle": "890807 Paal to Scowcroft .pdf",
+    "participants": [
+      "Douglas Paal",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890807 Paal to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F"
+    },
+    "dateLine": "August 7, 1989",
+    "subjectLine": "Paal memorandum to Scowcroft with Soviet-policy relevance during summer 1989 planning.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890807 Paal to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNganMzV3BLcUl3eGgwVjdyQjdQY3BJbVk5NV9F.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Paal",
+      "Scowcroft",
+      "Soviet policy",
+      "NSC staff"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1989-08-08-1989-8-8-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-e",
     "date": "1989-08-08",
     "sortDate": "1989-08-08",
@@ -5226,6 +6566,60 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-08-09-890809-rice-to-scowcroft-pdf",
+    "date": "1989-08-09",
+    "sortDate": "1989-08-09",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890809 Rice to Scowcroft .pdf",
+    "documentTitle": "890809 Rice to Scowcroft .pdf",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Eastern Europe"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890809 Rice to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ"
+    },
+    "dateLine": "August 9, 1989",
+    "subjectLine": "Rice memorandum to Scowcroft during the summer 1989 Soviet and Eastern Europe transition.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890809 Rice to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgcDFGdGkyR0ZFeGRzdjdFNUxrR3hKam1KM3dZ.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Rice",
+      "Scowcroft",
+      "Eastern Europe",
+      "Soviet policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "nara-1989-08-29-nsc-dc-045-august-29-1989-nsc-dc-meeting-on-soviet-emigration-keywords-ussr-470761019",
@@ -5396,6 +6790,60 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-09-08-1989-9-8-gbpl-scowcroft-brent-files-box-99124-soviet-power-collapse-in-eastern-e",
+    "date": "1989-09-08",
+    "sortDate": "1989-09-08",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1989.9.8, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July-August 1989), Routing Slip and Withdrawal Sheets for Memcons from Trip to Europe.pdf",
+    "documentTitle": "1989.9.8, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July-August 1989), Routing Slip and Withdrawal Sheets for Memcons from Trip to Europe.pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Eastern Europe"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_",
+    "pdfUrl": "https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1989.9.8, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July-August 1989), Routing Slip and Withdrawal Sheets for Memcons from Trip to Europe.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_"
+    },
+    "dateLine": "September 8, 1989",
+    "subjectLine": "GBPL lead preserving withdrawal-sheet evidence for Europe-trip memcons in the Soviet power-collapse files.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.9.8, GBPL, Scowcroft, Brent Files, Box 99124, Soviet Power Collapse in Eastern Europe (July-August 1989), Routing Slip and Withdrawal Sheets for Memcons from Trip to Europe.pdf. URL: https://drive.google.com/file/d/1g0IQGeRDDt-Jby81GI14T28FbecnWRv_.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Withdrawal sheets",
+      "Memcons",
+      "Eastern Europe"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "nara-1989-09-20-nsd-22-september-20-1989-u-s-policy-on-nuclear-testing-and-arms-control-446396838",
@@ -5678,6 +7126,59 @@ window.MEMCONS = [
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
   },
   {
+    "id": "drive-scowcroft-1989-09-29-890929-rice-to-scowcroft-pdf",
+    "date": "1989-09-29",
+    "sortDate": "1989-09-29",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "890929 Rice to Scowcroft .pdf",
+    "documentTitle": "890929 Rice to Scowcroft .pdf",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "890929 Rice to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV"
+    },
+    "dateLine": "September 29, 1989",
+    "subjectLine": "Rice memorandum to Scowcroft after NSD-23 and before the Malta summit preparation cycle.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 890929 Rice to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgNDJVWS1heTU4NzduRVRENmNkQUZjMnprMWdV.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Rice",
+      "Scowcroft",
+      "NSD-23",
+      "Malta preparation"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "nara-1989-10-02-nsd-27-october-02-1989-soviet-emigration-policy-446396844",
     "date": "1989-10-02",
     "sortDate": "1989-10-02",
@@ -5735,6 +7236,114 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "essential-collections-and-drive-2026-05-20"
+  },
+  {
+    "id": "drive-scowcroft-1989-10-10-891010-scowcroft-to-solarz-pdf",
+    "date": "1989-10-10",
+    "sortDate": "1989-10-10",
+    "sortOrder": 0,
+    "type": "Policy Lead",
+    "title": "891010 Scowcroft to Solarz .pdf",
+    "documentTitle": "891010 Scowcroft to Solarz .pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "Stephen Solarz"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Eastern Europe"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "891010 Scowcroft to Solarz .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ"
+    },
+    "dateLine": "October 10, 1989",
+    "subjectLine": "Scowcroft correspondence with Solarz as congressional and executive-branch views converged on Soviet-bloc change.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 891010 Scowcroft to Solarz .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgM3JuazVOR3dod1lnd0VBOVFFSUNEOTliWnlJ.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Scowcroft",
+      "Solarz",
+      "Congress",
+      "Eastern Europe"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1989-11-15-1989-11-15-gbpl-scowcroft-brent-files-box-91125-soviet-power-collapse-in-eastern",
+    "date": "1989-11-15",
+    "sortDate": "1989-11-15",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1989.11.15, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (November 1989) (Part II), Evaluation of Poland Reform Program (withdrawal sheet).pdf",
+    "documentTitle": "1989.11.15, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (November 1989) (Part II), Evaluation of Poland Reform Program (withdrawal sheet).pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Poland",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1989.11.15, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (November 1989) (Part II), Evaluation of Poland Reform Program (withdrawal sheet).pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA"
+    },
+    "dateLine": "November 15, 1989",
+    "subjectLine": "Withdrawal-sheet lead for evaluation of the Poland reform program during the November 1989 transition.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1989.11.15, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (November 1989) (Part II), Evaluation of Poland Reform Program (withdrawal sheet).pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgbnZEdDZKOEVnOTA.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Poland",
+      "Economic reform",
+      "Withdrawal sheet"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "drive-sweep-1989-11-20-891120-hutchings-to-scowcroft-pdf",
@@ -6704,6 +8313,60 @@ window.MEMCONS = [
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
   },
   {
+    "id": "drive-scowcroft-1990-02-17-900217-powell-to-scowcroft-pdf",
+    "date": "1990-02-17",
+    "sortDate": "1990-02-17",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "900217 Powell to Scowcroft .pdf",
+    "documentTitle": "900217 Powell to Scowcroft .pdf",
+    "participants": [
+      "Colin Powell",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "900217 Powell to Scowcroft .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z"
+    },
+    "dateLine": "February 17, 1990",
+    "subjectLine": "Powell memorandum to Scowcroft during the February 1990 Moscow/German-unification diplomacy.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 900217 Powell to Scowcroft .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgaXdtazVBdEJRel9PUHdfUlZheC01aTdvRE5Z.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Powell",
+      "Scowcroft",
+      "German unification",
+      "Soviet diplomacy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1990-02-20-900220-blackwill-package-for-scowcroft-pdf",
     "date": "1990-02-20",
     "sortDate": "1990-02-20",
@@ -6942,6 +8605,61 @@ window.MEMCONS = [
     },
     "publicPapersTextLine": 170044,
     "seedBatch": "google-drive-public-papers-cheney-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1990-03-13-900313-zelikow-to-scowcroft-and-gates-pdf",
+    "date": "1990-03-13",
+    "sortDate": "1990-03-13",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "900313 Zelikow to Scowcroft and Gates.pdf",
+    "documentTitle": "900313 Zelikow to Scowcroft and Gates.pdf",
+    "participants": [
+      "Philip Zelikow",
+      "Brent Scowcroft",
+      "Robert Gates"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Germany"
+    ],
+    "chapter": {
+      "number": 2,
+      "name": "Soviet Reform and Arms Control Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "900313 Zelikow to Scowcroft and Gates.pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0"
+    },
+    "dateLine": "March 13, 1990",
+    "subjectLine": "Zelikow memorandum to Scowcroft and Gates on Soviet-policy implications of the 1990 diplomatic track.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 900313 Zelikow to Scowcroft and Gates.pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNga3dlaGxJY0hCLW5rcnlqZzJBSjFzNlJHams0.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Zelikow",
+      "Scowcroft",
+      "Gates",
+      "German unification"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "nara-1990-03-24-nsc-dc-111a-march-24-1990-nsc-dc-meeting-on-lithuania-keywords-lithuania-470761099",
@@ -7360,6 +9078,60 @@ window.MEMCONS = [
       "url": "https://history.state.gov/historicaldocuments/frus1989-92v03",
       "status": "Being Cleared"
     }
+  },
+  {
+    "id": "drive-scowcroft-1990-04-18-1990-4-18-gbpl-scowcroft-brent-files-box-91125-soviet-power-collapse-in-eastern-",
+    "date": "1990-04-18",
+    "sortDate": "1990-04-18",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1990.4.18, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (February-May 1990), US Assistance to EE.pdf",
+    "documentTitle": "1990.4.18, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (February-May 1990), US Assistance to EE.pdf",
+    "participants": [
+      "Brent Scowcroft",
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Eastern Europe"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj",
+    "pdfUrl": "https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1990.4.18, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (February-May 1990), US Assistance to EE.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj"
+    },
+    "dateLine": "April 18, 1990",
+    "subjectLine": "GBPL source-copy lead for U.S. assistance to Eastern Europe in the Soviet power-collapse files.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.4.18, GBPL, Scowcroft, Brent Files, Box 91125, Soviet Power Collapse in Eastern Europe (February-May 1990), US Assistance to EE.pdf. URL: https://drive.google.com/file/d/1J_Nh0Gna40ESXx3FE1WJHeIdkXtnq9xj.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Assistance",
+      "Eastern Europe",
+      "Soviet collapse"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "drive-sweep-1990-04-18-900418-rice-to-scowcroft-pdf",
@@ -7928,6 +9700,59 @@ window.MEMCONS = [
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
   },
   {
+    "id": "drive-scowcroft-1990-07-09-1990-7-9-gbpl-scowcroft-brent-files-box-12-ussr-collapse-us-sov-relations-thru-1",
+    "date": "1990-07-09",
+    "sortDate": "1990-07-09",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1990.7.9, GBPL, Scowcroft, Brent Files, Box 12, USSR Collapse- US-Sov Relations Thru 1991 (July 1990), Note from NSC to HWB on Food Needs of USSR.pdf",
+    "documentTitle": "1990.7.9, GBPL, Scowcroft, Brent Files, Box 12, USSR Collapse- US-Sov Relations Thru 1991 (July 1990), Note from NSC to HWB on Food Needs of USSR.pdf",
+    "participants": [
+      "National Security Council staff",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR",
+    "pdfUrl": "https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1990.7.9, GBPL, Scowcroft, Brent Files, Box 12, USSR Collapse- US-Sov Relations Thru 1991 (July 1990), Note from NSC to HWB on Food Needs of USSR.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR"
+    },
+    "dateLine": "July 9, 1990",
+    "subjectLine": "NSC note to Bush on Soviet food needs, an early aid-and-instability lead before the collapse phase.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.7.9, GBPL, Scowcroft, Brent Files, Box 12, USSR Collapse- US-Sov Relations Thru 1991 (July 1990), Note from NSC to HWB on Food Needs of USSR.pdf. URL: https://drive.google.com/file/d/1cI0SU5iRuQNA9fQEAisHXJevPV_R3QUR.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Food assistance",
+      "Soviet economy",
+      "Bush"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1990-07-13-1990-7-13-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-thr",
     "date": "1990-07-13",
     "sortDate": "1990-07-13",
@@ -7979,6 +9804,59 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1990-07-14-1990-7-14-gbpl-scowcroft-brent-files-box-91120-snf-dec-1990-principals-mtg-on-st",
+    "date": "1990-07-14",
+    "sortDate": "1990-07-14",
+    "sortOrder": 0,
+    "type": "Meeting Lead",
+    "title": "1990.7.14, GBPL, Scowcroft, Brent Files, Box 91120, SNF Dec 1990, Principals Mtg on START (MRs).pdf",
+    "documentTitle": "1990.7.14, GBPL, Scowcroft, Brent Files, Box 91120, SNF Dec 1990, Principals Mtg on START (MRs).pdf",
+    "participants": [
+      "Principals Committee",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw",
+    "pdfUrl": "https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1990.7.14, GBPL, Scowcroft, Brent Files, Box 91120, SNF Dec 1990, Principals Mtg on START (MRs).pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw"
+    },
+    "dateLine": "July 14, 1990",
+    "subjectLine": "GBPL lead for Principals Committee START meeting records in Scowcroft's SNF/START material.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.7.14, GBPL, Scowcroft, Brent Files, Box 91120, SNF Dec 1990, Principals Mtg on START (MRs).pdf. URL: https://drive.google.com/file/d/1s4XGI0ZCV8FfurZtsaAcFlq8eiw9s6nw.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "START",
+      "Principals Committee",
+      "Arms control"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "drive-sweep-1990-08-01-1990-8-1-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-thru",
@@ -8095,6 +9973,59 @@ window.MEMCONS = [
     "seedBatch": "nara-scout-russia-fsu-2026-05-21"
   },
   {
+    "id": "drive-scowcroft-1990-08-13-1990-8-13-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-thr",
+    "date": "1990-08-13",
+    "sortDate": "1990-08-13",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1990.8.13, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Withdrawal slips for memos from CR on possible collapse of USSR.pdf",
+    "documentTitle": "1990.8.13, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Withdrawal slips for memos from CR on possible collapse of USSR.pdf",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z",
+    "pdfUrl": "https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1990.8.13, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Withdrawal slips for memos from CR on possible collapse of USSR.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z"
+    },
+    "dateLine": "August 13, 1990",
+    "subjectLine": "Withdrawal-slip lead for Rice memoranda on possible Soviet collapse and U.S. response.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.8.13, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Withdrawal slips for memos from CR on possible collapse of USSR.pdf. URL: https://drive.google.com/file/d/1RF5ZlIQvAuBftgQ3dmkzmo5xbH6WSt_z.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Rice",
+      "Soviet collapse",
+      "Withdrawal sheets"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1990-08-18-1990-8-18-gbpl-scowcroft-brent-files-box-12-ussr-collapse-us-sov-relations-thru-",
     "date": "1990-08-18",
     "sortDate": "1990-08-18",
@@ -8146,6 +10077,60 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1990-08-20-1990-8-20-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-thr",
+    "date": "1990-08-20",
+    "sortDate": "1990-08-20",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1990.8.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Debate on Making Mosbacher Trip a Presidential Mission.pdf",
+    "documentTitle": "1990.8.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Debate on Making Mosbacher Trip a Presidential Mission.pdf",
+    "participants": [
+      "Robert Mosbacher",
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU",
+    "pdfUrl": "https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1990.8.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Debate on Making Mosbacher Trip a Presidential Mission.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU"
+    },
+    "dateLine": "August 20, 1990",
+    "subjectLine": "GBPL source-copy lead on whether to make Mosbacher's Soviet business trip a presidential mission.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.8.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (August 1990), Debate on Making Mosbacher Trip a Presidential Mission.pdf. URL: https://drive.google.com/file/d/1iwuHAkNQTT5v4kucAoY_Mnhj53GwVhhU.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Mosbacher",
+      "Soviet economy",
+      "Presidential mission"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "1990-09-09-gorbachev-helsinki-1-428081025",
@@ -8362,6 +10347,60 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1990-09-20-1990-9-20-gbpl-scowcroft-brent-files-91118-ussr-collapse-us-soviet-relations-thr",
+    "date": "1990-09-20",
+    "sortDate": "1990-09-20",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1990.9.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (September 1990) [2], Memo from Rice to BW re Business Ops with USSR (results of trip).pdf",
+    "documentTitle": "1990.9.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (September 1990) [2], Memo from Rice to BW re Business Ops with USSR (results of trip).pdf",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft",
+      "Robert Mosbacher"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff",
+    "pdfUrl": "https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1990.9.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (September 1990) [2], Memo from Rice to BW re Business Ops with USSR (results of trip).pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff"
+    },
+    "dateLine": "September 20, 1990",
+    "subjectLine": "Rice memorandum lead on business operations with the USSR after the Mosbacher trip.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.9.20, GBPL, Scowcroft, Brent Files, 91118, USSR Collapse - US-Soviet Relations Thru 1991 (September 1990) [2], Memo from Rice to BW re Business Ops with USSR (results of trip).pdf. URL: https://drive.google.com/file/d/1TS5JmGICMjW0Vk2Gvwf2XUuKdMTFN7Ff.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Rice",
+      "Business operations",
+      "Soviet economy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "1990-10-01-shevardnadze-428081113",
@@ -8694,6 +10733,60 @@ window.MEMCONS = [
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
   },
   {
+    "id": "drive-scowcroft-1990-12-07-1990-12-7-gbpl-scowcroft-brent-files-box-91118-ussr-collapse-us-soviet-relations",
+    "date": "1990-12-07",
+    "sortDate": "1990-12-07",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1990.12.7, GBPL, Scowcroft, Brent Files, Box 91118, USSR Collapse - US-Soviet Relations Thru 1991 (December 1990), Memo from JAB to BS and HWB re Econ Assistance to the USSR (impt).pdf",
+    "documentTitle": "1990.12.7, GBPL, Scowcroft, Brent Files, Box 91118, USSR Collapse - US-Soviet Relations Thru 1991 (December 1990), Memo from JAB to BS and HWB re Econ Assistance to the USSR (impt).pdf",
+    "participants": [
+      "James A. Baker III",
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1",
+    "pdfUrl": "https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1990.12.7, GBPL, Scowcroft, Brent Files, Box 91118, USSR Collapse - US-Soviet Relations Thru 1991 (December 1990), Memo from JAB to BS and HWB re Econ Assistance to the USSR (impt).pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1"
+    },
+    "dateLine": "December 7, 1990",
+    "subjectLine": "Baker memorandum lead to Scowcroft and Bush on economic assistance to the Soviet Union.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.12.7, GBPL, Scowcroft, Brent Files, Box 91118, USSR Collapse - US-Soviet Relations Thru 1991 (December 1990), Memo from JAB to BS and HWB re Econ Assistance to the USSR (impt).pdf. URL: https://drive.google.com/file/d/1C2wlqbJ8TAL-_EwuDsHsSlNq5EpbWjO1.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Baker",
+      "Economic assistance",
+      "Soviet Union"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "drive-1990-12-07-cheney-press-conference-ocr-lead",
     "date": "1990-12-07",
     "sortDate": "1990-12-07",
@@ -8861,6 +10954,60 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "essential-collections-and-drive-2026-05-20"
+  },
+  {
+    "id": "drive-scowcroft-1990-12-19-1990-12-19-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-soviet-relation",
+    "date": "1990-12-19",
+    "sortDate": "1990-12-19",
+    "sortOrder": 0,
+    "type": "Source Lead",
+    "title": "1990.12.19, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (December 1990), Gates Group -- POCs.pdf",
+    "documentTitle": "1990.12.19, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (December 1990), Gates Group -- POCs.pdf",
+    "participants": [
+      "Robert Gates",
+      "Brent Scowcroft",
+      "National Security Council staff"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP",
+    "pdfUrl": "https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1990.12.19, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (December 1990), Gates Group -- POCs.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP"
+    },
+    "dateLine": "December 19, 1990",
+    "subjectLine": "GBPL source-copy lead for Gates Group points of contact on U.S.-Soviet policy and collapse contingencies.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1990.12.19, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (December 1990), Gates Group -- POCs.pdf. URL: https://drive.google.com/file/d/1KdfMnnIWL892_ant0QqtGblxHgS2UPJP.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Gates Group",
+      "Soviet collapse",
+      "Contingency planning"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "drive-sweep-1990-12-19-1990-12-19-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-sovit-relations",
@@ -9405,6 +11552,60 @@ window.MEMCONS = [
     "seedBatch": "essential-collections-and-drive-2026-05-20"
   },
   {
+    "id": "drive-scowcroft-1991-04-30-1991-4-30-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-soviet-relations",
+    "date": "1991-04-30",
+    "sortDate": "1991-04-30",
+    "sortOrder": 0,
+    "type": "Presidential Correspondence Lead",
+    "title": "1991.4.30, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (March-May 1991), Proposed Pres Ltr to Gorbachev Responding to His Req.pdf",
+    "documentTitle": "1991.4.30, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (March-May 1991), Proposed Pres Ltr to Gorbachev Responding to His Req.pdf",
+    "participants": [
+      "George H. W. Bush",
+      "Mikhail Gorbachev",
+      "Brent Scowcroft"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "chapter": {
+      "number": 4,
+      "name": "Archive Leads"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo",
+    "pdfUrl": "https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo",
+    "source": {
+      "type": "Bush Library source-copy PDF",
+      "title": "1991.4.30, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (March-May 1991), Proposed Pres Ltr to Gorbachev Responding to His Req.pdf",
+      "shortName": "GBPL Scowcroft source copy",
+      "url": "https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo"
+    },
+    "dateLine": "April 30, 1991",
+    "subjectLine": "Proposed presidential letter to Gorbachev responding to his request during the 1991 Soviet crisis.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 1991.4.30, GBPL, Scowcroft, Brent Files, Box 91119, USSR Collapse-US-Soviet Relations Through 1991 (March-May 1991), Proposed Pres Ltr to Gorbachev Responding to His Req.pdf. URL: https://drive.google.com/file/d/1cTCzPjGZX4GiVb4dkhkuvXEFbI9-bYjo.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "GBPL",
+      "Bush-Gorbachev correspondence",
+      "Soviet crisis",
+      "Presidential message"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
+  },
+  {
     "id": "drive-sweep-1991-05-01-1991-5-1-gbpl-scowcroft-brent-files-box-91119-ussr-collapse-us-soviet-relations-",
     "date": "1991-05-01",
     "sortDate": "1991-05-01",
@@ -9649,6 +11850,63 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "google-drive-date-prefix-bush-library-2026-05-21"
+  },
+  {
+    "id": "drive-scowcroft-1991-08-01-undated-rice-to-scowcroft-with-memo-for-bush-on-soviet-turmoil-pdf",
+    "date": "1991-08-01",
+    "sortDate": "1991-08-01",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "undated Rice to Scowcroft with memo for Bush on Soviet turmoil .pdf",
+    "documentTitle": "undated Rice to Scowcroft with memo for Bush on Soviet turmoil .pdf",
+    "participants": [
+      "Condoleezza Rice",
+      "Brent Scowcroft",
+      "George H. W. Bush"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia",
+      "Ukraine"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ",
+    "pdfUrl": "https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "undated Rice to Scowcroft with memo for Bush on Soviet turmoil .pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ"
+    },
+    "dateLine": "Undated, filed with Soviet turmoil material",
+    "subjectLine": "Rice memorandum to Scowcroft with a memo for Bush on Soviet turmoil; queued with the August 1991 collapse-policy files.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: undated Rice to Scowcroft with memo for Bush on Soviet turmoil .pdf. URL: https://drive.google.com/file/d/0B4xiXXj9ooNgWWQxVzRSNm5ReDNfM1hQZllYYklvSDBHWTNJ.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Rice",
+      "Scowcroft",
+      "Soviet turmoil",
+      "August coup",
+      "Republics policy"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "central-chronology-1991-08-01-30519-001-470761771",
@@ -10866,6 +13124,61 @@ window.MEMCONS = [
       "status": "Being Researched"
     },
     "seedBatch": "essential-collections-and-drive-2026-05-20"
+  },
+  {
+    "id": "drive-scowcroft-1991-10-08-91108-hewett-to-scowcroft-re-pz-meeting-pdf",
+    "date": "1991-10-08",
+    "sortDate": "1991-10-08",
+    "sortOrder": 0,
+    "type": "Policy Memorandum",
+    "title": "91108 Hewett to Scowcroft re PZ meeting.pdf",
+    "documentTitle": "91108 Hewett to Scowcroft re PZ meeting.pdf",
+    "participants": [
+      "Edward Hewett",
+      "Brent Scowcroft",
+      "Philip Zelikow"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union",
+      "Russia"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Collapse and Republics Policy"
+    },
+    "releaseStatus": "User Google Drive Scowcroft PDF hit; metadata captured; OCR/extraction pending",
+    "catalogUrl": "https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR",
+    "pdfUrl": "https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR",
+    "source": {
+      "type": "Google Drive PDF",
+      "title": "91108 Hewett to Scowcroft re PZ meeting.pdf",
+      "shortName": "Google Drive Scowcroft PDF",
+      "url": "https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR"
+    },
+    "dateLine": "October 8, 1991",
+    "subjectLine": "Hewett memorandum to Scowcroft on a Zelikow meeting during the post-coup Soviet collapse-policy phase.",
+    "sourceNote": "Google Drive Scowcroft sweep, May 21, 2026: 91108 Hewett to Scowcroft re PZ meeting.pdf. URL: https://drive.google.com/file/d/1oRWSi9WwragXEs90ceT1vjLlLnAIxVoR.",
+    "frusSourceNote": "Source copy found in user Google Drive; reconcile against NARA, Bush Library, State Department, or other formal citation before FRUS use.",
+    "topics": [
+      "Hewett",
+      "Scowcroft",
+      "Zelikow",
+      "Soviet collapse"
+    ],
+    "potentialFrusDocument": true,
+    "countStatus": "Candidate Volume IV Scowcroft policy/source document",
+    "nextAction": "Fetch/OCR the PDF, extract sender/recipient/subject text, and capture formal archival citation before selection.",
+    "extractionStatus": "Metadata-only hit from Google Drive Scowcroft search; document text still needs OCR and review.",
+    "volumeRole": "volume-iv-policy-candidate",
+    "volumeStatus": "Volume IV research candidate",
+    "frusVolume": {
+      "id": "frus1989-92v04",
+      "title": "Foreign Relations of the United States, 1989-1992, Volume IV, Soviet Union, Russia, and Post-Soviet States: Policy",
+      "url": "https://history.state.gov/historicaldocuments/frus1989-92v04",
+      "status": "Being Researched"
+    },
+    "seedBatch": "google-drive-scowcroft-2026-05-21"
   },
   {
     "id": "drive-sweep-1991-10-24-911024-moscow-cable-re-kravchuk-and-nukes-pdf",
