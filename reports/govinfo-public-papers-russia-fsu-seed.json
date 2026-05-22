@@ -1,0 +1,99 @@
+{
+  "generatedAt": "2026-05-22T11:27:19.887Z",
+  "seedBatch": "govinfo-public-papers-russia-fsu-2026-05-22",
+  "sourceReport": "reports/govinfo-public-papers-russia-fsu.json",
+  "sourceLeads": 1,
+  "publicStatements": 764,
+  "documentsScanned": 5157,
+  "packages": [
+    {
+      "id": "PPP-1989-book1",
+      "label": "George H. W. Bush (1989, Book I)",
+      "dateBegin": "1989-01-20",
+      "dateEnd": "1989-06-30",
+      "contextUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1/context",
+      "documentsListed": 0,
+      "localOcrDocumentsListed": 628,
+      "relevantStatements": 50,
+      "itemSource": "GovInfo package PDF plus local OCR split"
+    },
+    {
+      "id": "PPP-1989-book2",
+      "label": "George H. W. Bush (1989, Book II)",
+      "dateBegin": "1989-07-01",
+      "dateEnd": "1989-12-31",
+      "contextUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2/context",
+      "documentsListed": 0,
+      "localOcrDocumentsListed": 747,
+      "relevantStatements": 62,
+      "itemSource": "GovInfo package PDF plus local OCR split"
+    },
+    {
+      "id": "PPP-1990-book1",
+      "label": "George H. W. Bush (1990, Book I)",
+      "dateBegin": "1990-01-01",
+      "dateEnd": "1990-06-30",
+      "contextUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1/context",
+      "documentsListed": 0,
+      "localOcrDocumentsListed": 664,
+      "relevantStatements": 105,
+      "itemSource": "GovInfo package PDF plus local OCR split"
+    },
+    {
+      "id": "PPP-1990-book2",
+      "label": "George H. W. Bush (1990, Book II)",
+      "dateBegin": "1990-07-01",
+      "dateEnd": "1990-12-31",
+      "contextUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2/context",
+      "documentsListed": 0,
+      "localOcrDocumentsListed": 526,
+      "relevantStatements": 68,
+      "itemSource": "GovInfo package PDF plus local OCR split"
+    },
+    {
+      "id": "PPP-1991-book1",
+      "label": "George H. W. Bush (1991, Book I)",
+      "dateBegin": "1991-01-01",
+      "dateEnd": "1991-06-30",
+      "contextUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1/context",
+      "documentsListed": 570,
+      "localOcrDocumentsListed": 0,
+      "relevantStatements": 91,
+      "itemSource": "GovInfo item-level HTML"
+    },
+    {
+      "id": "PPP-1991-book2",
+      "label": "George H. W. Bush (1991, Book II)",
+      "dateBegin": "1991-07-01",
+      "dateEnd": "1991-12-31",
+      "contextUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2/context",
+      "documentsListed": 0,
+      "localOcrDocumentsListed": 643,
+      "relevantStatements": 104,
+      "itemSource": "GovInfo package PDF plus local OCR split"
+    },
+    {
+      "id": "PPP-1992-book1",
+      "label": "George H. W. Bush (1992, Book I)",
+      "dateBegin": "1992-01-01",
+      "dateEnd": "1992-07-31",
+      "contextUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1/context",
+      "documentsListed": 824,
+      "localOcrDocumentsListed": 0,
+      "relevantStatements": 173,
+      "itemSource": "GovInfo item-level HTML"
+    },
+    {
+      "id": "PPP-1992-book2",
+      "label": "George H. W. Bush (1992-93, Book II)",
+      "dateBegin": "1992-08-01",
+      "dateEnd": "1993-01-20",
+      "contextUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2/context",
+      "documentsListed": 555,
+      "localOcrDocumentsListed": 0,
+      "relevantStatements": 111,
+      "itemSource": "GovInfo item-level HTML"
+    }
+  ],
+  "totalRecords": 1208
+}

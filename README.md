@@ -21,6 +21,7 @@ The official Office of the Historian status page lists the volume as **Being Res
 - Adds a focused Google Drive Scowcroft pass for date-prefixed memoranda and GBPL Brent Scowcroft source-copy files relevant to Soviet, Russia, and FSU policy.
 - Reconciles Google Drive Scowcroft source-copy hits against official NARA/Bush Library Scowcroft file units and replaces internal source-harvest notes with stable catalog citations on the public page.
 - Adds a NARA Scowcroft document-extraction pass that promotes named memoranda, cables, talking points, meeting briefs, and presidential messages out of Scowcroft file-unit PDFs.
+- Adds a GovInfo Public Papers reference index for George H. W. Bush statements touching the Soviet Union, Russia, former Soviet republics, NIS/CIS, START, CFE, Nunn-Lugar, Lisbon, and FREEDOM Support.
 - Tracks Elizabeth C. Charles's Reagan-era Soviet volumes as compiler precedents for arrangement, source notes, and selection density.
 
 ## Local Preview
@@ -65,6 +66,7 @@ Public GitHub Pages URL:
 - NARA Scout Russia/FSU search: <https://therealjameswilson.github.io/nara-scout/#q=%28Soviet+OR+USSR+OR+Russia+OR+Yeltsin+OR+Gorbachev+OR+Ukraine+OR+Belarus+OR+Kazakhstan+OR+%22Nunn-Lugar%22+OR+Lisbon%29&from=1989&to=1993&sort=relevance&perColl=25&perPage=50&scope=bush41%2C2163580>
 - FRUS 1989-1992, Volume XXXI, START I: <https://history.state.gov/historicaldocuments/frus1989-92v31>
 - FRUS Volume XXXI Sources page: <https://history.state.gov/historicaldocuments/frus1989-92v31/sources>
+- GovInfo George H. W. Bush Public Papers collection: <https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W.>
 - Public Papers Drive source copy: <https://drive.google.com/file/d/1IkvlmMXlSFVjVZnKfcJkkLJg2RaCAM6b>
 - SecDef Cheney Public Statements Drive folder: <https://drive.google.com/drive/folders/1lNMHlCL0YsHjJbrVlBDECtKL9_QTHvU2>
 
@@ -96,6 +98,13 @@ The Public Papers and Cheney Drive pass mines the Drive-hosted `GHBPublicPapers.
 - 27 Public Papers companion policy documents, including Malta, Lithuania, START I, Kiev/Ukraine, the August coup, the September 1991 nuclear initiatives, food assistance, CIS recognition, the April 1992 aid/FREEDOM Support package, Kravchuk and Nazarbayev declarations, the June 1992 Yeltsin summit package, the Lisbon/START protocol, FREEDOM Support signing, Baltic force-withdrawal reporting, and START II.
 - 2 Google Drive source leads for the Public Papers corpus and Cheney's Secretary of Defense public-statement volumes.
 - 1 standalone Cheney press-conference OCR lead. The Cheney folder is present in Drive, but sampled PDFs returned empty connector text, so the set is queued for OCR before document-level selections.
+
+The GovInfo Public Papers reference pass adds a broader public-statement index for George H. W. Bush. It scans 5,157 item candidates across the eight Bush 41 Public Papers volumes from January 20, 1989 through January 20, 1993 and adds 765 records:
+
+- 1 GovInfo source lead.
+- 764 `Public Statement` reference rows matching Soviet Union, Russia, former Soviet republic, NIS/CIS, START, CFE, Nunn-Lugar, Lisbon, and FREEDOM Support terms.
+- 1991 Book I, 1992 Book I, and 1992 Book II use GovInfo item-level HTML links; 1989, 1990, and 1991 Book II use the official GovInfo package PDFs plus the local OCR text cache to split individual statements where GovInfo exposes only full-volume files.
+- These rows are reference anchors for public chronology and do not replace archival memoranda or inflate the Volume IV policy-memorandum count.
 
 The Central Chronological Files pass searches the NSC European and Eurasian Directorate series, NAID 374000108. The newer pass uses NARA's child-record endpoint for the series, harvests all 185 online file units from 1989-1993, and mines the OCR/withdrawal-sheet text locally. It extracted 1,336 named policy-document candidates and stages the strongest Russia/FSU policy leads as document-level records. The curated seed adds 80 records:
 
@@ -147,6 +156,8 @@ Generated reports:
 - `reports/frus31-cited-collections-seed.json`
 - `reports/google-drive-public-papers-cheney-hits.json`
 - `reports/google-drive-public-papers-cheney-seed.json`
+- `reports/govinfo-public-papers-russia-fsu.json`
+- `reports/govinfo-public-papers-russia-fsu-seed.json`
 - `reports/central-chronology-374000108-search.json`
 - `reports/central-chronology-374000108-seed.json`
 - `reports/frus1981-88-soviet-precedents.json`
@@ -161,6 +172,7 @@ node 89-92-RussiaFSU-Policy/scripts/seed-nara-scout-russia-fsu.js
 node 89-92-RussiaFSU-Policy/scripts/mine-frus31-cited-collections.js
 node 89-92-RussiaFSU-Policy/scripts/seed-frus31-cited-collections.js
 node 89-92-RussiaFSU-Policy/scripts/seed-google-drive-public-papers.js
+node 89-92-RussiaFSU-Policy/scripts/seed-govinfo-public-papers.js
 node 89-92-RussiaFSU-Policy/scripts/harvest-central-chronology.js
 node 89-92-RussiaFSU-Policy/scripts/seed-central-chronology.js
 node 89-92-RussiaFSU-Policy/scripts/mine-frus-soviet-precedents.js
