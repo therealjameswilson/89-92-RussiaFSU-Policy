@@ -1,0 +1,519 @@
+{
+  "generatedAt": "2026-05-22T23:08:31.618Z",
+  "seedBatch": "public-anchor-policy-leads-2026-05-22",
+  "method": "High-signal GovInfo Bush Public Papers rows were converted into archival policy-packet leads, then supplemented with named NARA Central Chronology documents that explain the public policy line.",
+  "addedRecords": 59,
+  "sourceLeads": 1,
+  "publicAnchorPolicyLeads": 32,
+  "supplementalCentralDocuments": 26,
+  "skippedExisting": [],
+  "publicAnchors": [
+    {
+      "date": "1989-02-16",
+      "title": "Internal policy packet behind the Soviet withdrawal from Afghanistan statement",
+      "publicStatement": "Statement on the Soviet Withdrawal From Afghanistan",
+      "primarySource": "NARA Brent Scowcroft Papers"
+    },
+    {
+      "date": "1989-05-29",
+      "title": "Internal policy packet behind the May 1989 CFE conventional-arms initiative",
+      "publicStatement": "Remarks Announcing a Conventional Arms Control Initiative and a Question-and-Answer Session With Reporters in Brussels",
+      "primarySource": "NARA National Security Review Files"
+    },
+    {
+      "date": "1989-06-19",
+      "title": "Internal policy packet behind resuming nuclear and space arms negotiations",
+      "publicStatement": "Statement on the Resumption of the Soviet-United States Nuclear and Space Arms Negotiations",
+      "primarySource": "NARA NSC/Deputies Committee Meeting Files"
+    },
+    {
+      "date": "1989-07-12",
+      "title": "Internal policy packet behind the July 1989 CFE reduction fact sheet",
+      "publicStatement": "White House Fact Sheet on the Proposal to Reduce Conventional Forces in Europe",
+      "primarySource": "FRUS 1989-1992 Volume XXXI START I source base"
+    },
+    {
+      "date": "1989-09-12",
+      "title": "Internal policy packet behind the September 1989 Bush-Yeltsin meeting",
+      "publicStatement": "Statement by Press Secretary Fitzwater on the President's Meeting With Boris Yeltsin of the Soviet Union",
+      "primarySource": "NARA Presidential Daily Files"
+    },
+    {
+      "date": "1989-09-23",
+      "title": "Internal policy packet behind the Malta summit announcement",
+      "publicStatement": "Statement on the Summit Meeting With Soviet President Gorbachev",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1989-12-04",
+      "title": "Internal policy packet behind the Malta public fact sheet",
+      "publicStatement": "White House Fact Sheet on the Meeting With Soviet Chairman Mikhail Gorbachev in Malta",
+      "primarySource": "NARA Brent Scowcroft Papers"
+    },
+    {
+      "date": "1990-03-11",
+      "title": "Internal policy packet behind the first Lithuanian independence statement",
+      "publicStatement": "Statement by Press Secretary Fitzwater on the Restoration of Lithuanian Independence",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1990-04-20",
+      "title": "Internal policy packet behind the Soviet sanctions against Lithuania statement",
+      "publicStatement": "Statement by Press Secretary Fitzwater on Soviet Economic Sanctions Against Lithuania",
+      "primarySource": "NARA Brent Scowcroft Papers"
+    },
+    {
+      "date": "1990-05-03",
+      "title": "Internal policy packet behind the Prunskiene meeting",
+      "publicStatement": "Statement by Press Secretary Fitzwater on the President's Meeting With Prime Minister Kazimiera Prunskiene of Lithuania",
+      "primarySource": "NARA Brent Scowcroft Papers"
+    },
+    {
+      "date": "1990-12-12",
+      "title": "Internal policy packet behind the December 1990 Soviet economic-assistance announcements",
+      "publicStatement": "Remarks on the Waiver of the Jackson-Vanik Amendment and on Economic Assistance to the Soviet Union",
+      "primarySource": "NARA Brent Scowcroft Papers"
+    },
+    {
+      "date": "1991-01-13",
+      "title": "Internal policy packet behind the Vilnius crisis response",
+      "publicStatement": "Remarks on Soviet Military Intervention in Lithuania and a Question-and- Answer Session With Reporters",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1991-05-08",
+      "title": "Internal policy packet behind the Baltic leaders meeting",
+      "publicStatement": "Statement by Press Secretary Fitzwater on President Bush's Meeting With President Vytautus Landsbergis of Lithuania and Prime Ministers Ivars Godmanis of Latvia and Edgar Savisaar of Estonia",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1991-06-11",
+      "title": "Internal policy packet behind Soviet agricultural credit guarantees",
+      "publicStatement": "Statement by Press Secretary Fitzwater on United States Agricultural Loan Credit for the Soviet Union",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1991-07-31",
+      "title": "Internal policy packet behind the Moscow START fact sheet",
+      "publicStatement": "White House Fact Sheet on The Strategic Arms Reduction Treaty (START)",
+      "primarySource": "FRUS 1989-1992 Volume XXXI START I source base"
+    },
+    {
+      "date": "1991-08-01",
+      "title": "Internal policy packet behind the Kiev speech and Ukraine policy line",
+      "publicStatement": "Remarks to the Supreme Soviet of the Republic of the Ukraine in Kiev, Soviet Union",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1991-08-19",
+      "title": "Internal policy packet behind the first Soviet coup statement",
+      "publicStatement": "Statement on the Attempted Coup in the Soviet Union",
+      "primarySource": "NARA Presidential Daily Files"
+    },
+    {
+      "date": "1991-09-27",
+      "title": "Internal policy packet behind the Presidential Nuclear Initiatives address",
+      "publicStatement": "Address to the Nation on Reducing United States and Soviet Nuclear Weapons",
+      "primarySource": "NARA Presidential Daily Files"
+    },
+    {
+      "date": "1991-11-20",
+      "title": "Internal policy packet behind food assistance to the Soviet Union",
+      "publicStatement": "Statement by Press Secretary Fitzwater on Food Assistance to the Soviet Union",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1991-12-25",
+      "title": "Internal policy packet behind CIS recognition and Soviet dissolution address",
+      "publicStatement": "Address to the Nation on the Commonwealth of Independent States",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1992-02-01",
+      "title": "Internal policy packet behind the Camp David Bush-Yeltsin policy line",
+      "publicStatement": "The President's News Conference With President Boris Yeltsin of Russia",
+      "primarySource": "NARA Rear Admiral Jonathan Howe files"
+    },
+    {
+      "date": "1992-03-20",
+      "title": "Internal policy packet behind former Soviet weapons-destruction delegation",
+      "publicStatement": "Memorandum Delegating Authority Regarding Weapons Destruction in the Former Soviet Union",
+      "primarySource": "NARA NSC/Deputies Committee Meeting Files"
+    },
+    {
+      "date": "1992-04-01",
+      "title": "Internal policy packet behind the April 1992 FSU aid package",
+      "publicStatement": "The President's News Conference on Aid to the States of the Former Soviet Union",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1992-04-03",
+      "title": "Internal policy packet behind transmission of the FREEDOM Support Act",
+      "publicStatement": "Message to the Congress Transmitting the FREEDOM Support Act Proposed Legislation",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1992-05-06",
+      "title": "Internal policy packet behind the Kravchuk visit and Ukraine declaration",
+      "publicStatement": "Joint Declaration With President Leonid Kravchuk of Ukraine",
+      "primarySource": "NARA Presidential Daily Files"
+    },
+    {
+      "date": "1992-05-19",
+      "title": "Internal policy packet behind the Nazarbayev visit and Kazakhstan declaration",
+      "publicStatement": "Joint Declaration With President Nursultan Nazarbayev of Kazakhstan",
+      "primarySource": "NARA Presidential Daily Files"
+    },
+    {
+      "date": "1992-06-17",
+      "title": "Internal policy packet behind the June 1992 Yeltsin summit policy package",
+      "publicStatement": "The President's News Conference With President Boris Yeltsin of Russia",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1992-06-17",
+      "title": "Internal policy packet behind the defense-conversion declaration",
+      "publicStatement": "Joint Russian-American Declaration on Defense Conversion",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1992-10-24",
+      "title": "Internal policy packet behind signing the FREEDOM Support Act",
+      "publicStatement": "Statement on Signing the FREEDOM Support Act",
+      "primarySource": "NARA NSC European and Eurasian Directorate Central Chronological Files"
+    },
+    {
+      "date": "1992-12-30",
+      "title": "Internal policy packet behind the START II endgame announcement",
+      "publicStatement": "Remarks on the START II Treaty and the Situation in Somalia and an Exchange With Reporters",
+      "primarySource": "NARA Brent Scowcroft Papers"
+    },
+    {
+      "date": "1993-01-15",
+      "title": "Internal policy packet behind the START II Senate transmittal",
+      "publicStatement": "Message to the Senate Transmitting the Russia-United States Treaty on Further Reduction and Limitation of Strategic Offensive Arms",
+      "primarySource": "FRUS 1989-1992 Volume XXXI START I source base"
+    },
+    {
+      "date": "1993-01-19",
+      "title": "Internal policy packet behind the final Bush nuclear-nonproliferation report",
+      "publicStatement": "Letter to Congressional Leaders Reporting on Nuclear Nonproliferation",
+      "primarySource": "NARA National Security Directives Files"
+    }
+  ],
+  "centralDocuments": [
+    {
+      "date": "1990-01-31",
+      "title": "US Policy",
+      "naid": "470761677",
+      "localIdentifier": "30503-007",
+      "topics": [
+        "CFE",
+        "Gorbachev",
+        "U.S. policy",
+        "Arms control"
+      ]
+    },
+    {
+      "date": "1990-03-01",
+      "title": "Letter to Gorbachev",
+      "naid": "470761683",
+      "localIdentifier": "30504-006",
+      "topics": [
+        "Gorbachev",
+        "START",
+        "CFE",
+        "Presidential correspondence"
+      ]
+    },
+    {
+      "date": "1990-03-01",
+      "title": "START",
+      "naid": "470761683",
+      "localIdentifier": "30504-006",
+      "topics": [
+        "START",
+        "Gorbachev",
+        "Presidential correspondence",
+        "Arms control"
+      ]
+    },
+    {
+      "date": "1991-05-03",
+      "title": "US Policy on the USSR",
+      "naid": "470761760",
+      "localIdentifier": "30517-002",
+      "topics": [
+        "U.S.-Soviet relations",
+        "Baltic states",
+        "Gorbachev",
+        "Policy guidance"
+      ]
+    },
+    {
+      "date": "1991-05-07",
+      "title": "US Policy on the USSR",
+      "naid": "470761760",
+      "localIdentifier": "30517-002",
+      "topics": [
+        "U.S.-Soviet relations",
+        "Hewett",
+        "Scowcroft",
+        "Gates"
+      ]
+    },
+    {
+      "date": "1991-05-30",
+      "title": "President Gorbachev's Request",
+      "naid": "470761757",
+      "localIdentifier": "30516-005",
+      "topics": [
+        "Gorbachev",
+        "Food assistance",
+        "Grain credits",
+        "Soviet economy"
+      ]
+    },
+    {
+      "date": "1991-06-06",
+      "title": "Extension of Additional Grain Credit Guarantees to the",
+      "naid": "470761763",
+      "localIdentifier": "30517-005",
+      "topics": [
+        "Grain credits",
+        "Food assistance",
+        "Soviet economy",
+        "Hewett"
+      ]
+    },
+    {
+      "date": "1991-09-03",
+      "title": "Responding to the Implications of Developments",
+      "naid": "470761776",
+      "localIdentifier": "30520-001",
+      "topics": [
+        "August coup aftermath",
+        "Gompert",
+        "Hewett",
+        "Republics policy"
+      ]
+    },
+    {
+      "date": "1991-11-01",
+      "title": "Messages to Allies",
+      "naid": "470761778",
+      "localIdentifier": "30520-003",
+      "topics": [
+        "Allies",
+        "Food assistance",
+        "Humanitarian aid",
+        "Soviet economy"
+      ]
+    },
+    {
+      "date": "1992-01-27",
+      "title": "Boris Yeltsin's Letter",
+      "naid": "470761790",
+      "localIdentifier": "30522-005",
+      "topics": [
+        "Yeltsin",
+        "Russia policy",
+        "Camp David",
+        "Presidential correspondence"
+      ]
+    },
+    {
+      "date": "1992-02-19",
+      "title": "ESSG Meeting",
+      "naid": "470761796",
+      "localIdentifier": "30523-005",
+      "topics": [
+        "ESSG",
+        "Baker trip",
+        "Asian republics",
+        "Former Soviet Union"
+      ]
+    },
+    {
+      "date": "1992-02-19",
+      "title": "Secretary Baker's Trip to the Asian Republics of the FSU",
+      "naid": "470761796",
+      "localIdentifier": "30523-005",
+      "topics": [
+        "Baker",
+        "Asian republics",
+        "Russia",
+        "Former Soviet Union"
+      ]
+    },
+    {
+      "date": "1992-02-19",
+      "title": "US Interests",
+      "naid": "470761796",
+      "localIdentifier": "30523-005",
+      "topics": [
+        "U.S. interests",
+        "Asian republics",
+        "Russia",
+        "Successor states"
+      ]
+    },
+    {
+      "date": "1992-03-20",
+      "title": "Possible Phone Call from Boris Yeltsin",
+      "naid": "470761800",
+      "localIdentifier": "30524-003",
+      "topics": [
+        "Yeltsin",
+        "Telephone call",
+        "Russia reform",
+        "Aid package"
+      ]
+    },
+    {
+      "date": "1992-03-01",
+      "title": "Talking Points Points to be Made for Telephone Call with Russian President",
+      "naid": "470761800",
+      "localIdentifier": "30524-003",
+      "topics": [
+        "Yeltsin",
+        "Telephone call",
+        "Russia policy",
+        "Talking points"
+      ]
+    },
+    {
+      "date": "1992-05-14",
+      "title": "Official Working Visit of President Nazarbayev of",
+      "naid": "470761811",
+      "localIdentifier": "30526-002",
+      "topics": [
+        "Nazarbayev",
+        "Kazakhstan",
+        "Nuclear inheritance",
+        "Visit preparation"
+      ]
+    },
+    {
+      "date": "1992-05-19",
+      "title": "Talking Points Points to be Made in Initial Three-on-Three Meeting with Kazakh",
+      "naid": "470761811",
+      "localIdentifier": "30526-002",
+      "topics": [
+        "Nazarbayev",
+        "Kazakhstan",
+        "Talking points",
+        "Nuclear inheritance"
+      ]
+    },
+    {
+      "date": "1992-08-26",
+      "title": "Freedom Support Act",
+      "naid": "470761822",
+      "localIdentifier": "30528-003",
+      "topics": [
+        "FREEDOM Support Act",
+        "Yeltsin",
+        "Congress",
+        "Aid implementation"
+      ]
+    },
+    {
+      "date": "1992-09-02",
+      "title": "FREEDOM Support Act Conference Papers",
+      "naid": "470761828",
+      "localIdentifier": "30529-004",
+      "topics": [
+        "FREEDOM Support Act",
+        "Conference papers",
+        "Congress",
+        "Assistance"
+      ]
+    },
+    {
+      "date": "1992-09-01",
+      "title": "Draft Eagleburger letter to Conferees",
+      "naid": "470761828",
+      "localIdentifier": "30529-004",
+      "topics": [
+        "FREEDOM Support Act",
+        "Eagleburger",
+        "Congress",
+        "Assistance"
+      ]
+    },
+    {
+      "date": "1992-10-14",
+      "title": "US Interests and Options",
+      "naid": "470761831",
+      "localIdentifier": "30530-002",
+      "topics": [
+        "U.S. interests",
+        "Russia policy",
+        "Deputies Committee",
+        "Transition"
+      ]
+    },
+    {
+      "date": "1992-10-09",
+      "title": "Proposed Message to Ambassador Strauss",
+      "naid": "470761831",
+      "localIdentifier": "30530-002",
+      "topics": [
+        "Strauss",
+        "Russia",
+        "U.S. interests",
+        "Moscow Embassy"
+      ]
+    },
+    {
+      "date": "1992-12-02",
+      "title": "Significant US Commitments to Russia",
+      "naid": "470761838",
+      "localIdentifier": "30531-004",
+      "topics": [
+        "Russia",
+        "Transition",
+        "U.S. commitments",
+        "Aid implementation"
+      ]
+    },
+    {
+      "date": "1992-12-01",
+      "title": "US Commitments and Obligations to Ukraine",
+      "naid": "470761838",
+      "localIdentifier": "30531-004",
+      "topics": [
+        "Ukraine",
+        "Transition",
+        "Nuclear inheritance",
+        "U.S. commitments"
+      ]
+    },
+    {
+      "date": "1993-01-15",
+      "title": "Ukraine",
+      "naid": "470761839",
+      "localIdentifier": "30531-005",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Transition",
+        "Presidential correspondence"
+      ]
+    },
+    {
+      "date": "1993-01-14",
+      "title": "Letter to Ukrainian President Kravchuk",
+      "naid": "470761839",
+      "localIdentifier": "30531-005",
+      "topics": [
+        "Ukraine",
+        "Kravchuk",
+        "Nuclear inheritance",
+        "Transition"
+      ]
+    }
+  ],
+  "totalRecords": 1267
+}

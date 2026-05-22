@@ -22,6 +22,7 @@ The official Office of the Historian status page lists the volume as **Being Res
 - Reconciles Google Drive Scowcroft source-copy hits against official NARA/Bush Library Scowcroft file units and replaces internal source-harvest notes with stable catalog citations on the public page.
 - Adds a NARA Scowcroft document-extraction pass that promotes named memoranda, cables, talking points, meeting briefs, and presidential messages out of Scowcroft file-unit PDFs.
 - Adds a GovInfo Public Papers reference index for George H. W. Bush statements touching the Soviet Union, Russia, former Soviet republics, NIS/CIS, START, CFE, Nunn-Lugar, Lisbon, and FREEDOM Support.
+- Adds a public-statement source-map pass that turns the strongest Bush public statements into archival policy-packet leads and adds supplemental NARA Central Chronology document candidates.
 - Tracks Elizabeth C. Charles's Reagan-era Soviet volumes as compiler precedents for arrangement, source notes, and selection density.
 
 ## Local Preview
@@ -106,6 +107,12 @@ The GovInfo Public Papers reference pass adds a broader public-statement index f
 - 1991 Book I, 1992 Book I, and 1992 Book II use GovInfo item-level HTML links; 1989, 1990, and 1991 Book II use the official GovInfo package PDFs plus the local OCR text cache to split individual statements where GovInfo exposes only full-volume files.
 - These rows are reference anchors for public chronology and do not replace archival memoranda or inflate the Volume IV policy-memorandum count.
 
+The public-anchor policy pass uses the GovInfo Public Papers index the same way the companion compiler pages use public statements: as triggers for internal source packets, not as final FRUS documents. It adds 59 records:
+
+- 1 source-map lead preserving the comparison across GovInfo, NARA, Bush Library, Scowcroft, Daily File, NSC/DC, NSD/NSR, Central Chronology, and FRUS XXXI source families.
+- 32 public-statement anchored policy-packet leads, including Afghanistan, CFE/START, Malta, Lithuania, Baltic leaders, Soviet food and economic assistance, the August coup, Presidential Nuclear Initiatives, CIS recognition, Yeltsin/Kravchuk/Nazarbayev visits, FREEDOM Support, START II, and final nonproliferation handoff records.
+- 26 supplemental NARA Central Chronology named document candidates, including CFE/START presidential correspondence, U.S. policy on the USSR, grain-credit papers, post-coup implications, allied food-assistance messages, Yeltsin letter and call packets, Baker's Asian republics trip, Nazarbayev briefing/talking points, FREEDOM Support conference papers, Strauss message material, and late-1992 Russia/Ukraine commitments.
+
 The Central Chronological Files pass searches the NSC European and Eurasian Directorate series, NAID 374000108. The newer pass uses NARA's child-record endpoint for the series, harvests all 185 online file units from 1989-1993, and mines the OCR/withdrawal-sheet text locally. It extracted 1,336 named policy-document candidates and stages the strongest Russia/FSU policy leads as document-level records. The curated seed adds 80 records:
 
 - 1 source lead preserving the collection-specific crawl, query log, OCR candidate count, and NARA series source trail.
@@ -158,6 +165,7 @@ Generated reports:
 - `reports/google-drive-public-papers-cheney-seed.json`
 - `reports/govinfo-public-papers-russia-fsu.json`
 - `reports/govinfo-public-papers-russia-fsu-seed.json`
+- `reports/public-anchor-policy-leads-seed.json`
 - `reports/central-chronology-374000108-search.json`
 - `reports/central-chronology-374000108-seed.json`
 - `reports/frus1981-88-soviet-precedents.json`
@@ -173,6 +181,7 @@ node 89-92-RussiaFSU-Policy/scripts/mine-frus31-cited-collections.js
 node 89-92-RussiaFSU-Policy/scripts/seed-frus31-cited-collections.js
 node 89-92-RussiaFSU-Policy/scripts/seed-google-drive-public-papers.js
 node 89-92-RussiaFSU-Policy/scripts/seed-govinfo-public-papers.js
+node 89-92-RussiaFSU-Policy/scripts/seed-public-anchor-policy-leads.js
 node 89-92-RussiaFSU-Policy/scripts/harvest-central-chronology.js
 node 89-92-RussiaFSU-Policy/scripts/seed-central-chronology.js
 node 89-92-RussiaFSU-Policy/scripts/mine-frus-soviet-precedents.js
