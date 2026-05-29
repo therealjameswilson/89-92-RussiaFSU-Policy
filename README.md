@@ -13,6 +13,7 @@ The official Office of the Historian status page lists the volume as **Being Res
 - Stages released Volume III high-level-contact records as cross-volume anchors.
 - Separates Volume IV policy memoranda/leads from source leads and companion-volume anchors.
 - Keeps NAIDs, catalog URLs, PDF URLs, source series, release status, and next compiler actions visible.
+- Makes the declassified-document chronology the first page section, limited to dated records with official NAIDs and released PDFs.
 - Keeps the Volume III/Volume IV boundary explicit so summit memcons are not double-counted as policy-volume candidates.
 - Seeds the policy queue with NSD/NSR directives, Deputies Committee files, Scowcroft/Rice strategy memoranda, Nunn-Lugar source copies, Russia/NIS briefing books, and OSTP science-technology files.
 - Preserves a NARA Scout search trail for broad Bush 41 Russia/FSU discovery, including declassified PDFs, withdrawal/MDR leads, and Daily File control packets.

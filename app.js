@@ -6,6 +6,11 @@ const CHAPTER_ORDER = [
 ];
 
 const recordsRoot = document.querySelector("#records-root");
+const chronologyRoot = document.querySelector("#declassified-chronology-root");
+const chronologyTotal = document.querySelector("#chronology-total");
+const chronologyPolicy = document.querySelector("#chronology-policy");
+const chronologyAnchors = document.querySelector("#chronology-anchors");
+const chronologySources = document.querySelector("#chronology-sources");
 const totalRecords = document.querySelector("#total-records");
 const candidateDocuments = document.querySelector("#candidate-documents");
 const countedPages = document.querySelector("#counted-pages");
@@ -29,6 +34,7 @@ let allRecords = [];
 let activeTypeFilter = "all";
 
 const POLICY_RECORD_TYPES = new Set(["Policy Lead", "Policy Memorandum"]);
+const DECLASSIFIED_CHRONOLOGY_TYPES = new Set(["Policy Memorandum", "Policy Lead", "Memcon", "Telcon"]);
 
 function chapterId(chapterName) {
   return `chapter-${chapterName.toLowerCase().replaceAll(",", "").replaceAll(" ", "-")}`;
@@ -175,6 +181,143 @@ function renderWorkbench(records) {
 
   if (sourceCopySummary) {
     sourceCopySummary.textContent = `${released} released Volume III contact PDFs and ${leads} Volume IV policy memoranda/source leads are staged for cross-volume review.`;
+  }
+}
+
+function byDateThenTitle(a, b) {
+  return (
+    (a.sortDate || a.date).localeCompare(b.sortDate || b.date) ||
+    (a.sortOrder || 0) - (b.sortOrder || 0) ||
+    a.title.localeCompare(b.title)
+  );
+}
+
+function declassifiedChronologyRecords(records) {
+  return records
+    .filter(
+      (record) =>
+        record.naid &&
+        record.pdfUrl &&
+        DECLASSIFIED_CHRONOLOGY_TYPES.has(record.type) &&
+        !/Public Statement|Source Lead/i.test(record.type)
+    )
+    .sort(byDateThenTitle);
+}
+
+function chronologyRole(record) {
+  if (isConversationCandidate(record)) return "Volume III contact anchor";
+  if (POLICY_RECORD_TYPES.has(record.type)) return "Volume IV policy candidate";
+  return "Released document";
+}
+
+function createChronologyItem(record) {
+  const item = document.createElement("article");
+  item.className = "chronology-item";
+
+  const date = document.createElement("time");
+  date.className = "chronology-date";
+  date.dateTime = record.date;
+  date.textContent = formatDate(record.date);
+
+  const body = document.createElement("div");
+  body.className = "chronology-body";
+
+  const title = document.createElement("a");
+  title.className = "chronology-title";
+  title.href = record.catalogUrl || record.pdfUrl;
+  title.rel = "noreferrer";
+  title.textContent = record.documentTitle || record.title;
+
+  const meta = document.createElement("p");
+  meta.className = "chronology-meta";
+  meta.textContent = [
+    chronologyRole(record),
+    record.type,
+    record.naid ? `NAID ${record.naid}` : "",
+    recordSourceLabel(record)
+  ]
+    .filter(Boolean)
+    .join(" / ");
+
+  const subject = document.createElement("p");
+  subject.className = "chronology-subject";
+  subject.textContent = record.subjectLine || record.dateLine || record.releaseStatus || "";
+
+  body.append(title, meta);
+  if (subject.textContent) body.append(subject);
+
+  const links = document.createElement("div");
+  links.className = "chronology-links";
+
+  if (record.catalogUrl) {
+    const catalog = document.createElement("a");
+    catalog.href = record.catalogUrl;
+    catalog.rel = "noreferrer";
+    catalog.textContent = "Catalog";
+    links.append(catalog);
+  }
+
+  if (record.pdfUrl) {
+    const pdf = document.createElement("a");
+    pdf.href = record.pdfUrl;
+    pdf.rel = "noreferrer";
+    pdf.target = "_blank";
+    pdf.textContent = "PDF";
+    links.append(pdf);
+  }
+
+  item.append(date, body, links);
+  return item;
+}
+
+function renderDeclassifiedChronology(records) {
+  if (!chronologyRoot) return;
+
+  const chronologyRecords = declassifiedChronologyRecords(records);
+  const policyRecords = chronologyRecords.filter((record) => POLICY_RECORD_TYPES.has(record.type));
+  const anchorRecords = chronologyRecords.filter(isConversationCandidate);
+  const sourceCount = new Set(chronologyRecords.map(recordSourceLabel)).size;
+
+  setText(chronologyTotal, chronologyRecords.length);
+  setText(chronologyPolicy, policyRecords.length);
+  setText(chronologyAnchors, anchorRecords.length);
+  setText(chronologySources, sourceCount);
+
+  chronologyRoot.replaceChildren();
+
+  if (!chronologyRecords.length) {
+    chronologyRoot.innerHTML = '<p class="loading">No declassified records are currently staged.</p>';
+    return;
+  }
+
+  const byYear = new Map();
+  for (const record of chronologyRecords) {
+    const year = record.date.slice(0, 4);
+    if (!byYear.has(year)) byYear.set(year, []);
+    byYear.get(year).push(record);
+  }
+
+  for (const [year, yearRecords] of byYear) {
+    const section = document.createElement("section");
+    section.className = "chronology-year";
+
+    const header = document.createElement("div");
+    header.className = "chronology-year-header";
+
+    const heading = document.createElement("h3");
+    heading.textContent = year;
+
+    const count = document.createElement("p");
+    count.textContent = `${yearRecords.length} released record${yearRecords.length === 1 ? "" : "s"}`;
+
+    header.append(heading, count);
+
+    const list = document.createElement("div");
+    list.className = "chronology-list";
+    for (const record of yearRecords) list.append(createChronologyItem(record));
+
+    section.append(header, list);
+    chronologyRoot.append(section);
   }
 }
 
@@ -473,6 +616,7 @@ async function init() {
     allRecords = window.MEMCONS || window.MEMCON_RECORDS || (await loadRecords());
     setChapterCounts(allRecords);
     populateCompilerControls(allRecords);
+    renderDeclassifiedChronology(allRecords);
     renderWorkbench(allRecords);
     renderRecords(allRecords);
     enableFilters();

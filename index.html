@@ -18,6 +18,7 @@
         <span>Russia/FSU Policy Files</span>
       </a>
       <nav aria-label="Primary navigation">
+        <a href="#chronology">Chronology</a>
         <a href="#workbench">Workbench</a>
         <a href="#chapters">Chapters</a>
         <a href="#collection">Collection</a>
@@ -43,7 +44,7 @@
             arms control, collapse, Russia, and the post-Soviet republics.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
-            <a class="button primary" href="#workbench">Open Workbench</a>
+            <a class="button primary" href="#chronology">Open Chronology</a>
             <a class="button secondary" href="#records" data-quick-filter="lead">Policy Memos</a>
           </div>
         </div>
@@ -73,6 +74,44 @@
             </div>
           </dl>
         </aside>
+      </section>
+
+      <section class="section chronology-section" id="chronology" aria-labelledby="chronology-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Declassified Chronology</p>
+            <h2 id="chronology-title">Released Documents First</h2>
+          </div>
+          <a class="section-link" href="#records" data-quick-filter="released">
+            Open full released set
+          </a>
+        </div>
+        <p class="records-intro">
+          This is the front-door sequence for compiler work: dated records with official
+          NAIDs and released PDFs, sorted chronologically before source queues,
+          public-statement references, and unresolved research leads.
+        </p>
+        <div class="chronology-metrics" aria-label="Declassified chronology metrics">
+          <div>
+            <span id="chronology-total">0</span>
+            <p>released records</p>
+          </div>
+          <div>
+            <span id="chronology-policy">0</span>
+            <p>policy candidates</p>
+          </div>
+          <div>
+            <span id="chronology-anchors">0</span>
+            <p>contact anchors</p>
+          </div>
+          <div>
+            <span id="chronology-sources">0</span>
+            <p>source series</p>
+          </div>
+        </div>
+        <div id="declassified-chronology-root" class="chronology-root" aria-live="polite">
+          <p class="loading">Loading declassified chronology...</p>
+        </div>
       </section>
 
       <section class="stats" aria-label="Archive summary">

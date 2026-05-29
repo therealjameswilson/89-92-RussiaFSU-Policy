@@ -297,6 +297,155 @@ dd {
   font-weight: 800;
 }
 
+.section.chronology-section {
+  padding-top: 38px;
+}
+
+.chronology-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin: 24px 0;
+}
+
+.chronology-metrics div {
+  padding: 18px;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.chronology-metrics span {
+  display: block;
+  color: var(--navy);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.7rem, 3vw, 2.5rem);
+  font-weight: 800;
+  line-height: 1;
+}
+
+.chronology-metrics p {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-weight: 800;
+}
+
+.chronology-root {
+  display: grid;
+  gap: 28px;
+}
+
+.chronology-year {
+  display: grid;
+  gap: 10px;
+}
+
+.chronology-year-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--navy);
+}
+
+.chronology-year-header h3 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+}
+
+.chronology-year-header p {
+  margin: 0;
+  color: var(--muted);
+  font-weight: 900;
+}
+
+.chronology-list {
+  display: grid;
+  gap: 8px;
+}
+
+.chronology-item {
+  display: grid;
+  grid-template-columns: 132px minmax(0, 1fr) auto;
+  gap: 16px;
+  align-items: start;
+  min-height: auto;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.86);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--green);
+  border-radius: 8px;
+  box-shadow: 0 10px 22px rgba(22, 31, 43, 0.07);
+}
+
+.chronology-date {
+  color: var(--red);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.02rem;
+  font-weight: 800;
+}
+
+.chronology-title {
+  display: block;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  font-weight: 900;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.chronology-title:hover,
+.chronology-title:focus-visible {
+  color: var(--navy);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  outline: none;
+}
+
+.chronology-meta,
+.chronology-subject {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 800;
+  line-height: 1.45;
+}
+
+.chronology-subject {
+  font-weight: 700;
+}
+
+.chronology-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: flex-end;
+}
+
+.chronology-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  padding: 0 10px;
+  color: var(--navy);
+  font-size: 0.78rem;
+  font-weight: 900;
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.chronology-links a:hover,
+.chronology-links a:focus-visible {
+  border-color: rgba(37, 54, 79, 0.45);
+  outline: none;
+}
+
 .section {
   padding: 70px 0;
   border-top: 1px solid var(--line);
@@ -944,7 +1093,8 @@ footer a {
     grid-template-columns: 1fr;
   }
 
-  .stats {
+  .stats,
+  .chronology-metrics {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -963,11 +1113,13 @@ footer a {
     grid-template-columns: 1fr 1fr;
   }
 
-  .record-row {
+  .record-row,
+  .chronology-item {
     grid-template-columns: 112px minmax(0, 1fr);
   }
 
-  .record-links {
+  .record-links,
+  .chronology-links {
     grid-column: 2;
     justify-content: flex-start;
   }
@@ -989,6 +1141,7 @@ footer a {
   }
 
   .stats,
+  .chronology-metrics,
   .feature-grid,
   .chapter-grid,
   .source-list,
@@ -1003,16 +1156,19 @@ footer a {
   }
 
   .section-heading,
-  .record-chapter-header {
+  .record-chapter-header,
+  .chronology-year-header {
     align-items: flex-start;
     flex-direction: column;
   }
 
-  .record-row {
+  .record-row,
+  .chronology-item {
     grid-template-columns: 1fr;
   }
 
-  .record-links {
+  .record-links,
+  .chronology-links {
     grid-column: 1;
   }
 
